@@ -1,0 +1,2001 @@
+Id,tipo,bairro,tipo_vendedor,quartos,suites,vagas,area_util,area_extra,diferenciais
+0,Apartamento,Pina,Imobiliaria,4,4,3,182,0,copa e playground
+1,Apartamento,Tamarineira,Imobiliaria,2,0,1,85,0,nenhum
+2,Apartamento,Boa Viagem,Imobiliaria,3,1,2,115,20,piscina e churrasqueira
+3,Apartamento,Iputinga,Imobiliaria,3,0,1,92,0,nenhum
+4,Apartamento,Engenho do Meio,Imobiliaria,3,1,1,65,0,piscina e copa
+5,Apartamento,Rosarinho,Imobiliaria,2,0,0,62,0,nenhum
+6,Apartamento,Casa Forte,Imobiliaria,3,2,2,107,0,piscina e playground
+7,Apartamento,Cordeiro,Pessoa Fisica,2,1,1,97,0,playground
+8,Apartamento,Boa Viagem,Imobiliaria,2,1,1,50,0,piscina e churrasqueira
+9,Casa,Cordeiro,Imobiliaria,5,2,4,250,200,copa e esquina
+10,Apartamento,Boa Viagem,Imobiliaria,3,1,2,131,0,piscina e churrasqueira
+11,Loft,Boa Viagem,Imobiliaria,3,1,1,151,0,salao de festas
+12,Apartamento,Boa Viagem,Imobiliaria,4,3,3,149,0,piscina e churrasqueira
+13,Apartamento,Torre,Imobiliaria,3,1,1,70,0,estacionamento visitantes e playground
+14,Apartamento,Rosarinho,Imobiliaria,4,2,2,125,55,piscina e esquina
+15,Apartamento,Parnamirim,Imobiliaria,3,1,2,105,0,copa e playground
+16,Apartamento,Boa Viagem,Imobiliaria,2,1,1,61,0,piscina e churrasqueira
+17,Apartamento,Boa Viagem,Imobiliaria,2,1,1,68,0,nenhum
+18,Apartamento,Gracas,Imobiliaria,3,1,1,82,0,nenhum
+19,Apartamento,Casa Forte,Imobiliaria,4,1,2,225,0,playground e quadra poliesportiva
+20,Apartamento,Poco da Panela,Imobiliaria,4,2,2,123,0,copa
+21,Apartamento,Boa Viagem,Imobiliaria,2,1,0,40,0,piscina e sala de ginastica
+22,Apartamento,Boa Viagem,Imobiliaria,2,1,1,70,0,nenhum
+23,Apartamento,Aflitos,Imobiliaria,2,1,1,58,0,piscina e salao de festas
+24,Apartamento,Casa Forte,Imobiliaria,1,0,1,54,0,salao de festas
+25,Apartamento,Boa Viagem,Imobiliaria,2,1,0,55,10,piscina e churrasqueira
+26,Apartamento,Boa Viagem,Imobiliaria,3,1,2,90,0,nenhum
+27,Apartamento,Rosarinho,Imobiliaria,3,1,2,86,0,piscina e playground
+28,Apartamento,Espinheiro,Imobiliaria,4,1,2,208,0,campo de futebol e playground
+29,Apartamento,Boa Viagem,Imobiliaria,4,1,2,185,0,piscina e copa
+30,Apartamento,Rosarinho,Imobiliaria,2,1,1,55,0,piscina e churrasqueira
+31,Apartamento,Madalena,Imobiliaria,4,4,3,215,55,piscina e sauna
+32,Apartamento,Boa Viagem,Imobiliaria,4,4,3,150,119,frente para o mar e playground
+33,Apartamento,Casa Forte,Imobiliaria,4,4,3,220,0,nenhum
+34,Apartamento,Imbiribeira,Imobiliaria,4,4,3,170,0,piscina e churrasqueira
+35,Apartamento,Rosarinho,Imobiliaria,3,1,1,90,0,salao de festas
+36,Apartamento,Gracas,Imobiliaria,3,1,2,77,0,piscina e campo de futebol
+37,Apartamento,Boa Viagem,Imobiliaria,4,4,3,300,0,churrasqueira e sauna
+38,Apartamento,Encruzilhada,Imobiliaria,3,1,2,70,0,playground e salao de festas
+39,Apartamento,Caxanga,Imobiliaria,3,1,2,67,0,piscina e churrasqueira
+40,Apartamento,Boa Viagem,Imobiliaria,4,4,3,330,0,copa e estacionamento visitantes
+41,Apartamento,Torre,Imobiliaria,4,1,2,206,95,copa
+42,Apartamento,Casa Amarela,Imobiliaria,2,1,1,61,30,piscina e churrasqueira
+43,Apartamento,Torre,Imobiliaria,4,4,3,203,0,nenhum
+44,Casa,Prado,Imobiliaria,3,2,3,240,130,piscina
+45,Apartamento,Boa Viagem,Imobiliaria,1,0,2,30,0,estacionamento visitantes
+46,Casa,Cordeiro,Imobiliaria,5,1,30,600,1050,copa
+47,Apartamento,Rosarinho,Imobiliaria,3,1,2,95,0,nenhum
+48,Apartamento,Iputinga,Imobiliaria,3,1,0,64,0,estacionamento visitantes
+49,Apartamento,Casa Forte,Imobiliaria,3,1,1,75,0,piscina e playground
+50,Apartamento,Boa Viagem,Imobiliaria,3,1,2,82,0,nenhum
+51,Apartamento,Boa Viagem,Imobiliaria,2,1,1,52,0,piscina e churrasqueira
+52,Apartamento,Boa Viagem,Imobiliaria,4,1,1,150,0,nenhum
+53,Apartamento,Madalena,Imobiliaria,4,1,2,180,0,piscina e playground
+54,Apartamento,Casa Forte,Imobiliaria,4,3,2,140,0,piscina e churrasqueira
+55,Apartamento,Jd S Paulo,Imobiliaria,3,1,1,65,0,piscina e churrasqueira
+56,Apartamento,Boa Viagem,Imobiliaria,3,1,2,107,63,churrasqueira e sauna
+57,Apartamento,Boa Viagem,Imobiliaria,2,1,2,55,0,piscina e churrasqueira
+58,Apartamento,Parnamirim,Imobiliaria,4,2,2,185,0,nenhum
+59,Apartamento,Espinheiro,Imobiliaria,4,4,3,312,0,copa
+60,Apartamento,Boa Viagem,Imobiliaria,4,4,3,280,0,piscina e churrasqueira
+61,Apartamento,Poco da Panela,Imobiliaria,3,1,2,88,0,piscina e churrasqueira
+62,Apartamento,Pina,Imobiliaria,4,3,2,152,0,piscina e sauna
+63,Apartamento,Boa Viagem,Imobiliaria,4,4,5,401,0,piscina e churrasqueira
+64,Apartamento,Boa Viagem,Imobiliaria,3,1,1,64,0,piscina e churrasqueira
+65,Apartamento,Parnamirim,Imobiliaria,3,1,1,87,0,piscina e churrasqueira
+66,Apartamento,Espinheiro,Imobiliaria,3,1,2,95,0,piscina
+67,Apartamento,Pina,Pessoa Fisica,3,3,3,156,0,piscina e churrasqueira
+68,Apartamento,Boa Viagem,Imobiliaria,4,2,2,131,0,nenhum
+69,Apartamento,Casa Forte,Imobiliaria,3,0,1,80,0,piscina e churrasqueira
+70,Apartamento,Boa Viagem,Imobiliaria,4,4,0,324,31,piscina
+71,Apartamento,Parnamirim,Imobiliaria,2,0,1,45,30,playground e sala de ginastica
+72,Apartamento,Boa Viagem,Imobiliaria,3,1,1,105,0,piscina e churrasqueira
+73,Casa,Cordeiro,Imobiliaria,3,1,2,140,0,copa
+74,Apartamento,Iputinga,Imobiliaria,3,1,1,60,0,piscina e churrasqueira
+75,Apartamento,Jaqueira,Imobiliaria,4,4,4,312,0,piscina e churrasqueira
+76,Apartamento,Madalena,Imobiliaria,2,0,1,72,0,piscina e esquina
+77,Apartamento,Boa Viagem,Imobiliaria,2,1,1,94,0,nenhum
+78,Apartamento,Boa Vista,Imobiliaria,2,0,1,59,14,nenhum
+79,Apartamento,San Martin,Pessoa Fisica,3,1,2,69,0,nenhum
+80,Apartamento,Casa Forte,Imobiliaria,3,1,2,85,0,piscina e churrasqueira
+81,Apartamento,Aflitos,Imobiliaria,3,1,2,72,0,piscina
+82,Apartamento,Campo Grande,Imobiliaria,3,1,1,57,0,playground e salao de festas
+83,Apartamento,Sto Amaro,Imobiliaria,4,4,4,207,0,piscina e sauna
+84,Apartamento,Boa Viagem,Imobiliaria,4,4,4,374,0,copa
+85,Apartamento,Boa Viagem,Imobiliaria,3,1,1,87,0,churrasqueira e salao de festas
+86,Apartamento,Boa Viagem,Imobiliaria,3,1,1,62,0,piscina e churrasqueira
+87,Apartamento,Espinheiro,Imobiliaria,3,1,2,105,0,frente para o mar e esquina
+88,Apartamento,Boa Viagem,Imobiliaria,3,1,2,90,0,nenhum
+89,Apartamento,Cordeiro,Imobiliaria,3,1,1,61,0,piscina e campo de futebol
+90,Apartamento,Boa Viagem,Imobiliaria,3,1,1,128,0,piscina e sauna
+91,Apartamento,Boa Viagem,Imobiliaria,3,3,2,132,0,nenhum
+92,Apartamento,Ibura,Imobiliaria,2,0,1,47,0,nenhum
+93,Apartamento,Setubal,Imobiliaria,2,1,1,47,0,piscina e campo de futebol
+94,Apartamento,Boa Viagem,Imobiliaria,1,0,0,25,0,piscina
+95,Apartamento,Rosarinho,Imobiliaria,4,1,2,193,37,playground
+96,Apartamento,Encruzilhada,Imobiliaria,4,4,2,149,0,piscina e churrasqueira
+97,Casa,Poco da Panela,Imobiliaria,4,4,4,270,280,copa
+98,Apartamento,Espinheiro,Imobiliaria,2,1,2,57,0,piscina e estacionamento visitantes
+99,Apartamento,Boa Viagem,Imobiliaria,3,1,2,100,0,piscina e esquina
+100,Apartamento,Engenho do Meio,Imobiliaria,3,1,2,139,0,churrasqueira
+101,Apartamento,Madalena,Imobiliaria,3,1,1,65,0,piscina e playground
+102,Apartamento,Casa Forte,Imobiliaria,4,4,3,205,0,quadra poliesportiva e salao de festas
+103,Apartamento,Boa Viagem,Imobiliaria,4,1,2,170,0,nenhum
+104,Apartamento,Jaqueira,Imobiliaria,3,1,2,66,0,piscina e playground
+105,Apartamento,Boa Viagem,Imobiliaria,3,3,2,142,0,nenhum
+106,Apartamento,Boa Viagem,Imobiliaria,4,2,2,131,0,piscina e churrasqueira
+107,Apartamento,Boa Viagem,Imobiliaria,4,3,2,201,0,salao de festas
+108,Apartamento,Campo Grande,Imobiliaria,3,1,1,64,30,piscina e playground
+109,Apartamento,Madalena,Imobiliaria,3,1,2,92,0,piscina e churrasqueira
+110,Apartamento,Rosarinho,Imobiliaria,3,1,1,72,0,piscina e sauna
+111,Apartamento,Setubal,Imobiliaria,4,2,2,130,20,piscina e sauna
+112,Casa,Varzea,Imobiliaria,2,1,1,93,0,copa
+113,Apartamento,Torre,Imobiliaria,3,1,1,77,0,playground e sala de ginastica
+114,Apartamento,Rosarinho,Imobiliaria,4,2,0,117,0,piscina e sauna
+115,Apartamento,Casa Forte,Imobiliaria,2,1,1,74,0,copa e salao de festas
+116,Apartamento,Casa Amarela,Imobiliaria,3,1,2,96,0,nenhum
+117,Apartamento,Boa Viagem,Imobiliaria,4,4,4,401,0,churrasqueira e sauna
+118,Apartamento,Madalena,Pessoa Fisica,4,4,2,147,0,churrasqueira e children care
+119,Apartamento,Encruzilhada,Imobiliaria,2,1,1,62,0,nenhum
+120,Apartamento,Boa Viagem,Imobiliaria,4,2,4,450,0,churrasqueira e copa
+121,Apartamento,Boa Viagem,Imobiliaria,2,1,1,47,34,salao de festas
+122,Apartamento,Boa Viagem,Imobiliaria,4,0,2,120,0,nenhum
+123,Apartamento,Caxanga,Imobiliaria,2,0,1,68,0,piscina e churrasqueira
+124,Apartamento,Setubal,Imobiliaria,2,0,1,53,0,piscina e churrasqueira
+125,Apartamento,Casa Amarela,Imobiliaria,3,2,2,105,0,piscina e churrasqueira
+126,Apartamento,Boa Viagem,Imobiliaria,3,1,1,90,9,nenhum
+127,Apartamento,Madalena,Imobiliaria,4,4,4,207,0,piscina e sauna
+128,Apartamento,Boa Viagem,Imobiliaria,1,1,1,35,0,piscina e sauna
+129,Apartamento,Gracas,Imobiliaria,4,3,3,182,0,nenhum
+130,Casa,Dois Irmaos,Imobiliaria,4,4,0,187,28,piscina e churrasqueira
+131,Apartamento,Jaqueira,Imobiliaria,5,5,5,312,0,piscina e churrasqueira
+132,Casa,Imbiribeira,Imobiliaria,4,1,3,161,139,nenhum
+133,Casa,Gracas,Imobiliaria,4,1,4,520,0,churrasqueira
+134,Apartamento,Torre,Imobiliaria,4,4,3,203,0,piscina e churrasqueira
+135,Apartamento,Madalena,Imobiliaria,3,1,2,98,49,playground e quadra poliesportiva
+136,Apartamento,Boa Viagem,Imobiliaria,3,1,0,100,0,playground e salao de festas
+137,Casa,Derby,Imobiliaria,5,2,6,800,0,nenhum
+138,Apartamento,Espinheiro,Imobiliaria,4,2,2,160,82,playground e salao de festas
+139,Apartamento,Boa Viagem,Imobiliaria,3,1,1,66,0,piscina e churrasqueira
+140,Apartamento,Boa Viagem,Imobiliaria,4,4,3,370,0,nenhum
+141,Apartamento,Boa Viagem,Imobiliaria,3,1,1,81,30,piscina e churrasqueira
+142,Apartamento,Boa Viagem,Imobiliaria,2,0,0,108,0,nenhum
+143,Apartamento,Casa Forte,Imobiliaria,3,3,3,215,0,playground e quadra poliesportiva
+144,Apartamento,Encruzilhada,Imobiliaria,2,2,1,58,0,piscina e sauna
+145,Apartamento,Aflitos,Imobiliaria,3,1,2,110,25,nenhum
+146,Apartamento,Gracas,Imobiliaria,2,0,1,75,0,nenhum
+147,Apartamento,Casa Forte,Imobiliaria,4,4,3,300,0,piscina e sauna
+148,Apartamento,Espinheiro,Imobiliaria,3,1,2,125,0,playground e salao de festas
+149,Apartamento,Madalena,Imobiliaria,4,4,3,153,0,piscina e churrasqueira
+150,Apartamento,Espinheiro,Imobiliaria,3,1,1,126,0,nenhum
+151,Apartamento,Boa Viagem,Imobiliaria,3,1,2,119,31,sauna e playground
+152,Apartamento,Boa Viagem,Imobiliaria,4,1,2,180,0,playground e salao de festas
+153,Apartamento,Rosarinho,Imobiliaria,4,2,2,113,0,piscina e sauna
+154,Apartamento,Boa Viagem,Imobiliaria,3,1,2,80,0,nenhum
+155,Casa,Iputinga,Imobiliaria,3,1,2,200,0,nenhum
+156,Apartamento,Rosarinho,Imobiliaria,3,1,2,80,0,piscina e salao de festas
+157,Apartamento,Tamarineira,Imobiliaria,3,1,1,77,0,piscina e churrasqueira
+158,Apartamento,Casa Amarela,Imobiliaria,3,1,2,96,0,piscina e playground
+159,Apartamento,Parnamirim,Imobiliaria,4,4,4,315,0,piscina e churrasqueira
+160,Apartamento,Ilha do Retiro,Imobiliaria,4,3,3,225,0,sauna e quadra poliesportiva
+161,Apartamento,Espinheiro,Imobiliaria,3,1,2,77,0,piscina e campo de futebol
+162,Apartamento,Boa Viagem,Imobiliaria,4,2,2,225,0,estacionamento visitantes e salao de jogos
+163,Apartamento,Torre,Imobiliaria,3,1,2,83,0,salao de festas e salao de jogos
+164,Apartamento,Torre,Imobiliaria,2,1,0,51,0,piscina e sauna
+165,Apartamento,Sto Amaro,Imobiliaria,2,1,1,57,0,piscina e churrasqueira
+166,Apartamento,Torre,Imobiliaria,3,0,2,106,0,piscina e churrasqueira
+167,Apartamento,Casa Amarela,Imobiliaria,3,1,2,94,0,piscina e sauna
+168,Apartamento,Cordeiro,Imobiliaria,3,1,1,80,0,piscina e playground
+169,Apartamento,Tamarineira,Imobiliaria,4,2,3,240,0,nenhum
+170,Apartamento,Aflitos,Imobiliaria,3,1,2,125,0,playground e salao de festas
+171,Apartamento,Espinheiro,Imobiliaria,3,1,1,79,0,piscina e playground
+172,Apartamento,Boa Viagem,Imobiliaria,3,1,2,118,0,piscina e churrasqueira
+173,Apartamento,Casa Forte,Imobiliaria,3,2,2,110,0,piscina e churrasqueira
+174,Apartamento,Boa Viagem,Imobiliaria,3,1,2,87,0,piscina e churrasqueira
+175,Apartamento,Gracas,Imobiliaria,4,4,3,398,0,piscina e churrasqueira
+176,Apartamento,Casa Forte,Imobiliaria,4,2,2,107,0,piscina e churrasqueira
+177,Apartamento,Encruzilhada,Imobiliaria,3,1,1,62,0,piscina e churrasqueira
+178,Apartamento,Sto Amaro,Imobiliaria,4,4,3,174,0,sauna e playground
+179,Apartamento,Torre,Imobiliaria,3,0,0,75,0,nenhum
+180,Apartamento,Casa Amarela,Imobiliaria,4,2,2,186,0,playground e salao de festas
+181,Apartamento,Boa Viagem,Imobiliaria,3,1,1,72,0,churrasqueira e sauna
+182,Apartamento,Boa Viagem,Imobiliaria,4,4,3,264,0,frente para o mar e copa
+183,Apartamento,Boa Viagem,Imobiliaria,3,1,2,135,0,playground e salao de festas
+184,Apartamento,Boa Viagem,Imobiliaria,3,2,2,107,0,piscina e sauna
+185,Apartamento,Casa Amarela,Imobiliaria,3,1,1,79,0,piscina e churrasqueira
+186,Apartamento,Boa Viagem,Imobiliaria,4,1,1,120,30,nenhum
+187,Apartamento,Espinheiro,Imobiliaria,3,1,2,80,0,piscina e playground
+188,Apartamento,Ilha do Retiro,Imobiliaria,3,3,3,225,0,piscina e churrasqueira
+189,Apartamento,Casa Amarela,Imobiliaria,2,1,1,58,0,piscina e churrasqueira
+190,Apartamento,Jaqueira,Imobiliaria,4,4,3,276,0,salao de festas
+191,Casa,Apipucos,Imobiliaria,4,3,0,260,430,nenhum
+192,Apartamento,Gracas,Imobiliaria,2,0,1,66,0,playground
+193,Apartamento,Gracas,Imobiliaria,3,0,1,85,0,piscina e copa
+194,Apartamento,Iputinga,Imobiliaria,3,1,1,71,0,piscina e copa
+195,Apartamento,Madalena,Imobiliaria,4,3,3,119,0,piscina e copa
+196,Apartamento,Boa Vista,Imobiliaria,1,0,1,36,0,piscina e churrasqueira
+197,Apartamento,Parnamirim,Imobiliaria,4,3,3,307,0,playground e salao de festas
+198,Apartamento,Casa Amarela,Imobiliaria,2,1,1,48,0,piscina e playground
+199,Apartamento,Parnamirim,Imobiliaria,3,1,2,108,0,nenhum
+200,Apartamento,Boa Viagem,Imobiliaria,4,4,2,180,0,piscina e sauna
+201,Apartamento,Madalena,Imobiliaria,3,0,1,84,0,nenhum
+202,Apartamento,Rosarinho,Imobiliaria,3,1,2,100,0,piscina e playground
+203,Apartamento,Setubal,Imobiliaria,4,2,3,247,136,churrasqueira e sauna
+204,Apartamento,Setubal,Imobiliaria,3,2,2,105,0,piscina e esquina
+205,Apartamento,Parnamirim,Imobiliaria,2,0,1,44,0,sala de ginastica e salao de festas
+206,Apartamento,Imbiribeira,Imobiliaria,2,0,1,45,0,nenhum
+207,Apartamento,Boa Viagem,Imobiliaria,3,1,1,63,0,nenhum
+208,Apartamento,Boa Viagem,Imobiliaria,4,2,2,230,0,nenhum
+209,Apartamento,Jaqueira,Imobiliaria,4,4,3,187,0,piscina e churrasqueira
+210,Apartamento,Derby,Imobiliaria,4,1,2,164,0,copa e playground
+211,Apartamento,Boa Viagem,Imobiliaria,4,4,4,303,0,nenhum
+212,Apartamento,Monteiro,Imobiliaria,3,1,2,80,0,piscina e sauna
+213,Apartamento,Madalena,Imobiliaria,3,1,2,86,0,piscina e sauna
+214,Apartamento,Boa Viagem,Imobiliaria,5,1,3,316,0,copa e salao de festas
+215,Apartamento,Casa Amarela,Imobiliaria,3,1,1,57,0,piscina e playground
+216,Apartamento,Torre,Imobiliaria,2,0,1,51,0,piscina e churrasqueira
+217,Apartamento,Jaqueira,Imobiliaria,4,1,1,160,0,nenhum
+218,Apartamento,Boa Viagem,Imobiliaria,3,1,2,83,0,piscina e churrasqueira
+219,Apartamento,Boa Viagem,Imobiliaria,2,1,0,70,0,nenhum
+220,Apartamento,Casa Forte,Imobiliaria,3,1,2,88,0,piscina e churrasqueira
+221,Apartamento,Boa Viagem,Imobiliaria,4,2,2,127,0,piscina e churrasqueira
+222,Casa,Poco da Panela,Imobiliaria,5,5,3,940,12060,piscina e churrasqueira
+223,Apartamento,Boa Viagem,Imobiliaria,2,1,1,45,0,piscina e salao de festas
+224,Apartamento,Casa Amarela,Imobiliaria,2,1,1,58,0,piscina
+225,Apartamento,Jaqueira,Imobiliaria,3,1,1,127,0,playground e salao de festas
+226,Apartamento,Pina,Imobiliaria,2,1,1,57,0,piscina
+227,Apartamento,Aflitos,Imobiliaria,3,1,2,106,0,piscina e campo de futebol
+228,Apartamento,Pina,Imobiliaria,4,4,4,2735,0,piscina e sauna
+229,Apartamento,Boa Viagem,Pessoa Fisica,3,1,2,100,20,copa e playground
+230,Apartamento,Boa Viagem,Imobiliaria,2,1,1,60,0,piscina e churrasqueira
+231,Apartamento,Aflitos,Imobiliaria,3,1,1,116,0,frente para o mar
+232,Apartamento,Encruzilhada,Imobiliaria,3,1,1,61,0,nenhum
+233,Apartamento,Boa Viagem,Imobiliaria,3,1,2,108,0,piscina e churrasqueira
+234,Apartamento,Aflitos,Imobiliaria,3,1,2,110,0,salao de festas
+235,Apartamento,Gracas,Imobiliaria,1,1,1,36,0,churrasqueira e salao de festas
+236,Apartamento,Boa Viagem,Imobiliaria,4,2,2,144,0,playground e salao de festas
+237,Apartamento,Boa Viagem,Imobiliaria,4,4,3,150,87,piscina e frente para o mar
+238,Apartamento,Sto Amaro,Imobiliaria,4,4,3,176,0,piscina e churrasqueira
+239,Apartamento,Boa Viagem,Imobiliaria,3,1,2,89,0,piscina e churrasqueira
+240,Apartamento,Boa Viagem,Imobiliaria,4,3,2,135,0,nenhum
+241,Apartamento,Casa Amarela,Imobiliaria,2,0,1,64,0,nenhum
+242,Apartamento,Boa Viagem,Imobiliaria,3,1,2,86,0,piscina e copa
+243,Apartamento,Casa Amarela,Imobiliaria,3,1,2,71,0,piscina e churrasqueira
+244,Apartamento,Setubal,Imobiliaria,4,3,0,125,0,churrasqueira e sauna
+245,Apartamento,Cordeiro,Imobiliaria,2,1,1,62,0,piscina e copa
+246,Casa,Boa Viagem,Imobiliaria,3,1,3,125,100,copa
+247,Apartamento,Boa Viagem,Imobiliaria,3,1,2,100,0,piscina e sauna
+248,Apartamento,Boa Viagem,Imobiliaria,3,1,1,103,47,piscina e churrasqueira
+249,Apartamento,Boa Viagem,Imobiliaria,4,3,2,135,0,piscina e sauna
+250,Apartamento,Jaqueira,Imobiliaria,4,4,3,220,0,piscina e playground
+251,Apartamento,Torre,Imobiliaria,2,1,1,100,0,churrasqueira
+252,Apartamento,Boa Viagem,Imobiliaria,3,1,2,86,0,piscina e salao de festas
+253,Apartamento,Boa Viagem,Imobiliaria,3,1,2,98,22,piscina e churrasqueira
+254,Apartamento,Casa Amarela,Imobiliaria,3,1,2,108,0,piscina e churrasqueira
+255,Apartamento,Boa Viagem,Imobiliaria,3,1,2,128,0,piscina e salao de festas
+256,Apartamento,Espinheiro,Imobiliaria,2,1,1,45,0,piscina e churrasqueira
+257,Apartamento,Madalena,Imobiliaria,4,2,2,168,0,salao de festas
+258,Apartamento,Boa Viagem,Imobiliaria,4,4,3,312,177,nenhum
+259,Apartamento,Boa Viagem,Imobiliaria,4,3,0,143,0,piscina e playground
+260,Apartamento,Pina,Imobiliaria,2,1,2,84,0,piscina e playground
+261,Apartamento,Casa Forte,Imobiliaria,3,1,2,105,0,piscina e esquina
+262,Apartamento,Tamarineira,Imobiliaria,3,0,1,80,0,salao de festas
+263,Apartamento,Boa Viagem,Imobiliaria,3,3,2,164,0,frente para o mar e salao de festas
+264,Apartamento,Arruda,Imobiliaria,2,1,1,58,0,piscina e esquina
+265,Apartamento,Boa Viagem,Imobiliaria,2,1,2,70,20,piscina e churrasqueira
+266,Apartamento,Parnamirim,Imobiliaria,2,1,1,57,0,piscina e churrasqueira
+267,Apartamento,Parnamirim,Imobiliaria,3,2,2,120,0,playground e salao de festas
+268,Apartamento,Boa Viagem,Imobiliaria,3,0,0,75,0,piscina e quadra poliesportiva
+269,Apartamento,Torre,Imobiliaria,4,4,3,203,0,piscina e churrasqueira
+270,Apartamento,Setubal,Imobiliaria,3,1,1,74,10,piscina e churrasqueira
+271,Apartamento,Derby,Imobiliaria,4,1,2,125,0,piscina e sauna
+272,Apartamento,Madalena,Imobiliaria,4,2,2,110,0,piscina e playground
+273,Apartamento,Casa Amarela,Imobiliaria,3,1,2,77,0,piscina e churrasqueira
+274,Apartamento,Madalena,Imobiliaria,3,1,2,79,0,piscina e churrasqueira
+275,Apartamento,Boa Viagem,Imobiliaria,3,1,1,96,15,salao de festas
+276,Apartamento,Encruzilhada,Imobiliaria,3,0,1,116,0,nenhum
+277,Apartamento,Ilha do Retiro,Imobiliaria,4,3,3,200,0,piscina e churrasqueira
+278,Apartamento,Espinheiro,Imobiliaria,2,1,1,45,0,piscina e churrasqueira
+279,Apartamento,Tamarineira,Imobiliaria,4,2,2,145,0,piscina e churrasqueira
+280,Apartamento,Boa Vista,Imobiliaria,1,0,1,38,0,piscina e churrasqueira
+281,Apartamento,Parnamirim,Pessoa Fisica,4,2,2,180,0,piscina e copa
+282,Apartamento,Encruzilhada,Imobiliaria,3,1,1,65,0,piscina e churrasqueira
+283,Apartamento,Encruzilhada,Imobiliaria,3,1,1,62,0,piscina e playground
+284,Apartamento,Boa Viagem,Imobiliaria,4,3,3,172,0,piscina e churrasqueira
+285,Casa,Apipucos,Imobiliaria,5,4,6,550,750,piscina e copa
+286,Apartamento,Encruzilhada,Imobiliaria,2,2,1,58,0,playground e salao de festas
+287,Apartamento,Espinheiro,Imobiliaria,4,2,2,146,0,piscina e playground
+288,Apartamento,Madalena,Imobiliaria,3,1,2,86,0,piscina e salao de festas
+289,Apartamento,Boa Viagem,Imobiliaria,4,2,2,127,0,piscina e salao de festas
+290,Apartamento,Boa Viagem,Imobiliaria,4,1,2,183,0,salao de festas
+291,Apartamento,Boa Viagem,Imobiliaria,3,1,2,168,0,copa
+292,Apartamento,Parnamirim,Imobiliaria,4,2,2,139,0,piscina e churrasqueira
+293,Apartamento,Boa Viagem,Imobiliaria,3,1,2,97,0,nenhum
+294,Apartamento,Jaqueira,Imobiliaria,4,4,4,335,0,hidromassagem e salao de festas
+295,Apartamento,Boa Viagem,Imobiliaria,3,1,1,110,20,churrasqueira e salao de festas
+296,Apartamento,Boa Viagem,Imobiliaria,3,1,1,121,69,churrasqueira e salao de festas
+297,Apartamento,Boa Viagem,Imobiliaria,4,2,2,143,0,piscina e churrasqueira
+298,Apartamento,Pina,Imobiliaria,3,1,0,72,0,playground e salao de festas
+299,Apartamento,Boa Viagem,Imobiliaria,3,1,2,160,0,nenhum
+300,Apartamento,Boa Viagem,Imobiliaria,3,3,3,155,0,estacionamento visitantes e hidromassagem
+301,Apartamento,Poco da Panela,Imobiliaria,3,2,2,108,0,piscina e campo de futebol
+302,Apartamento,Imbiribeira,Imobiliaria,3,1,1,72,0,piscina e churrasqueira
+303,Apartamento,Parnamirim,Imobiliaria,3,1,1,132,0,playground e salao de festas
+304,Apartamento,Rosarinho,Imobiliaria,2,1,1,54,0,piscina e churrasqueira
+305,Apartamento,Madalena,Imobiliaria,3,0,1,70,0,sauna e playground
+306,Apartamento,Boa Viagem,Imobiliaria,2,0,1,75,29,nenhum
+307,Apartamento,Boa Viagem,Imobiliaria,3,1,1,97,0,piscina e churrasqueira
+308,Apartamento,Apipucos,Imobiliaria,3,1,1,80,0,piscina e churrasqueira
+309,Apartamento,Boa Viagem,Imobiliaria,3,1,2,97,0,piscina e estacionamento visitantes
+310,Apartamento,Cordeiro,Imobiliaria,3,0,1,80,0,nenhum
+311,Casa,Setubal,Imobiliaria,6,5,5,278,220,piscina e copa
+312,Apartamento,Gracas,Imobiliaria,4,4,3,188,0,piscina e churrasqueira
+313,Apartamento,Boa Viagem,Imobiliaria,2,1,2,89,0,nenhum
+314,Apartamento,Gracas,Imobiliaria,2,1,1,46,0,churrasqueira e sala de ginastica
+315,Apartamento,Pina,Imobiliaria,4,4,2,152,0,nenhum
+316,Apartamento,Casa Forte,Imobiliaria,4,3,3,241,0,piscina e churrasqueira
+317,Apartamento,Aflitos,Imobiliaria,4,2,3,217,0,piscina e churrasqueira
+318,Apartamento,Casa Amarela,Imobiliaria,3,1,1,70,0,piscina e playground
+319,Apartamento,Torre,Imobiliaria,3,2,1,70,0,piscina e churrasqueira
+320,Apartamento,Boa Viagem,Imobiliaria,2,1,1,50,0,piscina e salao de festas
+321,Apartamento,Apipucos,Imobiliaria,4,4,4,245,0,piscina e churrasqueira
+322,Apartamento,Boa Viagem,Imobiliaria,4,2,2,189,0,nenhum
+323,Apartamento,Rosarinho,Imobiliaria,3,1,1,63,0,piscina e salao de festas
+324,Apartamento,Prado,Imobiliaria,2,0,1,80,0,playground e salao de festas
+325,Apartamento,Gracas,Imobiliaria,3,1,2,103,0,sauna e playground
+326,Apartamento,Casa Amarela,Imobiliaria,3,1,1,87,0,piscina e churrasqueira
+327,Apartamento,S Jose,Imobiliaria,4,4,3,247,0,piscina e churrasqueira
+328,Apartamento,Boa Viagem,Imobiliaria,4,2,2,150,0,copa e playground
+329,Apartamento,Boa Viagem,Imobiliaria,2,1,1,80,0,piscina e churrasqueira
+330,Apartamento,Poco da Panela,Imobiliaria,3,2,2,108,0,piscina e playground
+331,Apartamento,Torre,Imobiliaria,3,0,0,80,0,piscina e salao de festas
+332,Apartamento,Boa Viagem,Imobiliaria,3,1,2,103,0,churrasqueira e playground
+333,Apartamento,Boa Viagem,Imobiliaria,4,3,0,151,0,nenhum
+334,Apartamento,Boa Viagem,Imobiliaria,4,4,3,185,0,piscina e playground
+335,Apartamento,Casa Amarela,Imobiliaria,3,1,2,80,0,piscina e churrasqueira
+336,Apartamento,Iputinga,Imobiliaria,2,1,1,58,0,piscina e sauna
+337,Apartamento,Rosarinho,Imobiliaria,4,1,2,89,0,nenhum
+338,Apartamento,Boa Viagem,Imobiliaria,4,3,2,257,110,estacionamento visitantes
+339,Apartamento,Boa Viagem,Imobiliaria,3,1,1,106,0,salao de festas
+340,Apartamento,Casa Amarela,Imobiliaria,3,1,1,79,0,piscina e playground
+341,Casa,Casa Forte,Imobiliaria,4,2,3,250,86,nenhum
+342,Apartamento,Rosarinho,Imobiliaria,4,3,2,175,0,sauna e playground
+343,Apartamento,Boa Viagem,Imobiliaria,4,4,3,164,0,piscina e churrasqueira
+344,Apartamento,Parnamirim,Imobiliaria,4,0,0,181,0,piscina e campo de futebol
+345,Apartamento,Encruzilhada,Imobiliaria,3,1,2,280,0,nenhum
+346,Casa,Torre,Imobiliaria,3,2,1,86,614,nenhum
+347,Apartamento,Casa Forte,Imobiliaria,3,2,2,105,0,piscina e playground
+348,Apartamento,Boa Viagem,Imobiliaria,3,1,2,100,0,nenhum
+349,Apartamento,Boa Viagem,Imobiliaria,4,4,2,185,0,piscina e churrasqueira
+350,Apartamento,Aflitos,Imobiliaria,3,1,1,110,0,nenhum
+351,Apartamento,Boa Viagem,Imobiliaria,4,4,0,173,0,piscina e churrasqueira
+352,Apartamento,Madalena,Imobiliaria,3,1,2,90,0,salao de festas
+353,Apartamento,Madalena,Imobiliaria,4,2,3,220,0,piscina e churrasqueira
+354,Apartamento,Casa Amarela,Imobiliaria,3,1,1,62,0,piscina e churrasqueira
+355,Apartamento,Ilha do Retiro,Imobiliaria,3,1,2,104,0,piscina e churrasqueira
+356,Apartamento,Boa Viagem,Imobiliaria,3,1,1,129,0,nenhum
+357,Apartamento,Sto Amaro,Imobiliaria,4,4,0,176,0,sauna e playground
+358,Apartamento,Tamarineira,Imobiliaria,3,1,1,68,0,playground e salao de festas
+359,Casa,Encruzilhada,Imobiliaria,4,1,4,260,90,churrasqueira e copa
+360,Apartamento,Boa Viagem,Imobiliaria,2,1,1,55,0,piscina e sala de ginastica
+361,Apartamento,Madalena,Imobiliaria,4,4,0,157,0,playground e salao de festas
+362,Apartamento,Ilha do Retiro,Imobiliaria,2,0,1,61,0,salao de festas
+363,Apartamento,Torre,Imobiliaria,3,1,1,75,0,copa
+364,Apartamento,Boa Viagem,Imobiliaria,3,1,1,64,0,piscina e frente para o mar
+365,Apartamento,Boa Viagem,Imobiliaria,3,2,2,128,0,piscina e churrasqueira
+366,Apartamento,Boa Viagem,Imobiliaria,4,2,2,240,0,nenhum
+367,Apartamento,Boa Vista,Imobiliaria,1,0,1,39,0,piscina e churrasqueira
+368,Apartamento,Apipucos,Imobiliaria,4,4,3,247,0,piscina e churrasqueira
+369,Apartamento,Casa Forte,Imobiliaria,4,4,4,255,0,piscina e churrasqueira
+370,Apartamento,Gracas,Imobiliaria,2,1,1,60,30,piscina e campo de futebol
+371,Apartamento,Aflitos,Imobiliaria,2,1,1,92,0,frente para o mar
+372,Apartamento,Monteiro,Imobiliaria,3,2,2,109,0,piscina e churrasqueira
+373,Apartamento,Boa Vista,Imobiliaria,4,4,4,208,0,piscina e churrasqueira
+374,Apartamento,Espinheiro,Imobiliaria,4,2,2,169,0,playground e salao de festas
+375,Apartamento,Boa Viagem,Imobiliaria,4,4,4,236,0,piscina e sauna
+376,Apartamento,Boa Viagem,Imobiliaria,3,1,1,90,30,nenhum
+377,Apartamento,Boa Viagem,Imobiliaria,3,1,1,105,0,frente para o mar e campo de futebol
+378,Casa,Bongi,Imobiliaria,5,1,4,400,530,copa
+379,Apartamento,Gracas,Imobiliaria,3,2,1,125,0,salao de festas
+380,Apartamento,Boa Viagem,Imobiliaria,3,1,1,130,0,piscina e copa
+381,Apartamento,Boa Viagem,Imobiliaria,2,1,1,50,0,piscina e churrasqueira
+382,Apartamento,Boa Viagem,Imobiliaria,3,1,2,89,11,piscina e churrasqueira
+383,Apartamento,Boa Viagem,Imobiliaria,4,0,3,148,0,piscina e churrasqueira
+384,Casa,Cajueiro,Imobiliaria,4,1,3,180,20,nenhum
+385,Apartamento,Madalena,Imobiliaria,3,1,1,150,0,salao de festas
+386,Apartamento,Imbiribeira,Imobiliaria,4,4,0,170,0,sauna e playground
+387,Apartamento,Setubal,Imobiliaria,5,4,3,181,0,piscina e playground
+388,Apartamento,Espinheiro,Imobiliaria,2,1,1,50,0,piscina e sauna
+389,Apartamento,Boa Viagem,Imobiliaria,4,3,2,135,0,piscina e churrasqueira
+390,Apartamento,Casa Amarela,Imobiliaria,3,1,1,185,0,vestiario
+391,Apartamento,Pina,Imobiliaria,3,1,1,72,0,piscina e churrasqueira
+392,Apartamento,Beberibe,Imobiliaria,4,0,0,360,0,nenhum
+393,Apartamento,Espinheiro,Imobiliaria,3,1,1,134,0,playground e salao de festas
+394,Apartamento,Gracas,Imobiliaria,2,1,1,46,0,churrasqueira e sala de ginastica
+395,Apartamento,Casa Amarela,Imobiliaria,2,1,1,60,0,piscina e churrasqueira
+396,Apartamento,Rosarinho,Imobiliaria,3,1,1,75,0,piscina e playground
+397,Apartamento,Casa Amarela,Imobiliaria,3,1,1,97,0,piscina e churrasqueira
+398,Apartamento,Boa Viagem,Imobiliaria,3,1,2,118,0,sauna e esquina
+399,Apartamento,Boa Viagem,Imobiliaria,3,1,2,105,0,piscina e salao de festas
+400,Apartamento,Boa Viagem,Imobiliaria,3,1,3,105,0,piscina e campo de futebol
+401,Apartamento,Caxanga,Imobiliaria,3,1,1,84,0,piscina e churrasqueira
+402,Apartamento,Imbiribeira,Imobiliaria,3,1,2,109,0,nenhum
+403,Apartamento,Casa Amarela,Imobiliaria,3,1,1,71,0,nenhum
+404,Apartamento,Parnamirim,Imobiliaria,4,1,2,174,0,piscina e copa
+405,Apartamento,Boa Viagem,Imobiliaria,3,3,3,250,0,piscina e churrasqueira
+406,Apartamento,Boa Viagem,Imobiliaria,2,1,1,50,0,piscina e sauna
+407,Apartamento,Boa Viagem,Imobiliaria,3,1,2,98,0,piscina e churrasqueira
+408,Apartamento,Boa Viagem,Imobiliaria,4,4,2,137,0,piscina
+409,Apartamento,Casa Forte,Imobiliaria,3,1,2,85,0,piscina e estacionamento visitantes
+410,Apartamento,Derby,Imobiliaria,3,1,1,140,0,salao de festas
+411,Apartamento,Boa Viagem,Imobiliaria,2,1,1,44,0,nenhum
+412,Apartamento,Torre,Imobiliaria,2,0,1,55,0,estacionamento visitantes e playground
+413,Apartamento,Casa Forte,Imobiliaria,3,1,1,108,0,nenhum
+414,Apartamento,Boa Viagem,Imobiliaria,3,1,1,126,27,copa
+415,Apartamento,Boa Viagem,Imobiliaria,3,1,1,140,0,piscina e frente para o mar
+416,Apartamento,Boa Viagem,Imobiliaria,3,1,2,108,0,piscina e sala de ginastica
+417,Apartamento,Casa Amarela,Imobiliaria,3,0,2,87,0,playground e salao de festas
+418,Apartamento,Encruzilhada,Imobiliaria,2,1,1,62,0,piscina e churrasqueira
+419,Apartamento,Varzea,Imobiliaria,2,1,0,55,0,piscina e churrasqueira
+420,Apartamento,Gracas,Imobiliaria,3,0,2,138,0,nenhum
+421,Apartamento,Boa Vista,Imobiliaria,3,1,0,69,0,piscina e churrasqueira
+422,Apartamento,Torre,Imobiliaria,2,0,1,45,0,piscina e churrasqueira
+423,Apartamento,Varzea,Imobiliaria,2,1,1,55,0,piscina e campo de futebol
+424,Apartamento,Iputinga,Imobiliaria,2,1,1,55,0,piscina e churrasqueira
+425,Apartamento,Espinheiro,Imobiliaria,3,1,2,145,0,playground e salao de festas
+426,Apartamento,Boa Viagem,Imobiliaria,4,1,2,180,0,salao de jogos
+427,Apartamento,Boa Viagem,Imobiliaria,4,2,2,162,0,sauna e playground
+428,Apartamento,Jaqueira,Imobiliaria,6,6,4,312,0,piscina e sauna
+429,Apartamento,Torreao,Imobiliaria,2,1,1,56,0,piscina e sauna
+430,Apartamento,Campo Grande,Imobiliaria,3,1,1,92,0,nenhum
+431,Apartamento,Boa Viagem,Imobiliaria,2,1,1,50,0,nenhum
+432,Apartamento,Boa Viagem,Imobiliaria,4,2,2,150,0,playground e quadra poliesportiva
+433,Apartamento,Varzea,Imobiliaria,2,0,1,62,15,playground e quadra poliesportiva
+434,Apartamento,Boa Viagem,Imobiliaria,4,4,3,157,0,piscina e churrasqueira
+435,Apartamento,Espinheiro,Imobiliaria,3,1,0,146,0,nenhum
+436,Apartamento,Boa Viagem,Imobiliaria,4,4,3,223,0,piscina e esquina
+437,Apartamento,Boa Viagem,Imobiliaria,4,4,3,180,0,frente para o mar e playground
+438,Apartamento,Boa Viagem,Imobiliaria,2,1,1,50,0,piscina e frente para o mar
+439,Apartamento,Aflitos,Imobiliaria,2,0,1,60,0,nenhum
+440,Apartamento,Rosarinho,Imobiliaria,3,2,2,118,0,piscina e esquina
+441,Apartamento,Espinheiro,Imobiliaria,3,1,1,98,0,nenhum
+442,Apartamento,Cid Universitaria,Imobiliaria,2,1,1,55,0,piscina e churrasqueira
+443,Apartamento,Gracas,Imobiliaria,3,1,1,78,0,piscina e churrasqueira
+444,Apartamento,Parnamirim,Imobiliaria,4,2,2,186,0,nenhum
+445,Apartamento,Boa Viagem,Imobiliaria,3,1,2,150,0,piscina e sauna
+446,Apartamento,Gracas,Imobiliaria,1,0,1,36,0,estacionamento visitantes e salao de festas
+447,Apartamento,Pina,Imobiliaria,2,1,1,58,0,piscina e salao de festas
+448,Apartamento,Rosarinho,Imobiliaria,4,2,2,136,0,piscina e playground
+449,Apartamento,Boa Viagem,Imobiliaria,2,1,1,59,0,piscina e sala de ginastica
+450,Apartamento,Madalena,Imobiliaria,1,1,1,38,0,salao de festas
+451,Apartamento,Boa Viagem,Imobiliaria,4,4,2,185,0,piscina e churrasqueira
+452,Apartamento,Boa Viagem,Imobiliaria,4,2,2,143,0,nenhum
+453,Apartamento,Boa Viagem,Imobiliaria,3,1,1,79,0,piscina e sauna
+454,Apartamento,Torreao,Imobiliaria,3,1,1,70,0,nenhum
+455,Apartamento,Aflitos,Imobiliaria,3,1,2,98,0,churrasqueira e sauna
+456,Apartamento,Setubal,Imobiliaria,4,1,2,200,0,playground e salao de festas
+457,Apartamento,Gracas,Imobiliaria,2,1,1,56,0,estacionamento visitantes e playground
+458,Apartamento,Aflitos,Imobiliaria,3,1,1,94,0,nenhum
+459,Apartamento,Casa Amarela,Imobiliaria,2,1,1,52,0,piscina e churrasqueira
+460,Apartamento,Boa Vista,Imobiliaria,1,0,1,38,0,piscina e churrasqueira
+461,Apartamento,Boa Viagem,Imobiliaria,3,1,2,105,0,piscina e churrasqueira
+462,Apartamento,Espinheiro,Imobiliaria,3,1,1,100,0,nenhum
+463,Apartamento,Espinheiro,Pessoa Fisica,3,1,2,150,15,copa e esquina
+464,Apartamento,Imbiribeira,Imobiliaria,2,1,1,72,0,piscina e sauna
+465,Apartamento,Boa Viagem,Imobiliaria,3,1,2,81,0,piscina e playground
+466,Casa,Casa Forte,Imobiliaria,4,2,4,280,104,nenhum
+467,Apartamento,Casa Forte,Imobiliaria,4,4,3,200,0,piscina e churrasqueira
+468,Apartamento,Boa Viagem,Imobiliaria,4,1,3,180,0,frente para o mar e esquina
+469,Apartamento,Boa Viagem,Imobiliaria,4,4,3,420,0,frente para o mar e copa
+470,Apartamento,Espinheiro,Imobiliaria,4,4,2,311,130,copa
+471,Apartamento,Aflitos,Imobiliaria,3,1,2,90,0,piscina e churrasqueira
+472,Apartamento,Casa Amarela,Imobiliaria,2,1,1,57,36,piscina e churrasqueira
+473,Apartamento,Boa Viagem,Imobiliaria,1,0,1,32,0,nenhum
+474,Apartamento,Madalena,Imobiliaria,3,1,1,72,0,piscina e salao de festas
+475,Apartamento,Sto Amaro,Imobiliaria,4,4,3,208,0,piscina e churrasqueira
+476,Apartamento,Rosarinho,Imobiliaria,4,2,2,130,0,piscina e playground
+477,Apartamento,Rosarinho,Imobiliaria,3,1,1,73,0,piscina e churrasqueira
+478,Apartamento,Agua Fria,Imobiliaria,3,1,0,75,0,nenhum
+479,Apartamento,Boa Viagem,Imobiliaria,4,1,2,150,0,nenhum
+480,Apartamento,Madalena,Imobiliaria,3,1,1,140,0,playground
+481,Apartamento,Boa Viagem,Imobiliaria,4,3,3,230,0,piscina e salao de festas
+482,Apartamento,Rosarinho,Imobiliaria,4,0,0,138,0,piscina e churrasqueira
+483,Apartamento,Rosarinho,Imobiliaria,3,1,1,75,0,piscina e churrasqueira
+484,Apartamento,Poco da Panela,Pessoa Fisica,3,1,2,90,40,piscina e churrasqueira
+485,Apartamento,Gracas,Imobiliaria,3,1,2,155,0,churrasqueira e estacionamento visitantes
+486,Apartamento,Boa Viagem,Imobiliaria,3,3,3,189,0,piscina e churrasqueira
+487,Apartamento,Madalena,Imobiliaria,3,1,2,79,1,piscina e copa
+488,Apartamento,Apipucos,Imobiliaria,4,4,3,158,0,churrasqueira e sauna
+489,Apartamento,Boa Viagem,Imobiliaria,3,1,1,74,0,nenhum
+490,Apartamento,Rosarinho,Imobiliaria,4,2,2,117,0,piscina e churrasqueira
+491,Apartamento,S Jose,Imobiliaria,2,2,0,70,7,nenhum
+492,Apartamento,Boa Viagem,Imobiliaria,3,1,1,70,15,copa e playground
+493,Apartamento,Torre,Imobiliaria,3,1,1,110,0,nenhum
+494,Apartamento,Boa Viagem,Imobiliaria,3,1,2,119,0,nenhum
+495,Apartamento,Boa Viagem,Imobiliaria,4,2,3,280,0,playground e salao de festas
+496,Apartamento,Setubal,Imobiliaria,4,2,2,142,0,piscina e sauna
+497,Apartamento,Madalena,Imobiliaria,3,1,2,98,0,playground e quadra poliesportiva
+498,Apartamento,Boa Viagem,Imobiliaria,3,1,2,106,0,piscina e churrasqueira
+499,Apartamento,Boa Viagem,Imobiliaria,3,1,1,137,0,nenhum
+500,Apartamento,Boa Vista,Imobiliaria,4,4,3,180,0,piscina e sauna
+501,Apartamento,Boa Viagem,Imobiliaria,5,2,3,330,0,frente para o mar e hidromassagem
+502,Apartamento,Parnamirim,Imobiliaria,3,1,2,109,0,nenhum
+503,Apartamento,Varzea,Imobiliaria,3,1,1,62,0,salao de festas
+504,Apartamento,Tamarineira,Imobiliaria,3,1,1,79,0,piscina e estacionamento visitantes
+505,Apartamento,Boa Viagem,Imobiliaria,4,4,3,174,0,piscina e sauna
+506,Apartamento,Madalena,Imobiliaria,4,4,3,200,0,piscina e sauna
+507,Apartamento,Boa Viagem,Imobiliaria,3,1,2,132,0,nenhum
+508,Apartamento,Varzea,Imobiliaria,2,1,1,65,0,playground e quadra poliesportiva
+509,Apartamento,Prado,Imobiliaria,3,1,2,86,0,piscina e playground
+510,Apartamento,Boa Viagem,Imobiliaria,3,0,2,150,0,piscina e playground
+511,Apartamento,Boa Viagem,Imobiliaria,3,1,2,82,0,piscina e churrasqueira
+512,Apartamento,Boa Viagem,Imobiliaria,4,4,3,210,0,nenhum
+513,Apartamento,Torre,Imobiliaria,2,1,1,57,30,piscina e playground
+514,Apartamento,Casa Amarela,Imobiliaria,3,0,1,79,0,estacionamento visitantes e playground
+515,Apartamento,Rosarinho,Imobiliaria,3,1,1,65,0,piscina e churrasqueira
+516,Casa,Cordeiro,Imobiliaria,4,0,6,450,0,nenhum
+517,Apartamento,Santana,Imobiliaria,3,2,2,120,0,piscina e churrasqueira
+518,Apartamento,Boa Viagem,Imobiliaria,3,2,2,95,0,piscina e churrasqueira
+519,Apartamento,Boa Viagem,Imobiliaria,3,1,1,90,0,piscina e salao de festas
+520,Apartamento,Boa Viagem,Imobiliaria,4,4,3,155,0,piscina e frente para o mar
+521,Apartamento,Boa Viagem,Imobiliaria,3,3,4,128,0,piscina e churrasqueira
+522,Apartamento,Poco da Panela,Imobiliaria,3,1,2,88,0,piscina e churrasqueira
+523,Apartamento,Boa Viagem,Imobiliaria,2,0,1,55,0,nenhum
+524,Apartamento,Boa Viagem,Imobiliaria,4,4,2,185,0,piscina e churrasqueira
+525,Apartamento,Espinheiro,Imobiliaria,4,4,3,320,121,copa
+526,Apartamento,Boa Viagem,Imobiliaria,4,2,2,128,0,piscina e churrasqueira
+527,Apartamento,S Jose,Imobiliaria,4,4,3,249,0,piscina e churrasqueira
+528,Apartamento,Boa Viagem,Imobiliaria,3,1,2,93,67,churrasqueira e sauna
+529,Apartamento,Encruzilhada,Imobiliaria,2,1,1,51,0,piscina e sauna
+530,Apartamento,Boa Viagem,Imobiliaria,4,1,2,170,0,piscina e salao de festas
+531,Apartamento,Boa Viagem,Imobiliaria,4,2,2,155,0,copa e salao de festas
+532,Apartamento,Madalena,Imobiliaria,3,1,2,95,30,piscina e playground
+533,Apartamento,Espinheiro,Imobiliaria,4,2,2,170,0,piscina e salao de festas
+534,Apartamento,Torre,Imobiliaria,3,1,1,52,0,piscina e churrasqueira
+535,Apartamento,Boa Viagem,Imobiliaria,3,1,0,58,0,esquina e estacionamento visitantes
+536,Apartamento,Madalena,Imobiliaria,3,1,2,73,0,piscina e sauna
+537,Apartamento,Parnamirim,Imobiliaria,4,4,4,436,0,piscina e campo de futebol
+538,Apartamento,Boa Viagem,Imobiliaria,4,2,2,220,0,churrasqueira e frente para o mar
+539,Apartamento,Torreao,Imobiliaria,4,4,3,188,0,sauna e copa
+540,Apartamento,Rosarinho,Imobiliaria,2,1,1,53,0,piscina e copa
+541,Apartamento,Boa Viagem,Imobiliaria,1,1,1,50,0,piscina e churrasqueira
+542,Apartamento,Boa Viagem,Imobiliaria,3,1,2,99,1,piscina e sauna
+543,Casa,Casa Forte,Imobiliaria,4,2,2,239,151,copa
+544,Apartamento,Boa Viagem,Imobiliaria,3,1,1,85,0,piscina
+545,Apartamento,Casa Forte,Imobiliaria,3,1,2,85,0,piscina e frente para o mar
+546,Apartamento,Boa Viagem,Imobiliaria,1,0,1,36,0,nenhum
+547,Apartamento,Casa Forte,Imobiliaria,4,2,2,232,0,piscina e churrasqueira
+548,Apartamento,Ilha do Retiro,Imobiliaria,3,1,1,58,0,piscina e churrasqueira
+549,Apartamento,Madalena,Imobiliaria,2,1,1,62,0,salao de festas
+550,Apartamento,Boa Viagem,Imobiliaria,4,2,2,100,0,nenhum
+551,Apartamento,Casa Amarela,Imobiliaria,3,1,1,90,0,piscina e sauna
+552,Apartamento,Madalena,Imobiliaria,4,2,3,223,119,copa e playground
+553,Casa,Iputinga,Pessoa Fisica,3,1,2,120,160,nenhum
+554,Apartamento,Boa Viagem,Imobiliaria,3,1,1,95,0,salao de festas
+555,Apartamento,Encruzilhada,Imobiliaria,3,1,1,70,0,churrasqueira e salao de festas
+556,Apartamento,Boa Viagem,Imobiliaria,3,1,1,90,0,salao de festas
+557,Apartamento,Boa Viagem,Imobiliaria,2,1,0,56,0,piscina e sauna
+558,Apartamento,Madalena,Imobiliaria,2,1,1,52,0,nenhum
+559,Apartamento,Sto Amaro,Imobiliaria,4,4,3,206,0,sauna e playground
+560,Apartamento,Boa Viagem,Imobiliaria,3,1,2,108,0,salao de festas
+561,Apartamento,Casa Amarela,Imobiliaria,3,1,0,115,0,nenhum
+562,Apartamento,Torre,Imobiliaria,2,0,1,55,30,esquina
+563,Apartamento,Rosarinho,Imobiliaria,3,1,2,86,0,piscina e sauna
+564,Apartamento,Parnamirim,Imobiliaria,3,1,2,100,0,playground e quadra poliesportiva
+565,Apartamento,Madalena,Imobiliaria,3,1,2,91,74,piscina e esquina
+566,Apartamento,Casa Amarela,Imobiliaria,2,0,1,58,0,piscina e estacionamento visitantes
+567,Apartamento,Boa Viagem,Imobiliaria,2,1,1,48,0,piscina e salao de festas
+568,Apartamento,Madalena,Imobiliaria,3,1,2,96,0,piscina e estacionamento visitantes
+569,Apartamento,Boa Viagem,Imobiliaria,3,3,2,163,0,salao de festas
+570,Apartamento,Iputinga,Imobiliaria,2,1,1,569,0,piscina e estacionamento visitantes
+571,Apartamento,Casa Amarela,Imobiliaria,3,2,3,136,0,piscina e churrasqueira
+572,Apartamento,Boa Viagem,Imobiliaria,3,1,0,90,0,salao de festas
+573,Apartamento,Boa Viagem,Imobiliaria,4,3,3,125,0,piscina e churrasqueira
+574,Apartamento,Boa Viagem,Imobiliaria,2,1,1,58,0,piscina e playground
+575,Apartamento,Torre,Imobiliaria,3,1,1,115,0,nenhum
+576,Apartamento,Derby,Imobiliaria,5,3,4,298,0,nenhum
+577,Apartamento,Casa Forte,Imobiliaria,4,2,2,191,0,copa e playground
+578,Apartamento,Espinheiro,Imobiliaria,1,0,1,33,0,piscina e churrasqueira
+579,Apartamento,Boa Viagem,Imobiliaria,4,2,3,124,0,piscina e churrasqueira
+580,Apartamento,Boa Viagem,Imobiliaria,4,2,2,150,0,piscina e children care
+581,Apartamento,Boa Viagem,Imobiliaria,3,1,1,81,0,piscina e churrasqueira
+582,Apartamento,Boa Viagem,Imobiliaria,4,4,4,402,0,nenhum
+583,Apartamento,Casa Forte,Imobiliaria,4,4,4,374,0,piscina e churrasqueira
+584,Apartamento,Torre,Imobiliaria,3,1,1,61,0,piscina e churrasqueira
+585,Apartamento,Apipucos,Imobiliaria,4,4,4,200,0,piscina e churrasqueira
+586,Apartamento,Boa Viagem,Imobiliaria,4,2,3,125,0,piscina e churrasqueira
+587,Apartamento,Torre,Imobiliaria,4,4,3,203,0,piscina e churrasqueira
+588,Apartamento,Boa Viagem,Imobiliaria,4,3,6,152,0,piscina e churrasqueira
+589,Apartamento,Madalena,Imobiliaria,3,1,2,96,0,piscina e playground
+590,Apartamento,Tamarineira,Imobiliaria,3,0,1,77,0,piscina e churrasqueira
+591,Apartamento,Gracas,Imobiliaria,4,2,3,150,0,piscina e sauna
+592,Apartamento,Madalena,Imobiliaria,3,1,1,59,0,piscina e churrasqueira
+593,Apartamento,Rosarinho,Imobiliaria,3,1,2,79,0,piscina e churrasqueira
+594,Apartamento,Boa Viagem,Imobiliaria,2,1,1,60,0,nenhum
+595,Apartamento,Boa Viagem,Imobiliaria,2,1,1,63,0,piscina e churrasqueira
+596,Apartamento,Boa Viagem,Imobiliaria,4,1,1,105,25,nenhum
+597,Casa,Ipsep,Imobiliaria,3,1,0,120,80,churrasqueira
+598,Apartamento,Casa Amarela,Imobiliaria,3,2,2,105,0,piscina e churrasqueira
+599,Apartamento,Boa Viagem,Imobiliaria,3,1,1,133,15,piscina e churrasqueira
+600,Apartamento,Rosarinho,Imobiliaria,2,1,2,96,0,piscina e churrasqueira
+601,Apartamento,Encruzilhada,Imobiliaria,3,2,2,137,0,churrasqueira e salao de festas
+602,Apartamento,Boa Viagem,Imobiliaria,5,1,2,213,0,nenhum
+603,Apartamento,Casa Amarela,Imobiliaria,2,1,1,70,0,piscina e churrasqueira
+604,Apartamento,Boa Viagem,Imobiliaria,3,1,1,100,0,piscina e sala de ginastica
+605,Apartamento,Boa Viagem,Imobiliaria,4,2,2,255,0,frente para o mar e copa
+606,Apartamento,Ibura,Imobiliaria,2,0,1,54,0,nenhum
+607,Apartamento,Casa Amarela,Imobiliaria,3,2,2,130,0,piscina e churrasqueira
+608,Apartamento,Encruzilhada,Imobiliaria,3,1,2,86,0,piscina e sauna
+609,Apartamento,Boa Vista,Imobiliaria,4,4,3,176,0,piscina e sauna
+610,Apartamento,Boa Viagem,Imobiliaria,2,1,1,66,0,piscina e churrasqueira
+611,Apartamento,Recife,Imobiliaria,3,2,2,107,0,piscina e churrasqueira
+612,Apartamento,Madalena,Imobiliaria,3,1,2,93,0,nenhum
+613,Apartamento,Madalena,Imobiliaria,3,1,2,200,30,playground e salao de festas
+614,Apartamento,Rosarinho,Imobiliaria,3,1,2,85,0,piscina e sauna
+615,Apartamento,Poco da Panela,Imobiliaria,4,4,5,380,0,piscina e sauna
+616,Apartamento,Boa Viagem,Imobiliaria,2,1,1,47,0,piscina e sauna
+617,Casa,San Martin,Pessoa Fisica,4,3,4,99,103,nenhum
+618,Apartamento,Boa Viagem,Imobiliaria,1,1,0,38,0,piscina e churrasqueira
+619,Apartamento,Iputinga,Imobiliaria,3,1,1,105,6,salao de festas
+620,Apartamento,Boa Viagem,Imobiliaria,2,1,1,56,0,piscina e playground
+621,Apartamento,Casa Forte,Imobiliaria,3,1,1,68,0,playground e salao de festas
+622,Apartamento,Boa Viagem,Imobiliaria,4,4,3,430,193,sauna e frente para o mar
+623,Apartamento,Torre,Imobiliaria,4,4,3,229,0,piscina e churrasqueira
+624,Apartamento,Torre,Imobiliaria,3,1,1,75,0,playground e sala de ginastica
+625,Apartamento,Madalena,Imobiliaria,3,1,2,90,0,piscina e sauna
+626,Apartamento,Iputinga,Imobiliaria,3,1,1,65,0,piscina e esquina
+627,Apartamento,Boa Viagem,Imobiliaria,4,4,3,240,0,piscina e churrasqueira
+628,Apartamento,Boa Viagem,Imobiliaria,2,1,1,90,0,salao de festas
+629,Apartamento,Tamarineira,Imobiliaria,4,3,3,200,0,nenhum
+630,Apartamento,Gracas,Imobiliaria,2,1,1,54,0,piscina e churrasqueira
+631,Apartamento,Boa Viagem,Imobiliaria,4,2,2,125,0,piscina e churrasqueira
+632,Apartamento,Espinheiro,Imobiliaria,3,1,1,118,0,nenhum
+633,Apartamento,Parnamirim,Imobiliaria,3,2,2,115,0,nenhum
+634,Apartamento,Boa Viagem,Imobiliaria,3,1,1,70,0,piscina e campo de futebol
+635,Apartamento,Boa Viagem,Imobiliaria,1,0,1,58,0,playground e salao de festas
+636,Apartamento,Boa Viagem,Imobiliaria,3,1,2,100,0,piscina e campo de futebol
+637,Apartamento,Boa Viagem,Imobiliaria,3,1,2,86,0,piscina e copa
+638,Apartamento,Madalena,Imobiliaria,3,1,1,95,0,nenhum
+639,Apartamento,Iputinga,Imobiliaria,3,0,1,68,0,copa e estacionamento visitantes
+640,Apartamento,Espinheiro,Imobiliaria,4,0,0,146,0,nenhum
+641,Apartamento,Casa Forte,Imobiliaria,3,3,3,152,0,piscina e churrasqueira
+642,Apartamento,Boa Viagem,Imobiliaria,3,1,1,111,0,nenhum
+643,Apartamento,Boa Viagem,Imobiliaria,3,1,2,94,0,nenhum
+644,Apartamento,Boa Viagem,Imobiliaria,3,1,1,90,0,piscina e churrasqueira
+645,Apartamento,Casa Amarela,Imobiliaria,3,1,2,95,0,piscina e churrasqueira
+646,Apartamento,Rosarinho,Imobiliaria,3,1,1,63,0,nenhum
+647,Apartamento,Setubal,Imobiliaria,3,1,1,80,0,nenhum
+648,Apartamento,Torre,Imobiliaria,3,1,1,75,0,piscina e playground
+649,Apartamento,Cordeiro,Imobiliaria,3,1,1,62,0,piscina e salao de festas
+650,Apartamento,Boa Viagem,Imobiliaria,3,1,2,82,0,playground
+651,Apartamento,Espinheiro,Imobiliaria,4,2,2,143,0,piscina e playground
+652,Apartamento,Gracas,Imobiliaria,3,1,1,106,0,churrasqueira e playground
+653,Apartamento,Casa Forte,Imobiliaria,3,1,2,100,0,quadra poliesportiva e salao de festas
+654,Apartamento,Sto Amaro,Imobiliaria,2,1,1,56,4,piscina e churrasqueira
+655,Apartamento,Parnamirim,Imobiliaria,4,2,3,181,0,piscina e churrasqueira
+656,Apartamento,Espinheiro,Imobiliaria,2,0,1,60,0,piscina e salao de festas
+657,Apartamento,Torreao,Imobiliaria,3,0,1,67,0,nenhum
+658,Apartamento,Boa Viagem,Imobiliaria,3,1,1,100,0,copa e salao de festas
+659,Apartamento,Encruzilhada,Imobiliaria,2,1,1,56,0,playground e salao de festas
+660,Apartamento,Torre,Imobiliaria,3,1,2,87,0,piscina e salao de festas
+661,Apartamento,Jaqueira,Imobiliaria,4,2,2,205,0,churrasqueira e salao de festas
+662,Apartamento,Torreao,Imobiliaria,3,1,2,113,0,piscina e churrasqueira
+663,Apartamento,Jd S Paulo,Pessoa Fisica,4,1,4,153,0,estacionamento visitantes e salao de festas
+664,Apartamento,Madalena,Imobiliaria,3,1,2,86,0,piscina e churrasqueira
+665,Apartamento,Espinheiro,Imobiliaria,2,1,1,48,0,piscina e playground
+666,Apartamento,Torre,Imobiliaria,3,1,2,87,0,piscina e churrasqueira
+667,Apartamento,Tamarineira,Imobiliaria,3,1,2,98,0,piscina e playground
+668,Apartamento,Espinheiro,Imobiliaria,4,2,2,179,0,salao de festas e salao de jogos
+669,Apartamento,Boa Viagem,Imobiliaria,4,3,3,125,0,nenhum
+670,Apartamento,Boa Viagem,Imobiliaria,4,4,2,185,0,piscina e sala de ginastica
+671,Apartamento,Boa Viagem,Imobiliaria,3,1,2,108,0,piscina e churrasqueira
+672,Casa,Cordeiro,Imobiliaria,3,2,1,83,0,nenhum
+673,Apartamento,Boa Viagem,Imobiliaria,3,3,2,120,0,piscina e sauna
+674,Apartamento,Boa Viagem,Imobiliaria,4,2,2,140,0,nenhum
+675,Apartamento,Espinheiro,Imobiliaria,3,1,1,122,31,nenhum
+676,Apartamento,Boa Viagem,Imobiliaria,3,1,1,64,0,piscina e churrasqueira
+677,Apartamento,Rosarinho,Imobiliaria,3,1,2,86,0,piscina
+678,Apartamento,Boa Viagem,Imobiliaria,2,1,1,51,0,nenhum
+679,Apartamento,Boa Viagem,Imobiliaria,1,0,1,25,0,piscina e churrasqueira
+680,Apartamento,Espinheiro,Imobiliaria,3,1,2,170,0,esquina
+681,Apartamento,Gracas,Imobiliaria,2,1,1,46,0,churrasqueira e sauna
+682,Apartamento,Boa Viagem,Imobiliaria,2,1,1,60,0,piscina e churrasqueira
+683,Apartamento,Espinheiro,Imobiliaria,2,1,1,69,0,piscina e churrasqueira
+684,Apartamento,Setubal,Imobiliaria,3,1,2,90,0,nenhum
+685,Apartamento,Boa Viagem,Imobiliaria,4,1,2,180,0,nenhum
+686,Apartamento,Boa Viagem,Imobiliaria,4,4,3,190,0,piscina e frente para o mar
+687,Apartamento,Madalena,Imobiliaria,3,1,1,72,0,piscina e churrasqueira
+688,Apartamento,Boa Viagem,Imobiliaria,3,1,2,106,0,piscina e churrasqueira
+689,Apartamento,S Jose,Imobiliaria,2,0,0,69,0,salao de festas
+690,Apartamento,Casa Amarela,Imobiliaria,4,2,3,123,0,piscina e churrasqueira
+691,Apartamento,Boa Viagem,Imobiliaria,3,3,2,142,0,piscina e sauna
+692,Casa,Coelhos,Imobiliaria,3,0,0,200,0,nenhum
+693,Apartamento,Madalena,Imobiliaria,3,1,3,260,0,estacionamento visitantes e playground
+694,Apartamento,Boa Viagem,Imobiliaria,3,1,2,117,0,piscina e churrasqueira
+695,Apartamento,Boa Viagem,Pessoa Fisica,3,3,2,132,0,piscina e churrasqueira
+696,Apartamento,Boa Viagem,Imobiliaria,3,1,1,126,0,nenhum
+697,Apartamento,Cordeiro,Imobiliaria,3,1,1,79,0,campo de futebol e playground
+698,Apartamento,Casa Forte,Imobiliaria,4,2,2,123,0,piscina e sauna
+699,Apartamento,Encruzilhada,Imobiliaria,3,0,1,96,0,nenhum
+700,Apartamento,Caxanga,Imobiliaria,3,1,2,85,0,piscina e campo de futebol
+701,Apartamento,Casa Amarela,Imobiliaria,2,1,1,58,0,piscina e churrasqueira
+702,Apartamento,Boa Viagem,Imobiliaria,2,1,2,85,0,piscina e frente para o mar
+703,Apartamento,Parnamirim,Imobiliaria,4,2,2,134,0,piscina e quadra poliesportiva
+704,Apartamento,Gracas,Imobiliaria,4,2,3,135,0,piscina e churrasqueira
+705,Apartamento,Madalena,Imobiliaria,3,1,1,66,0,piscina e copa
+706,Apartamento,Setubal,Imobiliaria,2,1,1,73,0,sauna e playground
+707,Apartamento,Boa Viagem,Imobiliaria,4,4,3,182,0,piscina e sauna
+708,Apartamento,Cid Universitaria,Imobiliaria,2,0,1,66,0,estacionamento visitantes
+709,Apartamento,Boa Viagem,Imobiliaria,4,4,3,400,0,nenhum
+710,Apartamento,Torre,Imobiliaria,2,0,1,51,1,piscina
+711,Apartamento,Boa Viagem,Imobiliaria,4,3,2,130,0,piscina e churrasqueira
+712,Apartamento,Espinheiro,Imobiliaria,2,1,1,75,0,piscina e playground
+713,Apartamento,Imbiribeira,Imobiliaria,2,1,1,61,20,piscina
+714,Apartamento,Boa Viagem,Imobiliaria,3,1,2,86,0,piscina e sala de ginastica
+715,Apartamento,Imbiribeira,Imobiliaria,4,4,3,170,0,piscina e churrasqueira
+716,Apartamento,Gracas,Imobiliaria,4,1,2,188,0,estacionamento visitantes e salao de festas
+717,Apartamento,Madalena,Imobiliaria,4,4,3,153,0,piscina e playground
+718,Apartamento,Espinheiro,Imobiliaria,4,1,2,130,0,copa
+719,Apartamento,Afogados,Imobiliaria,2,0,1,54,0,copa
+720,Apartamento,Iputinga,Imobiliaria,2,1,1,42,0,piscina e playground
+721,Apartamento,Imbiribeira,Pessoa Fisica,3,1,1,72,0,piscina e sauna
+722,Apartamento,Madalena,Imobiliaria,3,1,2,91,0,nenhum
+723,Apartamento,Jaqueira,Imobiliaria,1,0,1,30,0,nenhum
+724,Apartamento,Parnamirim,Imobiliaria,4,2,2,139,0,piscina e sauna
+725,Apartamento,Aflitos,Imobiliaria,3,1,1,109,0,salao de festas
+726,Apartamento,Boa Viagem,Imobiliaria,4,4,2,137,0,nenhum
+727,Apartamento,Boa Viagem,Imobiliaria,3,1,1,98,0,piscina e churrasqueira
+728,Apartamento,Boa Viagem,Imobiliaria,3,1,2,108,0,piscina e sauna
+729,Apartamento,Boa Viagem,Imobiliaria,3,0,0,64,0,piscina e playground
+730,Apartamento,Boa Viagem,Imobiliaria,3,1,2,127,0,nenhum
+731,Apartamento,Boa Viagem,Imobiliaria,3,2,2,142,0,frente para o mar e salao de festas
+732,Apartamento,Imbiribeira,Imobiliaria,2,1,1,45,0,piscina e churrasqueira
+733,Apartamento,Torre,Imobiliaria,3,1,1,104,32,nenhum
+734,Apartamento,Boa Viagem,Imobiliaria,3,1,2,99,0,piscina e churrasqueira
+735,Apartamento,Rosarinho,Imobiliaria,3,0,0,72,0,piscina e campo de futebol
+736,Apartamento,Cordeiro,Imobiliaria,2,0,1,65,0,nenhum
+737,Apartamento,Encruzilhada,Imobiliaria,3,1,1,61,0,playground e salao de festas
+738,Apartamento,Boa Viagem,Imobiliaria,5,2,3,360,0,piscina e esquina
+739,Apartamento,Boa Viagem,Imobiliaria,3,2,2,114,0,piscina e churrasqueira
+740,Apartamento,Casa Amarela,Imobiliaria,3,1,2,81,0,piscina e churrasqueira
+741,Apartamento,S Jose,Imobiliaria,4,4,3,247,0,nenhum
+742,Apartamento,Boa Viagem,Imobiliaria,3,1,3,150,0,piscina e playground
+743,Apartamento,Boa Viagem,Imobiliaria,2,1,1,85,0,salao de festas
+744,Apartamento,Boa Viagem,Imobiliaria,2,0,1,70,5,nenhum
+745,Apartamento,Casa Amarela,Imobiliaria,2,1,1,60,0,piscina e churrasqueira
+746,Apartamento,Tamarineira,Imobiliaria,2,1,1,54,0,piscina e churrasqueira
+747,Apartamento,Imbiribeira,Pessoa Fisica,4,3,3,172,0,nenhum
+748,Apartamento,Boa Viagem,Imobiliaria,4,2,2,125,0,piscina e estacionamento visitantes
+749,Apartamento,Boa Viagem,Imobiliaria,2,0,1,84,0,piscina e churrasqueira
+750,Apartamento,Encruzilhada,Imobiliaria,3,1,0,61,0,piscina e churrasqueira
+751,Apartamento,Caxanga,Imobiliaria,3,0,0,68,0,nenhum
+752,Apartamento,Cordeiro,Imobiliaria,3,0,1,75,0,piscina e churrasqueira
+753,Apartamento,Aflitos,Imobiliaria,3,1,2,91,0,nenhum
+754,Apartamento,Madalena,Imobiliaria,2,1,1,62,0,nenhum
+755,Apartamento,Boa Viagem,Pessoa Fisica,4,1,2,180,0,salao de festas e salao de jogos
+756,Apartamento,Sto Amaro,Pessoa Fisica,3,1,2,120,0,salao de festas
+757,Apartamento,Rosarinho,Imobiliaria,3,1,2,90,0,piscina e churrasqueira
+758,Apartamento,Casa Amarela,Imobiliaria,3,1,2,67,40,playground e quadra poliesportiva
+759,Apartamento,Campo Grande,Imobiliaria,3,1,1,77,0,piscina e churrasqueira
+760,Apartamento,Boa Viagem,Imobiliaria,3,1,2,102,72,piscina e playground
+761,Apartamento,Madalena,Imobiliaria,3,1,2,91,0,piscina e churrasqueira
+762,Casa,Encruzilhada,Imobiliaria,5,2,3,234,0,copa
+763,Apartamento,Campo Grande,Imobiliaria,3,0,1,72,0,estacionamento visitantes
+764,Apartamento,Boa Viagem,Imobiliaria,4,4,2,137,0,piscina e playground
+765,Apartamento,Imbiribeira,Imobiliaria,3,0,1,85,0,nenhum
+766,Apartamento,Boa Viagem,Imobiliaria,3,2,2,127,0,nenhum
+767,Apartamento,Boa Viagem,Imobiliaria,4,4,4,235,0,salao de festas
+768,Apartamento,Casa Amarela,Imobiliaria,3,1,2,94,0,piscina e sauna
+769,Apartamento,Boa Viagem,Imobiliaria,4,2,2,128,0,piscina e churrasqueira
+770,Apartamento,Boa Viagem,Imobiliaria,3,1,1,74,0,piscina e churrasqueira
+771,Apartamento,Espinheiro,Imobiliaria,4,4,3,311,0,copa e hidromassagem
+772,Apartamento,Boa Viagem,Imobiliaria,5,2,2,256,24,piscina e frente para o mar
+773,Apartamento,Casa Amarela,Imobiliaria,3,2,2,136,0,playground e salao de festas
+774,Apartamento,Boa Viagem,Imobiliaria,4,4,3,155,0,esquina e playground
+775,Apartamento,Boa Viagem,Imobiliaria,3,2,2,127,0,piscina e playground
+776,Apartamento,Jaqueira,Imobiliaria,4,3,3,360,0,copa e playground
+777,Apartamento,Casa Forte,Imobiliaria,4,3,3,249,0,piscina e sauna
+778,Apartamento,Boa Viagem,Imobiliaria,1,0,1,28,0,piscina e sauna
+779,Apartamento,Boa Viagem,Imobiliaria,2,1,0,57,0,nenhum
+780,Apartamento,Madalena,Imobiliaria,2,1,1,83,23,nenhum
+781,Apartamento,Tamarineira,Imobiliaria,3,1,1,74,0,nenhum
+782,Apartamento,Casa Amarela,Imobiliaria,3,1,1,64,0,sala de ginastica e salao de festas
+783,Apartamento,Boa Viagem,Imobiliaria,4,2,2,122,0,piscina e sauna
+784,Apartamento,Torre,Imobiliaria,2,1,1,51,0,piscina e sauna
+785,Apartamento,Boa Viagem,Imobiliaria,3,1,2,81,0,piscina e churrasqueira
+786,Apartamento,Boa Viagem,Imobiliaria,1,0,0,45,0,esquina
+787,Apartamento,Aflitos,Imobiliaria,4,3,2,143,0,piscina e playground
+788,Apartamento,Boa Viagem,Imobiliaria,2,0,1,78,0,salao de festas
+789,Apartamento,Boa Vista,Imobiliaria,1,0,1,36,0,nenhum
+790,Apartamento,Torre,Imobiliaria,3,1,1,70,35,piscina e children care
+791,Apartamento,Boa Viagem,Imobiliaria,4,2,1,133,0,nenhum
+792,Apartamento,Jaqueira,Imobiliaria,1,0,1,35,0,piscina e playground
+793,Apartamento,Boa Viagem,Imobiliaria,2,1,1,55,0,churrasqueira e sauna
+794,Apartamento,Gracas,Imobiliaria,4,2,2,132,0,playground e quadra poliesportiva
+795,Apartamento,Parnamirim,Imobiliaria,3,1,1,133,0,copa e playground
+796,Apartamento,Boa Viagem,Imobiliaria,3,1,1,99,0,piscina e frente para o mar
+797,Apartamento,Boa Viagem,Imobiliaria,2,0,0,50,0,piscina e churrasqueira
+798,Apartamento,Espinheiro,Imobiliaria,4,2,2,202,0,piscina e churrasqueira
+799,Apartamento,Espinheiro,Imobiliaria,3,1,2,76,0,piscina e churrasqueira
+800,Apartamento,Rosarinho,Imobiliaria,4,2,2,105,0,piscina e churrasqueira
+801,Apartamento,Encruzilhada,Imobiliaria,3,1,1,112,0,nenhum
+802,Apartamento,Madalena,Imobiliaria,4,4,3,207,0,piscina e sauna
+803,Apartamento,Pina,Imobiliaria,4,3,3,230,0,piscina e salao de festas
+804,Apartamento,Madalena,Imobiliaria,2,1,1,80,0,piscina e playground
+805,Apartamento,Cid Universitaria,Imobiliaria,3,1,1,62,0,salao de festas e vestiario
+806,Apartamento,Cordeiro,Imobiliaria,2,0,1,88,0,nenhum
+807,Apartamento,Iputinga,Imobiliaria,2,1,1,58,0,nenhum
+808,Apartamento,Madalena,Imobiliaria,3,1,2,87,0,piscina e churrasqueira
+809,Apartamento,Poco da Panela,Imobiliaria,4,2,3,240,0,piscina e estacionamento visitantes
+810,Apartamento,Boa Viagem,Imobiliaria,3,1,2,100,65,piscina e copa
+811,Apartamento,Boa Viagem,Imobiliaria,3,1,2,131,0,piscina e churrasqueira
+812,Apartamento,Casa Forte,Imobiliaria,2,1,1,70,0,piscina e sauna
+813,Apartamento,Boa Viagem,Imobiliaria,1,0,1,36,0,piscina e churrasqueira
+814,Apartamento,Boa Viagem,Imobiliaria,3,3,1,138,0,salao de jogos
+815,Apartamento,Madalena,Imobiliaria,4,1,3,250,0,copa
+816,Apartamento,Boa Viagem,Imobiliaria,4,2,3,193,0,piscina e churrasqueira
+817,Apartamento,Boa Viagem,Imobiliaria,3,1,1,68,0,piscina e playground
+818,Apartamento,Iputinga,Imobiliaria,3,1,1,62,0,piscina e playground
+819,Apartamento,Apipucos,Imobiliaria,4,4,3,172,0,piscina e campo de futebol
+820,Apartamento,Jaqueira,Imobiliaria,3,3,2,117,0,piscina e campo de futebol
+821,Apartamento,Boa Viagem,Pessoa Fisica,1,1,1,65,0,piscina e playground
+822,Apartamento,Boa Viagem,Imobiliaria,3,1,2,86,0,piscina e churrasqueira
+823,Apartamento,Boa Viagem,Imobiliaria,4,2,2,126,0,piscina e churrasqueira
+824,Apartamento,Boa Vista,Imobiliaria,3,1,2,76,0,piscina e churrasqueira
+825,Apartamento,Boa Viagem,Imobiliaria,4,4,4,385,0,copa e salao de festas
+826,Apartamento,Boa Viagem,Imobiliaria,2,1,1,42,0,piscina e churrasqueira
+827,Apartamento,Madalena,Imobiliaria,2,1,0,54,0,piscina e playground
+828,Apartamento,Casa Amarela,Imobiliaria,3,1,2,82,0,piscina e sauna
+829,Apartamento,Cid Universitaria,Imobiliaria,3,0,1,86,0,nenhum
+830,Apartamento,Boa Viagem,Imobiliaria,4,2,2,128,0,piscina e playground
+831,Apartamento,Gracas,Imobiliaria,3,1,2,126,0,churrasqueira e playground
+832,Apartamento,Tamarineira,Imobiliaria,1,0,1,31,0,nenhum
+833,Apartamento,Madalena,Imobiliaria,3,1,2,141,0,piscina e churrasqueira
+834,Apartamento,Cordeiro,Imobiliaria,2,0,1,89,0,nenhum
+835,Apartamento,Boa Viagem,Imobiliaria,4,4,2,137,0,piscina e campo de futebol
+836,Apartamento,Madalena,Imobiliaria,4,4,3,154,0,piscina e playground
+837,Apartamento,Madalena,Imobiliaria,3,1,2,79,0,piscina e churrasqueira
+838,Apartamento,Imbiribeira,Pessoa Fisica,3,3,3,170,0,piscina e churrasqueira
+839,Apartamento,Boa Viagem,Imobiliaria,2,1,1,59,0,piscina e churrasqueira
+840,Apartamento,Encruzilhada,Imobiliaria,3,1,1,114,0,copa
+841,Apartamento,Casa Amarela,Imobiliaria,2,1,1,56,0,playground e salao de festas
+842,Apartamento,Encruzilhada,Imobiliaria,4,2,2,145,0,piscina e churrasqueira
+843,Casa,Iputinga,Imobiliaria,4,2,4,450,0,copa
+844,Casa,Parnamirim,Imobiliaria,4,1,2,200,250,copa
+845,Apartamento,Gracas,Imobiliaria,4,3,3,150,0,piscina e churrasqueira
+846,Apartamento,Espinheiro,Pessoa Fisica,3,1,1,64,0,piscina e churrasqueira
+847,Apartamento,Boa Viagem,Imobiliaria,2,0,1,68,0,copa
+848,Apartamento,Torre,Imobiliaria,2,1,1,63,0,piscina e estacionamento visitantes
+849,Apartamento,Setubal,Imobiliaria,3,2,2,110,25,piscina e sauna
+850,Apartamento,Pina,Imobiliaria,3,1,2,90,0,piscina
+851,Apartamento,Gracas,Imobiliaria,3,1,2,110,0,playground e quadra poliesportiva
+852,Apartamento,Encruzilhada,Imobiliaria,3,2,2,70,0,piscina
+853,Apartamento,Aflitos,Imobiliaria,3,1,2,111,75,piscina e playground
+854,Apartamento,Gracas,Imobiliaria,3,1,1,69,0,estacionamento visitantes e playground
+855,Apartamento,Casa Amarela,Imobiliaria,3,0,1,79,0,salao de festas
+856,Apartamento,Encruzilhada,Imobiliaria,3,1,1,59,0,nenhum
+857,Apartamento,Gracas,Imobiliaria,5,2,2,198,0,salao de festas
+858,Apartamento,Caxanga,Imobiliaria,2,1,1,55,0,piscina e churrasqueira
+859,Apartamento,Boa Viagem,Imobiliaria,3,3,3,155,0,piscina e sauna
+860,Casa,Cordeiro,Imobiliaria,3,2,1,86,0,nenhum
+861,Apartamento,Tamarineira,Imobiliaria,2,1,1,60,0,nenhum
+862,Apartamento,Boa Viagem,Imobiliaria,3,0,2,150,10,nenhum
+863,Apartamento,Casa Amarela,Imobiliaria,3,1,1,90,0,piscina e churrasqueira
+864,Apartamento,Setubal,Imobiliaria,2,2,1,73,0,piscina e sauna
+865,Apartamento,Boa Viagem,Imobiliaria,4,2,3,192,0,nenhum
+866,Apartamento,Boa Viagem,Imobiliaria,2,1,0,50,0,nenhum
+867,Apartamento,Espinheiro,Imobiliaria,4,1,2,210,0,piscina e churrasqueira
+868,Apartamento,Boa Viagem,Imobiliaria,4,3,6,407,210,frente para o mar
+869,Apartamento,Campo Grande,Imobiliaria,3,1,2,75,0,salao de festas
+870,Apartamento,Casa Forte,Imobiliaria,3,1,2,97,0,piscina e frente para o mar
+871,Apartamento,Boa Viagem,Imobiliaria,4,2,3,250,0,piscina e salao de festas
+872,Apartamento,Casa Amarela,Imobiliaria,3,1,2,81,0,sauna e playground
+873,Apartamento,Casa Forte,Imobiliaria,4,4,4,193,0,nenhum
+874,Apartamento,Monteiro,Imobiliaria,4,3,3,234,0,piscina e sauna
+875,Apartamento,Prado,Imobiliaria,2,0,1,68,0,esquina
+876,Apartamento,Parnamirim,Imobiliaria,4,2,3,180,0,piscina e sauna
+877,Apartamento,Derby,Imobiliaria,3,1,1,133,0,nenhum
+878,Apartamento,Tamarineira,Imobiliaria,3,0,1,86,0,estacionamento visitantes
+879,Apartamento,Sto Amaro,Imobiliaria,2,0,0,67,0,nenhum
+880,Apartamento,Boa Viagem,Imobiliaria,3,1,2,95,0,piscina e churrasqueira
+881,Apartamento,Boa Viagem,Imobiliaria,4,4,2,185,0,piscina e churrasqueira
+882,Apartamento,Santana,Imobiliaria,4,3,3,203,0,piscina e churrasqueira
+883,Apartamento,Casa Amarela,Imobiliaria,2,0,1,48,0,playground e salao de festas
+884,Apartamento,Boa Viagem,Imobiliaria,4,2,3,192,0,piscina e sauna
+885,Apartamento,Boa Viagem,Imobiliaria,4,4,0,280,0,piscina e frente para o mar
+886,Apartamento,Boa Viagem,Imobiliaria,3,1,2,101,0,piscina e playground
+887,Apartamento,Campo Grande,Imobiliaria,2,1,1,46,0,nenhum
+888,Apartamento,Torre,Pessoa Fisica,3,1,1,75,11,playground e sala de ginastica
+889,Apartamento,Boa Viagem,Imobiliaria,3,1,1,180,0,churrasqueira e salao de festas
+890,Apartamento,Aflitos,Imobiliaria,3,1,2,146,0,piscina e estacionamento visitantes
+891,Apartamento,Apipucos,Imobiliaria,5,4,3,158,0,piscina e churrasqueira
+892,Apartamento,Boa Viagem,Imobiliaria,3,2,2,110,0,piscina e playground
+893,Apartamento,Boa Vista,Imobiliaria,2,0,0,65,0,nenhum
+894,Apartamento,Boa Viagem,Imobiliaria,1,0,1,25,0,churrasqueira e playground
+895,Apartamento,Casa Forte,Imobiliaria,3,3,3,220,0,piscina e churrasqueira
+896,Apartamento,Aflitos,Imobiliaria,3,1,2,100,0,piscina e sauna
+897,Apartamento,Iputinga,Imobiliaria,2,1,1,51,0,piscina e salao de festas
+898,Apartamento,Boa Viagem,Imobiliaria,3,1,1,60,0,piscina e churrasqueira
+899,Apartamento,Boa Viagem,Pessoa Fisica,3,1,2,105,0,nenhum
+900,Apartamento,Boa Viagem,Imobiliaria,3,3,3,170,0,piscina e churrasqueira
+901,Apartamento,Casa Amarela,Imobiliaria,3,1,2,77,0,piscina e churrasqueira
+902,Apartamento,Setubal,Imobiliaria,2,1,1,69,0,piscina e churrasqueira
+903,Apartamento,Boa Viagem,Imobiliaria,4,1,2,189,0,copa e salao de festas
+904,Apartamento,Encruzilhada,Imobiliaria,3,1,2,137,0,nenhum
+905,Apartamento,Boa Viagem,Imobiliaria,4,2,1,101,0,nenhum
+906,Casa,Tamarineira,Imobiliaria,6,2,5,217,105,nenhum
+907,Apartamento,Setubal,Imobiliaria,4,2,3,154,0,piscina e churrasqueira
+908,Apartamento,Apipucos,Imobiliaria,4,2,2,140,0,piscina e campo de futebol
+909,Apartamento,Boa Viagem,Imobiliaria,5,4,3,341,0,piscina e sauna
+910,Apartamento,Boa Viagem,Imobiliaria,2,1,1,94,0,piscina e sauna
+911,Apartamento,Rosarinho,Imobiliaria,2,1,1,73,0,piscina e campo de futebol
+912,Apartamento,Boa Viagem,Imobiliaria,2,0,1,47,10,piscina e salao de festas
+913,Apartamento,Boa Viagem,Imobiliaria,4,3,3,246,0,copa e salao de festas
+914,Apartamento,Madalena,Imobiliaria,4,2,2,175,0,piscina e sauna
+915,Casa,Setubal,Imobiliaria,10,0,5,278,220,piscina e copa
+916,Apartamento,Campo Grande,Imobiliaria,3,1,1,62,0,piscina e playground
+917,Apartamento,Jaqueira,Imobiliaria,5,5,4,312,0,playground e salao de festas
+918,Apartamento,Espinheiro,Imobiliaria,3,1,2,77,0,piscina e churrasqueira
+919,Apartamento,Madalena,Imobiliaria,2,1,1,55,30,piscina e playground
+920,Apartamento,Boa Viagem,Pessoa Fisica,2,1,1,91,0,nenhum
+921,Casa,Apipucos,Imobiliaria,3,3,7,550,1210,piscina e churrasqueira
+922,Apartamento,Ilha do Retiro,Imobiliaria,4,2,3,140,0,piscina e salao de festas
+923,Apartamento,Boa Vista,Imobiliaria,2,0,0,54,21,nenhum
+924,Apartamento,Torre,Imobiliaria,3,1,1,60,0,playground e salao de festas
+925,Apartamento,Boa Viagem,Imobiliaria,3,1,1,61,0,piscina e sauna
+926,Apartamento,Boa Viagem,Imobiliaria,3,1,1,80,0,playground e salao de festas
+927,Apartamento,Boa Viagem,Imobiliaria,3,1,2,97,0,playground e salao de festas
+928,Apartamento,Parnamirim,Imobiliaria,2,1,1,89,0,sala de ginastica e salao de festas
+929,Apartamento,Casa Forte,Imobiliaria,4,3,3,156,0,piscina e sauna
+930,Casa,Iputinga,Imobiliaria,3,0,1,105,20,nenhum
+931,Apartamento,Espinheiro,Imobiliaria,3,0,2,78,0,piscina e sauna
+932,Casa,Cordeiro,Imobiliaria,5,1,3,179,0,piscina
+933,Apartamento,Casa Forte,Imobiliaria,3,1,1,69,0,piscina e churrasqueira
+934,Apartamento,Boa Viagem,Imobiliaria,3,2,2,115,20,piscina e churrasqueira
+935,Apartamento,Arruda,Imobiliaria,2,0,1,62,0,quadra poliesportiva e salao de festas
+936,Apartamento,Varzea,Imobiliaria,3,1,1,120,0,nenhum
+937,Apartamento,Boa Viagem,Imobiliaria,4,4,3,220,0,playground e salao de festas
+938,Apartamento,Campo Grande,Imobiliaria,3,1,1,61,0,piscina e churrasqueira
+939,Apartamento,Torre,Imobiliaria,4,4,3,203,0,piscina e churrasqueira
+940,Apartamento,Boa Viagem,Imobiliaria,3,1,2,75,72,playground e salao de festas
+941,Apartamento,Boa Viagem,Imobiliaria,5,5,6,580,0,frente para o mar e copa
+942,Apartamento,Boa Viagem,Imobiliaria,4,2,2,139,0,nenhum
+943,Apartamento,Boa Viagem,Imobiliaria,3,3,2,163,110,churrasqueira e frente para o mar
+944,Apartamento,Boa Viagem,Imobiliaria,3,1,1,144,0,nenhum
+945,Apartamento,Apipucos,Imobiliaria,4,2,2,227,0,playground e quadra poliesportiva
+946,Apartamento,Torre,Imobiliaria,2,1,1,56,0,salao de jogos
+947,Apartamento,Boa Viagem,Imobiliaria,1,1,1,70,0,piscina e playground
+948,Apartamento,Boa Viagem,Imobiliaria,3,1,2,95,0,playground e salao de festas
+949,Apartamento,Boa Viagem,Imobiliaria,4,2,2,158,0,piscina e playground
+950,Apartamento,Boa Viagem,Imobiliaria,3,1,2,86,0,nenhum
+951,Apartamento,Gracas,Imobiliaria,3,1,2,170,0,esquina
+952,Apartamento,Boa Viagem,Imobiliaria,4,3,1,260,0,copa e salao de festas
+953,Apartamento,Casa Forte,Imobiliaria,4,4,3,204,0,piscina e churrasqueira
+954,Apartamento,Caxanga,Imobiliaria,4,4,4,232,0,piscina e sauna
+955,Apartamento,Boa Viagem,Imobiliaria,2,1,0,71,0,piscina e churrasqueira
+956,Apartamento,Apipucos,Imobiliaria,4,4,3,317,0,piscina e campo de futebol
+957,Apartamento,Boa Viagem,Imobiliaria,1,1,1,35,0,piscina e salao de festas
+958,Apartamento,Campo Grande,Imobiliaria,3,1,1,63,0,piscina e playground
+959,Apartamento,Boa Viagem,Imobiliaria,2,1,1,52,0,nenhum
+960,Apartamento,Parnamirim,Imobiliaria,4,2,2,180,0,piscina e salao de festas
+961,Apartamento,Boa Viagem,Imobiliaria,3,1,2,124,0,nenhum
+962,Apartamento,Caxanga,Imobiliaria,3,1,2,84,0,piscina e churrasqueira
+963,Apartamento,Tamarineira,Imobiliaria,3,1,1,126,0,nenhum
+964,Casa,Pina,Imobiliaria,4,4,6,360,440,piscina
+965,Apartamento,Madalena,Imobiliaria,3,1,1,127,20,esquina
+966,Apartamento,Boa Viagem,Imobiliaria,2,0,1,45,0,piscina e churrasqueira
+967,Apartamento,Parnamirim,Imobiliaria,3,2,2,127,0,piscina e churrasqueira
+968,Apartamento,Boa Viagem,Imobiliaria,4,2,2,150,0,piscina e churrasqueira
+969,Apartamento,Torre,Imobiliaria,3,1,2,87,0,piscina e churrasqueira
+970,Apartamento,Boa Viagem,Pessoa Fisica,4,2,3,221,35,churrasqueira e frente para o mar
+971,Apartamento,Madalena,Imobiliaria,3,1,1,85,0,nenhum
+972,Apartamento,Boa Viagem,Imobiliaria,3,2,2,82,0,piscina e playground
+973,Apartamento,Rosarinho,Imobiliaria,1,0,1,33,0,piscina e sala de ginastica
+974,Apartamento,Boa Viagem,Imobiliaria,1,1,1,35,0,piscina e churrasqueira
+975,Apartamento,Boa Vista,Imobiliaria,1,0,1,50,0,nenhum
+976,Apartamento,Imbiribeira,Imobiliaria,2,1,1,73,0,piscina e churrasqueira
+977,Apartamento,Setubal,Imobiliaria,3,1,2,94,0,churrasqueira
+978,Apartamento,Jaqueira,Imobiliaria,6,6,5,900,0,piscina e churrasqueira
+979,Apartamento,Casa Amarela,Imobiliaria,3,1,2,157,0,salao de festas
+980,Apartamento,Setubal,Imobiliaria,2,0,1,75,0,nenhum
+981,Apartamento,Espinheiro,Imobiliaria,4,1,1,134,0,estacionamento visitantes
+982,Apartamento,Encruzilhada,Imobiliaria,3,1,1,62,0,piscina e playground
+983,Apartamento,Caxanga,Imobiliaria,2,1,1,55,0,piscina e churrasqueira
+984,Apartamento,Casa Forte,Imobiliaria,1,0,0,41,0,nenhum
+985,Apartamento,Monteiro,Imobiliaria,4,2,2,147,0,nenhum
+986,Apartamento,Rosarinho,Imobiliaria,3,3,3,180,0,piscina e churrasqueira
+987,Apartamento,Boa Viagem,Imobiliaria,4,4,3,185,0,piscina e sauna
+988,Apartamento,Boa Viagem,Imobiliaria,3,1,2,106,34,playground e salao de festas
+989,Apartamento,Boa Viagem,Imobiliaria,2,1,1,53,12,piscina e churrasqueira
+990,Apartamento,Boa Viagem,Imobiliaria,2,0,1,82,0,piscina e churrasqueira
+991,Apartamento,Boa Viagem,Imobiliaria,4,3,2,168,0,piscina e playground
+992,Apartamento,Ilha do Retiro,Imobiliaria,4,2,3,140,0,piscina e churrasqueira
+993,Apartamento,Gracas,Imobiliaria,3,0,1,74,0,estacionamento visitantes
+994,Apartamento,Madalena,Imobiliaria,3,1,2,98,0,piscina e playground
+995,Apartamento,Boa Viagem,Imobiliaria,4,4,3,170,0,piscina e churrasqueira
+996,Apartamento,Poco da Panela,Imobiliaria,3,0,2,109,0,piscina e churrasqueira
+997,Casa,Campo Grande,Imobiliaria,5,0,2,230,0,nenhum
+998,Apartamento,Boa Viagem,Imobiliaria,3,1,2,108,0,nenhum
+999,Apartamento,Madalena,Imobiliaria,3,1,2,113,0,piscina e sauna
+1000,Apartamento,Torre,Imobiliaria,3,1,2,90,0,piscina e churrasqueira
+1001,Apartamento,Boa Viagem,Imobiliaria,4,4,4,470,0,piscina e churrasqueira
+1002,Apartamento,Rosarinho,Imobiliaria,4,2,2,113,0,piscina e churrasqueira
+1003,Apartamento,Madalena,Imobiliaria,1,1,1,37,0,piscina e churrasqueira
+1004,Casa,Pina,Imobiliaria,4,0,0,300,0,nenhum
+1005,Apartamento,Casa Amarela,Imobiliaria,2,0,1,72,0,nenhum
+1006,Apartamento,Prado,Imobiliaria,3,1,1,61,0,piscina e playground
+1007,Apartamento,Boa Viagem,Imobiliaria,3,1,2,127,0,piscina e salao de festas
+1008,Apartamento,Boa Viagem,Imobiliaria,3,2,2,127,0,piscina e salao de festas
+1009,Apartamento,Encruzilhada,Imobiliaria,2,1,1,60,0,salao de festas
+1010,Apartamento,Torre,Imobiliaria,1,1,1,36,0,nenhum
+1011,Apartamento,Espinheiro,Imobiliaria,5,3,3,280,0,piscina e playground
+1012,Apartamento,Boa Viagem,Imobiliaria,2,1,2,86,6022,piscina e esquina
+1013,Apartamento,Prado,Imobiliaria,3,1,2,140,0,nenhum
+1014,Apartamento,Boa Viagem,Imobiliaria,2,0,0,53,0,nenhum
+1015,Apartamento,Boa Viagem,Imobiliaria,3,1,2,89,0,piscina e churrasqueira
+1016,Apartamento,Madalena,Imobiliaria,2,1,1,140,0,piscina e churrasqueira
+1017,Apartamento,Iputinga,Pessoa Fisica,3,0,1,59,0,churrasqueira e playground
+1018,Apartamento,Casa Amarela,Imobiliaria,4,3,3,125,0,piscina e churrasqueira
+1019,Apartamento,Varzea,Imobiliaria,3,1,1,78,0,nenhum
+1020,Apartamento,Rosarinho,Imobiliaria,3,1,1,63,0,piscina e copa
+1021,Apartamento,Boa Viagem,Imobiliaria,2,1,1,45,0,piscina e churrasqueira
+1022,Apartamento,Encruzilhada,Imobiliaria,2,1,1,51,0,piscina
+1023,Apartamento,Madalena,Imobiliaria,2,0,1,71,0,piscina e playground
+1024,Apartamento,Boa Viagem,Imobiliaria,4,4,3,250,0,frente para o mar e copa
+1025,Apartamento,Jaqueira,Imobiliaria,4,2,2,180,0,playground e quadra poliesportiva
+1026,Apartamento,Tamarineira,Imobiliaria,4,3,3,190,0,playground e quadra poliesportiva
+1027,Apartamento,Torre,Imobiliaria,3,1,2,85,0,piscina e playground
+1028,Apartamento,Boa Viagem,Imobiliaria,3,2,3,158,0,piscina e sauna
+1029,Apartamento,Casa Forte,Imobiliaria,4,2,3,183,0,piscina e playground
+1030,Apartamento,Gracas,Imobiliaria,3,1,1,127,0,playground e salao de festas
+1031,Apartamento,Casa Amarela,Imobiliaria,3,2,2,82,0,piscina e campo de futebol
+1032,Apartamento,Engenho do Meio,Imobiliaria,2,1,1,50,0,nenhum
+1033,Casa,Espinheiro,Imobiliaria,9,0,6,577,130,nenhum
+1034,Apartamento,Encruzilhada,Imobiliaria,3,1,1,97,0,nenhum
+1035,Apartamento,Pina,Imobiliaria,3,1,1,75,0,piscina e churrasqueira
+1036,Apartamento,Boa Viagem,Imobiliaria,4,1,1,120,0,nenhum
+1037,Apartamento,Iputinga,Imobiliaria,2,0,1,60,5,piscina e churrasqueira
+1038,Apartamento,Casa Forte,Imobiliaria,3,3,4,200,0,piscina e churrasqueira
+1039,Apartamento,Aflitos,Imobiliaria,3,1,1,74,0,piscina e churrasqueira
+1040,Apartamento,Boa Viagem,Imobiliaria,2,1,0,48,10,salao de festas e salao de jogos
+1041,Apartamento,Casa Amarela,Imobiliaria,2,1,1,60,0,playground e salao de festas
+1042,Apartamento,Gracas,Imobiliaria,1,0,1,35,0,estacionamento visitantes
+1043,Apartamento,Boa Viagem,Imobiliaria,4,3,2,149,0,piscina e churrasqueira
+1044,Apartamento,Boa Viagem,Imobiliaria,3,1,1,113,23,nenhum
+1045,Apartamento,Poco da Panela,Imobiliaria,2,1,1,61,0,piscina e salao de festas
+1046,Apartamento,Boa Viagem,Imobiliaria,3,2,2,87,0,piscina e sauna
+1047,Apartamento,Boa Viagem,Imobiliaria,4,2,2,126,0,piscina e churrasqueira
+1048,Apartamento,Boa Viagem,Imobiliaria,4,2,2,147,0,nenhum
+1049,Apartamento,Boa Viagem,Imobiliaria,4,4,3,170,0,piscina e churrasqueira
+1050,Apartamento,Parnamirim,Imobiliaria,4,2,2,186,0,playground e salao de festas
+1051,Apartamento,Casa Amarela,Imobiliaria,3,1,2,68,0,piscina e churrasqueira
+1052,Apartamento,Boa Viagem,Imobiliaria,4,4,3,231,0,piscina e sauna
+1053,Apartamento,Apipucos,Imobiliaria,4,2,2,240,0,churrasqueira e estacionamento visitantes
+1054,Apartamento,Boa Viagem,Imobiliaria,4,4,2,300,100,piscina e churrasqueira
+1055,Apartamento,Boa Viagem,Imobiliaria,2,1,1,57,0,nenhum
+1056,Apartamento,Parnamirim,Imobiliaria,2,0,1,45,0,playground e salao de festas
+1057,Apartamento,Boa Vista,Imobiliaria,3,1,2,145,5,nenhum
+1058,Apartamento,Boa Viagem,Imobiliaria,4,4,2,136,0,salao de festas
+1059,Casa,Boa Viagem,Imobiliaria,7,3,3,300,134,nenhum
+1060,Apartamento,Boa Vista,Imobiliaria,3,0,1,117,0,playground e salao de festas
+1061,Apartamento,Boa Viagem,Imobiliaria,1,1,1,25,0,piscina e playground
+1062,Apartamento,Boa Viagem,Imobiliaria,4,4,4,402,0,nenhum
+1063,Apartamento,Boa Viagem,Imobiliaria,4,2,1,162,0,piscina e churrasqueira
+1064,Apartamento,Boa Viagem,Imobiliaria,3,1,1,140,0,nenhum
+1065,Apartamento,Boa Viagem,Imobiliaria,3,1,2,86,0,piscina e playground
+1066,Apartamento,Boa Viagem,Imobiliaria,3,1,1,71,0,piscina e playground
+1067,Apartamento,Gracas,Imobiliaria,2,1,2,55,0,piscina e churrasqueira
+1068,Apartamento,Boa Viagem,Imobiliaria,3,1,2,101,0,piscina e churrasqueira
+1069,Apartamento,Espinheiro,Imobiliaria,4,2,3,196,0,piscina e sala de ginastica
+1070,Apartamento,Parnamirim,Imobiliaria,4,4,3,188,0,piscina e sauna
+1071,Apartamento,Boa Viagem,Imobiliaria,4,1,1,180,0,nenhum
+1072,Apartamento,Boa Viagem,Imobiliaria,4,4,3,280,0,salao de festas
+1073,Apartamento,Boa Viagem,Imobiliaria,3,2,2,90,0,piscina e playground
+1074,Apartamento,Torre,Imobiliaria,3,1,2,63,0,nenhum
+1075,Casa,Engenho do Meio,Imobiliaria,3,1,3,120,78,nenhum
+1076,Apartamento,Encruzilhada,Pessoa Fisica,3,2,1,60,0,piscina e sauna
+1077,Apartamento,Boa Viagem,Pessoa Fisica,2,1,1,48,0,piscina e frente para o mar
+1078,Apartamento,Imbiribeira,Imobiliaria,2,0,0,47,0,nenhum
+1079,Apartamento,Rosarinho,Imobiliaria,3,1,1,75,0,piscina e churrasqueira
+1080,Apartamento,Boa Viagem,Imobiliaria,3,2,2,104,42,salao de festas
+1081,Apartamento,Boa Viagem,Imobiliaria,3,1,1,72,0,piscina e churrasqueira
+1082,Apartamento,Poco da Panela,Imobiliaria,3,2,2,108,0,piscina e churrasqueira
+1083,Apartamento,Parnamirim,Imobiliaria,4,3,3,295,0,piscina e sauna
+1084,Apartamento,Casa Amarela,Imobiliaria,2,0,1,82,0,playground e quadra poliesportiva
+1085,Apartamento,Boa Viagem,Imobiliaria,3,1,2,163,0,esquina e salao de festas
+1086,Apartamento,Boa Vista,Imobiliaria,2,0,0,58,0,nenhum
+1087,Apartamento,Derby,Imobiliaria,3,1,1,97,0,piscina e playground
+1088,Apartamento,Boa Viagem,Pessoa Fisica,3,3,2,87,53,piscina e churrasqueira
+1089,Apartamento,Rosarinho,Imobiliaria,2,1,1,56,0,piscina e churrasqueira
+1090,Apartamento,Jaqueira,Imobiliaria,2,1,1,61,0,piscina e campo de futebol
+1091,Apartamento,Casa Forte,Imobiliaria,4,4,4,192,0,piscina e sauna
+1092,Apartamento,Boa Viagem,Imobiliaria,4,2,2,124,0,piscina e churrasqueira
+1093,Apartamento,Rosarinho,Imobiliaria,2,1,1,80,0,piscina e playground
+1094,Apartamento,Madalena,Imobiliaria,4,1,2,155,0,copa e salao de festas
+1095,Apartamento,Tamarineira,Imobiliaria,2,0,1,55,0,nenhum
+1096,Apartamento,Boa Viagem,Imobiliaria,3,1,2,103,0,playground e salao de festas
+1097,Apartamento,Boa Viagem,Imobiliaria,4,2,2,136,0,piscina e campo de futebol
+1098,Apartamento,Madalena,Imobiliaria,3,1,3,105,0,piscina e campo de futebol
+1099,Apartamento,Madalena,Imobiliaria,3,1,2,80,0,piscina e salao de festas
+1100,Apartamento,Madalena,Imobiliaria,4,4,3,153,0,piscina e churrasqueira
+1101,Apartamento,Casa Forte,Imobiliaria,3,3,3,152,0,piscina e copa
+1102,Apartamento,Boa Vista,Imobiliaria,3,1,2,90,0,piscina e copa
+1103,Apartamento,Imbiribeira,Imobiliaria,4,4,3,170,0,piscina e churrasqueira
+1104,Apartamento,Pina,Imobiliaria,3,1,2,105,0,piscina e sauna
+1105,Apartamento,Derby,Imobiliaria,3,1,2,84,0,piscina e playground
+1106,Apartamento,Madalena,Imobiliaria,3,1,2,66,0,piscina e estacionamento visitantes
+1107,Apartamento,Boa Viagem,Imobiliaria,4,2,2,133,0,piscina e frente para o mar
+1108,Apartamento,Boa Viagem,Imobiliaria,3,1,2,97,0,piscina e churrasqueira
+1109,Apartamento,Varzea,Imobiliaria,2,1,1,55,0,piscina e sauna
+1110,Apartamento,Boa Viagem,Imobiliaria,4,4,2,137,0,piscina e copa
+1111,Apartamento,Boa Viagem,Imobiliaria,4,4,3,183,0,piscina e salao de festas
+1112,Apartamento,Boa Viagem,Imobiliaria,3,3,3,200,0,nenhum
+1113,Apartamento,Madalena,Imobiliaria,3,1,1,72,0,nenhum
+1114,Apartamento,Rosarinho,Imobiliaria,2,1,1,55,0,piscina e campo de futebol
+1115,Apartamento,Pina,Imobiliaria,4,3,2,139,0,piscina e sauna
+1116,Apartamento,Imbiribeira,Imobiliaria,4,2,3,140,0,piscina e churrasqueira
+1117,Apartamento,Madalena,Pessoa Fisica,3,1,1,78,30,nenhum
+1118,Apartamento,Madalena,Imobiliaria,3,1,2,102,0,piscina e churrasqueira
+1119,Apartamento,Madalena,Imobiliaria,4,2,2,110,0,copa e playground
+1120,Casa,Cordeiro,Imobiliaria,3,0,3,170,90,nenhum
+1121,Apartamento,Gracas,Imobiliaria,4,1,2,218,147,piscina e churrasqueira
+1122,Apartamento,Encruzilhada,Imobiliaria,3,1,1,60,0,piscina e sauna
+1123,Apartamento,Aflitos,Imobiliaria,4,4,3,303,0,piscina e sauna
+1124,Apartamento,Boa Viagem,Imobiliaria,2,1,1,71,0,piscina e churrasqueira
+1125,Apartamento,Gracas,Imobiliaria,4,2,3,185,0,piscina e playground
+1126,Apartamento,Gracas,Imobiliaria,2,0,1,70,0,nenhum
+1127,Apartamento,Boa Viagem,Imobiliaria,4,3,2,149,0,piscina e churrasqueira
+1128,Apartamento,Campo Grande,Imobiliaria,3,1,1,70,0,churrasqueira e esquina
+1129,Apartamento,Setubal,Imobiliaria,4,3,3,154,0,piscina e churrasqueira
+1130,Apartamento,Casa Forte,Imobiliaria,1,0,1,55,20,sauna
+1131,Apartamento,Parnamirim,Imobiliaria,3,1,1,120,0,nenhum
+1132,Apartamento,Madalena,Imobiliaria,3,1,2,86,0,piscina e salao de festas
+1133,Apartamento,Madalena,Imobiliaria,3,1,1,150,0,churrasqueira e copa
+1134,Apartamento,Boa Viagem,Imobiliaria,4,4,4,278,0,piscina e sauna
+1135,Casa,Campo Grande,Pessoa Fisica,3,3,8,140,337,piscina
+1136,Apartamento,Torreao,Imobiliaria,5,2,3,375,0,frente para o mar e esquina
+1137,Apartamento,Derby,Imobiliaria,4,3,2,262,0,churrasqueira e playground
+1138,Apartamento,Boa Viagem,Imobiliaria,3,1,1,101,0,nenhum
+1139,Casa,Afogados,Imobiliaria,5,1,2,300,0,nenhum
+1140,Apartamento,Madalena,Imobiliaria,3,1,2,100,0,piscina e copa
+1141,Apartamento,Boa Viagem,Imobiliaria,1,1,1,30,0,piscina e sauna
+1142,Apartamento,Torre,Imobiliaria,3,1,2,80,0,piscina e churrasqueira
+1143,Apartamento,Boa Viagem,Imobiliaria,3,1,1,68,0,playground e quadra poliesportiva
+1144,Apartamento,Pina,Imobiliaria,3,1,1,70,0,nenhum
+1145,Apartamento,Casa Amarela,Imobiliaria,3,1,2,95,0,piscina e churrasqueira
+1146,Apartamento,Casa Amarela,Imobiliaria,2,1,1,52,0,piscina e churrasqueira
+1147,Apartamento,Madalena,Imobiliaria,3,1,2,91,0,nenhum
+1148,Apartamento,Boa Viagem,Imobiliaria,4,3,2,152,0,piscina e sauna
+1149,Apartamento,Boa Viagem,Imobiliaria,4,4,3,218,0,piscina e churrasqueira
+1150,Apartamento,Espinheiro,Imobiliaria,3,1,1,132,0,salao de festas
+1151,Apartamento,Torre,Imobiliaria,3,1,1,87,0,copa e quadra poliesportiva
+1152,Apartamento,Boa Viagem,Imobiliaria,4,4,4,401,0,piscina e sauna
+1153,Apartamento,Boa Viagem,Imobiliaria,4,1,2,200,0,copa e estacionamento visitantes
+1154,Apartamento,Boa Vista,Imobiliaria,1,0,0,56,0,nenhum
+1155,Apartamento,Boa Viagem,Imobiliaria,3,1,1,120,38,copa e playground
+1156,Apartamento,Madalena,Imobiliaria,3,1,2,102,0,piscina e playground
+1157,Apartamento,Torre,Imobiliaria,2,1,1,57,0,piscina e sauna
+1158,Apartamento,Boa Viagem,Imobiliaria,1,0,1,30,0,nenhum
+1159,Apartamento,Parnamirim,Imobiliaria,3,2,2,110,0,piscina e churrasqueira
+1160,Apartamento,Boa Viagem,Imobiliaria,2,1,1,57,0,piscina e churrasqueira
+1161,Apartamento,Boa Viagem,Imobiliaria,3,1,2,92,0,nenhum
+1162,Apartamento,Boa Viagem,Imobiliaria,3,1,1,68,0,piscina e churrasqueira
+1163,Apartamento,Madalena,Imobiliaria,3,1,2,94,0,piscina e playground
+1164,Casa,Fundao,Imobiliaria,4,1,5,104,239,nenhum
+1165,Apartamento,Casa Forte,Imobiliaria,4,4,3,245,0,piscina e churrasqueira
+1166,Apartamento,Boa Vista,Imobiliaria,3,1,2,150,0,copa
+1167,Apartamento,Gracas,Imobiliaria,3,1,1,139,16,nenhum
+1168,Apartamento,Rosarinho,Imobiliaria,3,1,1,75,0,nenhum
+1169,Casa,Boa Viagem,Imobiliaria,3,1,0,200,0,nenhum
+1170,Apartamento,Boa Viagem,Imobiliaria,4,2,4,467,0,nenhum
+1171,Apartamento,Boa Viagem,Imobiliaria,4,4,3,174,0,piscina e copa
+1172,Apartamento,Espinheiro,Imobiliaria,4,1,2,145,77,playground e salao de festas
+1173,Apartamento,Boa Viagem,Imobiliaria,3,1,2,123,0,piscina e frente para o mar
+1174,Apartamento,Gracas,Imobiliaria,4,1,2,256,0,playground e salao de festas
+1175,Apartamento,Encruzilhada,Imobiliaria,3,1,1,64,0,piscina e churrasqueira
+1176,Apartamento,Boa Viagem,Imobiliaria,3,1,0,89,0,churrasqueira
+1177,Apartamento,Casa Amarela,Imobiliaria,3,1,2,156,0,piscina e churrasqueira
+1178,Apartamento,Boa Viagem,Imobiliaria,4,1,2,180,0,playground e salao de festas
+1179,Apartamento,Boa Viagem,Imobiliaria,4,2,3,210,0,frente para o mar e copa
+1180,Apartamento,Ilha do Retiro,Imobiliaria,3,1,2,94,0,piscina e churrasqueira
+1181,Apartamento,Espinheiro,Imobiliaria,4,2,3,147,0,sauna e playground
+1182,Apartamento,Gracas,Imobiliaria,1,0,1,33,0,piscina e churrasqueira
+1183,Apartamento,Boa Viagem,Imobiliaria,1,0,0,24,0,piscina e esquina
+1184,Apartamento,Madalena,Imobiliaria,3,1,1,135,35,piscina e churrasqueira
+1185,Apartamento,Pina,Imobiliaria,3,0,1,95,0,nenhum
+1186,Apartamento,Afogados,Imobiliaria,2,0,1,62,19,nenhum
+1187,Apartamento,Gracas,Imobiliaria,3,1,1,94,0,salao de festas
+1188,Apartamento,Boa Viagem,Imobiliaria,3,2,2,127,20,piscina e esquina
+1189,Apartamento,Cordeiro,Imobiliaria,2,1,1,66,0,nenhum
+1190,Apartamento,Boa Viagem,Imobiliaria,4,3,3,150,0,piscina e frente para o mar
+1191,Apartamento,Madalena,Imobiliaria,3,1,1,70,0,piscina e churrasqueira
+1192,Apartamento,Boa Viagem,Imobiliaria,1,0,1,40,0,nenhum
+1193,Apartamento,Gracas,Imobiliaria,4,2,3,300,0,piscina e copa
+1194,Apartamento,Gracas,Imobiliaria,3,1,2,97,0,piscina e salao de festas
+1195,Apartamento,Boa Vista,Imobiliaria,1,0,0,32,26,piscina e playground
+1196,Apartamento,Cid Universitaria,Imobiliaria,3,1,1,70,0,piscina e churrasqueira
+1197,Apartamento,Boa Viagem,Imobiliaria,3,1,1,83,0,piscina e churrasqueira
+1198,Apartamento,Encruzilhada,Imobiliaria,3,1,2,75,0,esquina e playground
+1199,Apartamento,Boa Viagem,Imobiliaria,2,1,1,72,0,copa e esquina
+1200,Apartamento,Rosarinho,Imobiliaria,3,1,1,82,0,piscina e churrasqueira
+1201,Apartamento,Madalena,Imobiliaria,4,2,2,110,0,copa
+1202,Apartamento,Boa Viagem,Imobiliaria,3,1,2,97,0,nenhum
+1203,Apartamento,Varzea,Imobiliaria,2,1,1,60,0,nenhum
+1204,Apartamento,Varzea,Imobiliaria,3,0,1,67,0,piscina e churrasqueira
+1205,Apartamento,Torre,Imobiliaria,2,1,2,55,0,campo de futebol e playground
+1206,Apartamento,Pina,Imobiliaria,2,1,1,75,0,nenhum
+1207,Apartamento,Campo Grande,Imobiliaria,3,1,1,75,0,nenhum
+1208,Casa,Guabiraba,Imobiliaria,4,4,4,289,161,churrasqueira e sauna
+1209,Apartamento,Boa Viagem,Imobiliaria,3,1,2,107,0,piscina e churrasqueira
+1210,Casa,Iputinga,Imobiliaria,4,0,0,150,0,nenhum
+1211,Apartamento,Boa Viagem,Imobiliaria,4,1,2,189,0,frente para o mar e copa
+1212,Apartamento,Madalena,Imobiliaria,3,0,0,70,0,piscina e churrasqueira
+1213,Apartamento,Boa Viagem,Pessoa Fisica,4,1,3,188,0,estacionamento visitantes
+1214,Apartamento,Madalena,Imobiliaria,4,4,3,153,0,piscina e churrasqueira
+1215,Apartamento,Iputinga,Pessoa Fisica,2,1,1,60,0,nenhum
+1216,Apartamento,Casa Forte,Imobiliaria,3,1,1,75,0,playground e salao de festas
+1217,Casa,Hipodromo,Imobiliaria,4,2,3,400,162,copa
+1218,Apartamento,Setubal,Imobiliaria,3,1,1,77,0,piscina e playground
+1219,Apartamento,Boa Viagem,Imobiliaria,3,1,0,99,0,playground e salao de festas
+1220,Apartamento,Jaqueira,Imobiliaria,3,1,2,113,0,salao de festas e vestiario
+1221,Apartamento,Pina,Imobiliaria,3,1,1,71,0,piscina e playground
+1222,Apartamento,Ipsep,Pessoa Fisica,2,0,1,50,0,nenhum
+1223,Apartamento,Boa Viagem,Imobiliaria,3,1,1,70,0,piscina e churrasqueira
+1224,Apartamento,Madalena,Imobiliaria,3,1,2,112,0,piscina e churrasqueira
+1225,Apartamento,Boa Viagem,Imobiliaria,3,1,2,85,20,piscina e churrasqueira
+1226,Apartamento,Gracas,Imobiliaria,3,1,1,100,25,salao de festas
+1227,Apartamento,Rosarinho,Imobiliaria,2,1,1,54,0,piscina e churrasqueira
+1228,Apartamento,Monteiro,Imobiliaria,3,2,2,109,0,nenhum
+1229,Apartamento,Rosarinho,Imobiliaria,4,2,2,113,67,piscina e sauna
+1230,Apartamento,Casa Amarela,Imobiliaria,2,1,1,58,0,piscina e churrasqueira
+1231,Apartamento,Madalena,Imobiliaria,4,4,3,153,0,churrasqueira e sauna
+1232,Apartamento,Jaqueira,Imobiliaria,1,0,1,38,0,piscina e churrasqueira
+1233,Apartamento,Torre,Imobiliaria,3,2,2,90,0,nenhum
+1234,Apartamento,Boa Viagem,Imobiliaria,3,1,2,95,0,piscina e churrasqueira
+1235,Apartamento,Madalena,Imobiliaria,4,2,3,220,130,piscina e children care
+1236,Apartamento,Boa Vista,Imobiliaria,3,1,1,70,0,nenhum
+1237,Apartamento,Boa Viagem,Imobiliaria,4,4,3,340,0,nenhum
+1238,Apartamento,Iputinga,Imobiliaria,3,1,2,72,0,piscina e sauna
+1239,Apartamento,Boa Viagem,Imobiliaria,4,1,2,107,28,piscina e salao de festas
+1240,Apartamento,Parnamirim,Imobiliaria,1,0,1,38,0,salao de festas
+1241,Apartamento,Aflitos,Imobiliaria,4,1,2,154,31,playground
+1242,Apartamento,Parnamirim,Imobiliaria,1,0,1,34,0,piscina e salao de festas
+1243,Apartamento,Cordeiro,Imobiliaria,2,1,1,70,0,playground e quadra poliesportiva
+1244,Apartamento,Torre,Imobiliaria,2,1,1,56,0,piscina e churrasqueira
+1245,Apartamento,Sto Amaro,Imobiliaria,2,1,1,577,0,piscina e churrasqueira
+1246,Apartamento,Boa Viagem,Imobiliaria,4,3,3,274,0,piscina e churrasqueira
+1247,Apartamento,Pina,Imobiliaria,3,3,3,240,0,piscina e copa
+1248,Apartamento,Iputinga,Imobiliaria,3,1,1,90,0,nenhum
+1249,Apartamento,Torre,Imobiliaria,3,1,1,51,0,piscina e churrasqueira
+1250,Apartamento,Torre,Imobiliaria,2,1,1,70,0,nenhum
+1251,Apartamento,Encruzilhada,Imobiliaria,4,4,2,150,0,nenhum
+1252,Apartamento,Boa Viagem,Imobiliaria,4,4,3,158,0,piscina e sauna
+1253,Apartamento,Casa Forte,Imobiliaria,3,1,2,85,0,playground e salao de festas
+1254,Apartamento,Pina,Imobiliaria,3,1,1,72,0,nenhum
+1255,Apartamento,Gracas,Imobiliaria,4,2,3,237,0,piscina e churrasqueira
+1256,Apartamento,Casa Forte,Imobiliaria,3,1,2,98,0,salao de festas
+1257,Apartamento,Boa Viagem,Imobiliaria,3,1,1,64,0,piscina e playground
+1258,Apartamento,Casa Forte,Imobiliaria,3,1,2,130,0,piscina e churrasqueira
+1259,Casa,Casa Forte,Imobiliaria,3,0,5,220,146,nenhum
+1260,Apartamento,Boa Viagem,Imobiliaria,3,1,2,86,0,piscina e churrasqueira
+1261,Apartamento,Torre,Imobiliaria,3,1,1,80,0,playground e quadra poliesportiva
+1262,Apartamento,Derby,Imobiliaria,1,0,1,50,0,nenhum
+1263,Apartamento,Boa Viagem,Imobiliaria,4,3,2,135,0,piscina e sauna
+1264,Apartamento,Madalena,Imobiliaria,2,1,1,65,0,piscina e playground
+1265,Apartamento,Boa Viagem,Imobiliaria,4,3,3,168,0,piscina e copa
+1266,Apartamento,Torreao,Imobiliaria,2,1,1,64,0,nenhum
+1267,Apartamento,Prado,Imobiliaria,3,1,2,82,0,piscina e churrasqueira
+1268,Apartamento,Aflitos,Imobiliaria,3,1,2,74,0,piscina e churrasqueira
+1269,Apartamento,Tamarineira,Imobiliaria,2,1,1,54,0,nenhum
+1270,Apartamento,Torre,Imobiliaria,4,3,2,112,0,piscina e churrasqueira
+1271,Apartamento,Apipucos,Imobiliaria,4,3,4,220,0,piscina e estacionamento visitantes
+1272,Apartamento,Madalena,Imobiliaria,4,2,2,91,0,piscina e churrasqueira
+1273,Apartamento,Rosarinho,Imobiliaria,4,2,3,153,0,piscina e sauna
+1274,Apartamento,Espinheiro,Imobiliaria,3,1,2,106,0,nenhum
+1275,Apartamento,Sancho,Imobiliaria,3,0,0,58,0,nenhum
+1276,Apartamento,Torreao,Imobiliaria,4,4,3,188,0,piscina e esquina
+1277,Apartamento,Casa Amarela,Imobiliaria,3,1,2,92,0,piscina e salao de festas
+1278,Apartamento,Ilha do Retiro,Imobiliaria,4,2,3,140,0,piscina e churrasqueira
+1279,Apartamento,Boa Viagem,Imobiliaria,6,2,2,353,0,nenhum
+1280,Apartamento,Boa Viagem,Imobiliaria,1,0,0,27,0,piscina
+1281,Apartamento,Encruzilhada,Imobiliaria,2,1,2,56,0,piscina e churrasqueira
+1282,Apartamento,Casa Forte,Imobiliaria,4,2,2,240,0,churrasqueira e campo de futebol
+1283,Apartamento,Gracas,Imobiliaria,4,1,3,200,30,salao de festas
+1284,Apartamento,Rosarinho,Imobiliaria,3,1,2,87,0,piscina e playground
+1285,Apartamento,Monteiro,Imobiliaria,4,2,2,140,0,piscina e estacionamento visitantes
+1286,Apartamento,Apipucos,Imobiliaria,2,1,1,67,0,sauna e playground
+1287,Apartamento,Madalena,Imobiliaria,3,1,1,61,0,nenhum
+1288,Apartamento,Cordeiro,Imobiliaria,2,1,1,61,0,piscina e churrasqueira
+1289,Apartamento,Encruzilhada,Imobiliaria,2,1,1,51,0,piscina e churrasqueira
+1290,Apartamento,Boa Viagem,Imobiliaria,4,2,3,190,0,copa
+1291,Casa,Cajueiro,Imobiliaria,4,2,4,210,0,piscina
+1292,Apartamento,Recife,Imobiliaria,3,1,2,125,0,piscina e frente para o mar
+1293,Apartamento,Boa Viagem,Imobiliaria,3,1,2,130,0,copa e salao de festas
+1294,Apartamento,Boa Viagem,Imobiliaria,4,2,4,300,0,salao de festas
+1295,Apartamento,Rosarinho,Imobiliaria,3,1,1,75,0,piscina e churrasqueira
+1296,Apartamento,Boa Viagem,Imobiliaria,3,1,2,140,0,piscina e salao de festas
+1297,Apartamento,Boa Viagem,Imobiliaria,2,1,2,54,0,piscina e salao de festas
+1298,Apartamento,Boa Viagem,Imobiliaria,1,0,1,43,0,piscina e sala de ginastica
+1299,Apartamento,Boa Viagem,Imobiliaria,3,1,2,86,0,piscina e copa
+1300,Apartamento,Gracas,Imobiliaria,4,2,3,188,0,piscina e churrasqueira
+1301,Apartamento,Boa Viagem,Imobiliaria,2,0,1,75,0,piscina e churrasqueira
+1302,Apartamento,Boa Viagem,Imobiliaria,3,3,4,128,0,piscina e churrasqueira
+1303,Apartamento,Boa Viagem,Imobiliaria,3,1,1,122,0,frente para o mar
+1304,Apartamento,Boa Viagem,Imobiliaria,3,1,1,118,0,piscina e churrasqueira
+1305,Apartamento,Boa Viagem,Imobiliaria,3,2,2,105,0,piscina e playground
+1306,Apartamento,Boa Viagem,Imobiliaria,4,3,2,158,0,piscina e churrasqueira
+1307,Apartamento,Boa Viagem,Imobiliaria,3,1,1,110,0,salao de festas
+1308,Apartamento,Boa Viagem,Imobiliaria,4,4,3,224,0,esquina e salao de festas
+1309,Apartamento,Rosarinho,Pessoa Fisica,4,2,2,105,0,piscina e sauna
+1310,Apartamento,Madalena,Imobiliaria,2,1,1,51,0,piscina e churrasqueira
+1311,Apartamento,Rosarinho,Imobiliaria,3,1,1,69,0,piscina e churrasqueira
+1312,Apartamento,Madalena,Imobiliaria,2,0,1,70,30,piscina e churrasqueira
+1313,Apartamento,Boa Viagem,Imobiliaria,4,2,2,132,0,piscina e churrasqueira
+1314,Apartamento,Iputinga,Imobiliaria,3,1,1,80,0,estacionamento visitantes
+1315,Apartamento,Torre,Imobiliaria,4,4,3,208,0,piscina e sauna
+1316,Apartamento,Rosarinho,Imobiliaria,4,4,3,160,0,nenhum
+1317,Apartamento,Boa Viagem,Imobiliaria,2,0,1,80,0,copa
+1318,Apartamento,Boa Viagem,Imobiliaria,3,1,1,78,0,nenhum
+1319,Apartamento,Gracas,Imobiliaria,3,1,0,130,50,nenhum
+1320,Apartamento,Casa Forte,Imobiliaria,3,2,2,105,0,piscina e sala de ginastica
+1321,Casa,Encruzilhada,Imobiliaria,5,2,2,470,116,piscina e copa
+1322,Casa,Parnamirim,Imobiliaria,3,0,3,300,0,nenhum
+1323,Apartamento,Rosarinho,Imobiliaria,4,2,2,132,0,piscina e churrasqueira
+1324,Apartamento,Madalena,Imobiliaria,3,1,1,130,0,piscina e churrasqueira
+1325,Apartamento,Boa Viagem,Imobiliaria,3,1,1,86,0,playground e quadra poliesportiva
+1326,Apartamento,Boa Viagem,Imobiliaria,4,1,2,154,0,piscina e campo de futebol
+1327,Apartamento,Jaqueira,Imobiliaria,3,1,2,113,0,piscina e playground
+1328,Apartamento,Iputinga,Imobiliaria,3,0,1,62,0,estacionamento visitantes e playground
+1329,Apartamento,Varzea,Imobiliaria,2,0,1,49,0,churrasqueira e estacionamento visitantes
+1330,Apartamento,Torreao,Imobiliaria,3,0,1,110,0,nenhum
+1331,Apartamento,Boa Viagem,Imobiliaria,2,1,1,60,0,nenhum
+1332,Apartamento,Boa Viagem,Imobiliaria,4,1,2,280,0,frente para o mar e children care
+1333,Apartamento,Boa Viagem,Imobiliaria,3,1,2,86,0,piscina e salao de festas
+1334,Apartamento,Espinheiro,Imobiliaria,4,2,2,113,0,piscina e churrasqueira
+1335,Apartamento,Boa Viagem,Imobiliaria,4,4,2,137,0,piscina e churrasqueira
+1336,Apartamento,Casa Amarela,Imobiliaria,3,1,2,106,0,piscina e churrasqueira
+1337,Apartamento,Boa Vista,Imobiliaria,3,1,2,76,0,piscina e churrasqueira
+1338,Apartamento,Encruzilhada,Imobiliaria,3,1,1,61,0,piscina e churrasqueira
+1339,Apartamento,Madalena,Imobiliaria,3,1,2,85,0,piscina e salao de festas
+1340,Apartamento,Tamarineira,Imobiliaria,2,1,1,50,0,piscina e playground
+1341,Apartamento,Rosarinho,Imobiliaria,4,2,3,125,0,sauna e playground
+1342,Apartamento,Torre,Imobiliaria,3,1,2,96,0,piscina e copa
+1343,Apartamento,Casa Forte,Imobiliaria,4,4,3,375,0,piscina e churrasqueira
+1344,Apartamento,Boa Viagem,Imobiliaria,4,4,3,170,0,nenhum
+1345,Apartamento,Poco da Panela,Imobiliaria,4,2,2,140,0,piscina e churrasqueira
+1346,Apartamento,Boa Viagem,Imobiliaria,4,3,3,400,0,piscina e playground
+1347,Apartamento,Boa Viagem,Imobiliaria,3,2,2,114,0,piscina e playground
+1348,Casa,Parnamirim,Imobiliaria,3,1,2,191,0,nenhum
+1349,Apartamento,Rosarinho,Imobiliaria,3,1,2,119,0,piscina e salao de festas
+1350,Apartamento,Hipodromo,Imobiliaria,3,1,1,79,0,piscina e churrasqueira
+1351,Apartamento,Boa Viagem,Imobiliaria,2,1,1,80,0,piscina e churrasqueira
+1352,Apartamento,Torre,Imobiliaria,3,1,2,86,0,piscina e campo de futebol
+1353,Apartamento,Espinheiro,Imobiliaria,4,4,3,320,121,copa
+1354,Casa,Varzea,Imobiliaria,3,1,1,202,0,nenhum
+1355,Apartamento,Setubal,Imobiliaria,3,1,2,110,0,piscina e esquina
+1356,Apartamento,Aflitos,Imobiliaria,3,1,2,74,0,piscina e churrasqueira
+1357,Apartamento,Espinheiro,Pessoa Fisica,3,1,2,147,12,copa e estacionamento visitantes
+1358,Apartamento,Casa Amarela,Imobiliaria,2,1,1,50,0,piscina e campo de futebol
+1359,Apartamento,Aflitos,Imobiliaria,3,1,2,98,0,piscina e churrasqueira
+1360,Apartamento,Beira Rio,Imobiliaria,3,1,2,89,0,piscina e churrasqueira
+1361,Apartamento,Madalena,Imobiliaria,3,1,2,86,0,piscina e churrasqueira
+1362,Casa,Cordeiro,Imobiliaria,3,0,4,200,220,nenhum
+1363,Apartamento,Espinheiro,Imobiliaria,3,1,2,150,0,playground e salao de festas
+1364,Apartamento,Boa Viagem,Imobiliaria,4,3,3,125,0,nenhum
+1365,Apartamento,Pina,Pessoa Fisica,3,1,2,123,0,piscina e salao de festas
+1366,Apartamento,Gracas,Pessoa Fisica,5,2,2,330,0,nenhum
+1367,Apartamento,Parnamirim,Imobiliaria,4,2,2,180,0,piscina e copa
+1368,Apartamento,Boa Viagem,Imobiliaria,3,1,1,61,0,piscina e sauna
+1369,Apartamento,Encruzilhada,Imobiliaria,2,1,1,50,0,playground e salao de festas
+1370,Apartamento,Madalena,Imobiliaria,3,1,1,70,0,piscina e campo de futebol
+1371,Apartamento,Boa Viagem,Imobiliaria,2,0,0,51,0,nenhum
+1372,Apartamento,Boa Viagem,Imobiliaria,4,3,2,130,0,piscina e sauna
+1373,Apartamento,Casa Amarela,Imobiliaria,3,1,1,62,0,piscina e churrasqueira
+1374,Apartamento,Espinheiro,Imobiliaria,2,1,1,46,0,piscina
+1375,Apartamento,Boa Viagem,Imobiliaria,4,2,3,196,0,piscina e churrasqueira
+1376,Apartamento,Monteiro,Imobiliaria,3,1,2,80,0,piscina e salao de festas
+1377,Apartamento,Boa Viagem,Imobiliaria,3,1,0,108,0,piscina e churrasqueira
+1378,Apartamento,Encruzilhada,Imobiliaria,3,1,1,77,0,nenhum
+1379,Apartamento,Cordeiro,Imobiliaria,2,1,1,56,0,piscina e churrasqueira
+1380,Apartamento,Boa Viagem,Imobiliaria,3,1,1,74,0,piscina e salao de festas
+1381,Apartamento,Boa Viagem,Imobiliaria,2,0,1,54,46,piscina e salao de festas
+1382,Apartamento,Boa Viagem,Imobiliaria,4,2,2,120,50,piscina
+1383,Apartamento,Casa Amarela,Imobiliaria,2,0,1,41,0,piscina e playground
+1384,Apartamento,Aflitos,Imobiliaria,3,2,2,120,0,piscina e churrasqueira
+1385,Apartamento,Boa Viagem,Imobiliaria,3,1,2,131,0,playground e salao de festas
+1386,Apartamento,Boa Vista,Imobiliaria,4,4,3,176,0,piscina e churrasqueira
+1387,Apartamento,Aflitos,Imobiliaria,3,1,2,112,0,piscina e churrasqueira
+1388,Apartamento,Boa Viagem,Imobiliaria,3,2,2,180,52,sauna e playground
+1389,Apartamento,Torre,Imobiliaria,2,0,1,56,0,playground e quadra poliesportiva
+1390,Apartamento,Boa Viagem,Imobiliaria,4,2,3,260,0,piscina e frente para o mar
+1391,Apartamento,Rosarinho,Imobiliaria,4,2,2,115,0,nenhum
+1392,Apartamento,Imbiribeira,Imobiliaria,2,0,1,60,0,nenhum
+1393,Apartamento,Encruzilhada,Imobiliaria,3,1,1,63,0,churrasqueira e estacionamento visitantes
+1394,Apartamento,Boa Viagem,Imobiliaria,2,1,1,67,0,piscina e churrasqueira
+1395,Apartamento,Poco da Panela,Imobiliaria,4,4,3,183,0,piscina e churrasqueira
+1396,Apartamento,Campo Grande,Imobiliaria,2,0,1,69,0,estacionamento visitantes
+1397,Apartamento,Boa Viagem,Imobiliaria,3,3,2,142,0,piscina e campo de futebol
+1398,Apartamento,Madalena,Imobiliaria,4,1,2,118,0,salao de festas e salao de jogos
+1399,Apartamento,Rosarinho,Imobiliaria,3,2,2,132,0,piscina e churrasqueira
+1400,Apartamento,Boa Viagem,Imobiliaria,4,4,2,138,0,piscina e sauna
+1401,Apartamento,Campo Grande,Imobiliaria,3,1,1,65,0,piscina e churrasqueira
+1402,Apartamento,Madalena,Imobiliaria,3,1,1,68,0,piscina e churrasqueira
+1403,Apartamento,Apipucos,Imobiliaria,4,4,3,158,92,piscina e campo de futebol
+1404,Apartamento,Madalena,Pessoa Fisica,2,1,1,53,0,piscina e churrasqueira
+1405,Apartamento,Boa Viagem,Imobiliaria,4,4,3,155,0,piscina e sauna
+1406,Apartamento,Tamarineira,Imobiliaria,3,1,2,82,0,piscina e churrasqueira
+1407,Apartamento,Pina,Imobiliaria,3,1,1,72,0,piscina e churrasqueira
+1408,Apartamento,Boa Viagem,Imobiliaria,3,1,1,91,0,playground e salao de festas
+1409,Apartamento,Boa Viagem,Imobiliaria,2,2,1,169,0,nenhum
+1410,Casa,Ilha do Leite,Imobiliaria,8,0,6,212,0,nenhum
+1411,Apartamento,Iputinga,Imobiliaria,3,0,1,16,0,churrasqueira e playground
+1412,Apartamento,Boa Viagem,Imobiliaria,4,4,2,185,0,piscina e sauna
+1413,Apartamento,Boa Viagem,Imobiliaria,4,4,3,185,0,piscina e churrasqueira
+1414,Casa,Piedade,Imobiliaria,5,4,10,400,441,piscina e churrasqueira
+1415,Apartamento,Poco da Panela,Imobiliaria,4,2,2,123,0,nenhum
+1416,Apartamento,Encruzilhada,Imobiliaria,3,2,2,70,0,piscina
+1417,Apartamento,Boa Viagem,Imobiliaria,4,2,2,220,0,churrasqueira e frente para o mar
+1418,Apartamento,Boa Viagem,Imobiliaria,3,1,2,125,0,nenhum
+1419,Apartamento,Torre,Imobiliaria,2,0,1,55,25,piscina e playground
+1420,Apartamento,Boa Viagem,Imobiliaria,4,2,2,125,0,nenhum
+1421,Apartamento,Boa Viagem,Imobiliaria,4,4,4,384,0,piscina e sauna
+1422,Apartamento,Boa Viagem,Imobiliaria,4,4,3,170,0,nenhum
+1423,Apartamento,Boa Viagem,Imobiliaria,4,1,1,153,0,salao de festas
+1424,Apartamento,Varzea,Imobiliaria,3,1,1,64,0,nenhum
+1425,Apartamento,Boa Viagem,Imobiliaria,2,1,1,75,0,piscina e playground
+1426,Apartamento,Pina,Imobiliaria,1,0,1,36,0,piscina e copa
+1427,Apartamento,Boa Viagem,Imobiliaria,4,1,2,175,0,copa e salao de festas
+1428,Apartamento,Rosarinho,Imobiliaria,3,1,2,95,0,piscina e churrasqueira
+1429,Apartamento,Parnamirim,Imobiliaria,4,1,2,182,53,copa e salao de festas
+1430,Apartamento,Casa Forte,Imobiliaria,3,2,2,107,0,copa e playground
+1431,Apartamento,Gracas,Imobiliaria,4,1,2,173,0,nenhum
+1432,Apartamento,Aflitos,Imobiliaria,3,1,2,102,0,piscina e churrasqueira
+1433,Apartamento,Boa Viagem,Imobiliaria,3,1,2,154,28,piscina e esquina
+1434,Apartamento,Boa Viagem,Imobiliaria,2,0,1,70,0,nenhum
+1435,Apartamento,Boa Viagem,Imobiliaria,2,1,0,75,0,salao de festas
+1436,Apartamento,Jaqueira,Imobiliaria,3,1,2,113,0,piscina
+1437,Casa,Cordeiro,Imobiliaria,4,2,12,200,472,esquina
+1438,Apartamento,Boa Viagem,Imobiliaria,4,4,4,230,0,piscina e churrasqueira
+1439,Apartamento,Jaqueira,Imobiliaria,5,5,4,312,0,nenhum
+1440,Apartamento,Boa Viagem,Imobiliaria,4,2,2,137,0,piscina e churrasqueira
+1441,Apartamento,Boa Viagem,Imobiliaria,3,1,2,86,0,piscina e copa
+1442,Apartamento,Derby,Imobiliaria,4,3,2,282,100,piscina e frente para o mar
+1443,Apartamento,Torre,Imobiliaria,3,1,2,89,0,nenhum
+1444,Apartamento,Boa Viagem,Imobiliaria,4,2,2,190,0,nenhum
+1445,Apartamento,Parnamirim,Imobiliaria,1,0,1,34,0,salao de festas
+1446,Apartamento,Parnamirim,Imobiliaria,3,1,2,86,0,playground e salao de festas
+1447,Apartamento,Torre,Imobiliaria,2,1,1,79,0,piscina e churrasqueira
+1448,Apartamento,Casa Forte,Imobiliaria,4,3,2,191,16,piscina e churrasqueira
+1449,Apartamento,Boa Viagem,Imobiliaria,4,1,2,220,0,nenhum
+1450,Apartamento,Torre,Imobiliaria,2,0,1,56,0,playground e salao de festas
+1451,Apartamento,Boa Viagem,Imobiliaria,3,1,2,200,0,frente para o mar
+1452,Apartamento,Rosarinho,Imobiliaria,2,2,1,74,47,sauna e playground
+1453,Apartamento,Boa Viagem,Imobiliaria,4,2,2,190,0,frente para o mar e copa
+1454,Apartamento,Espinheiro,Imobiliaria,3,1,1,70,0,nenhum
+1455,Apartamento,Madalena,Imobiliaria,3,0,1,112,0,salao de festas
+1456,Apartamento,Boa Vista,Imobiliaria,3,0,1,126,0,nenhum
+1457,Apartamento,Varzea,Imobiliaria,3,0,1,87,0,esquina e playground
+1458,Apartamento,Setubal,Imobiliaria,3,1,2,108,0,piscina e churrasqueira
+1459,Apartamento,Casa Amarela,Imobiliaria,3,1,1,61,0,piscina e churrasqueira
+1460,Apartamento,Boa Viagem,Imobiliaria,2,1,0,50,0,piscina e sauna
+1461,Apartamento,Boa Viagem,Imobiliaria,3,1,1,68,10,piscina e children care
+1462,Apartamento,Apipucos,Imobiliaria,4,4,3,172,0,piscina e churrasqueira
+1463,Apartamento,Casa Amarela,Imobiliaria,3,2,2,115,0,piscina e sauna
+1464,Apartamento,Jaqueira,Imobiliaria,3,1,1,66,0,piscina e churrasqueira
+1465,Apartamento,Casa Amarela,Imobiliaria,3,1,2,81,0,nenhum
+1466,Apartamento,Madalena,Imobiliaria,3,1,2,78,0,piscina e churrasqueira
+1467,Apartamento,Boa Viagem,Imobiliaria,4,3,3,155,0,piscina e sauna
+1468,Apartamento,Pina,Imobiliaria,4,2,2,120,0,nenhum
+1469,Apartamento,Prado,Imobiliaria,3,1,1,77,0,playground
+1470,Apartamento,Apipucos,Imobiliaria,4,4,4,158,0,playground e salao de festas
+1471,Apartamento,Boa Viagem,Imobiliaria,3,1,1,61,0,nenhum
+1472,Apartamento,Aflitos,Imobiliaria,4,1,1,170,0,copa e salao de festas
+1473,Apartamento,Boa Viagem,Imobiliaria,3,1,2,85,0,piscina e churrasqueira
+1474,Apartamento,Rosarinho,Imobiliaria,3,1,2,89,0,piscina e estacionamento visitantes
+1475,Apartamento,Pina,Imobiliaria,6,4,4,260,0,piscina e churrasqueira
+1476,Apartamento,Boa Viagem,Imobiliaria,4,2,2,130,0,piscina e churrasqueira
+1477,Apartamento,Imbiribeira,Imobiliaria,3,1,0,75,0,nenhum
+1478,Apartamento,Torreao,Imobiliaria,2,1,1,55,0,piscina e churrasqueira
+1479,Apartamento,Boa Viagem,Imobiliaria,3,1,2,65,0,salao de festas
+1480,Apartamento,Sto Amaro,Imobiliaria,2,1,1,57,0,piscina e churrasqueira
+1481,Apartamento,Imbiribeira,Imobiliaria,3,1,0,66,0,salao de festas
+1482,Apartamento,Iputinga,Imobiliaria,2,0,1,70,0,playground
+1483,Apartamento,Casa Amarela,Imobiliaria,3,1,2,84,0,piscina e sauna
+1484,Apartamento,Boa Viagem,Imobiliaria,3,3,2,177,0,nenhum
+1485,Apartamento,Madalena,Imobiliaria,3,1,2,96,0,churrasqueira e playground
+1486,Apartamento,Madalena,Imobiliaria,3,1,2,79,0,piscina e churrasqueira
+1487,Apartamento,Casa Amarela,Imobiliaria,3,1,2,67,0,salao de festas e salao de jogos
+1488,Apartamento,Rosarinho,Imobiliaria,2,1,2,56,0,piscina e churrasqueira
+1489,Apartamento,Parnamirim,Imobiliaria,3,1,2,106,0,piscina e sauna
+1490,Apartamento,Boa Viagem,Imobiliaria,4,3,0,226,20,nenhum
+1491,Apartamento,Rosarinho,Imobiliaria,4,2,2,113,0,piscina e campo de futebol
+1492,Apartamento,Imbiribeira,Imobiliaria,2,1,0,61,20,piscina
+1493,Casa,Derby,Pessoa Fisica,6,1,6,300,150,nenhum
+1494,Apartamento,Boa Viagem,Imobiliaria,3,3,2,120,0,piscina e churrasqueira
+1495,Apartamento,Cid Universitaria,Imobiliaria,2,1,2,53,0,piscina e playground
+1496,Apartamento,Boa Viagem,Imobiliaria,3,1,2,108,0,piscina e sauna
+1497,Apartamento,Boa Viagem,Imobiliaria,4,4,0,255,0,piscina e sauna
+1498,Apartamento,Casa Forte,Imobiliaria,3,1,1,68,0,piscina e churrasqueira
+1499,Apartamento,Paissandu,Imobiliaria,2,1,1,44,0,piscina e sauna
+1500,Apartamento,Torre,Imobiliaria,3,0,1,63,30,playground e salao de festas
+1501,Apartamento,Boa Viagem,Imobiliaria,3,1,1,102,0,piscina e playground
+1502,Apartamento,Espinheiro,Imobiliaria,4,2,2,170,0,estacionamento visitantes e salao de festas
+1503,Apartamento,Imbiribeira,Imobiliaria,4,4,3,170,0,piscina e churrasqueira
+1504,Apartamento,Monteiro,Imobiliaria,3,3,3,220,0,piscina e salao de festas
+1505,Apartamento,Casa Amarela,Imobiliaria,3,2,2,115,0,piscina e churrasqueira
+1506,Apartamento,Espinheiro,Imobiliaria,3,1,1,79,0,sauna e playground
+1507,Apartamento,Boa Viagem,Imobiliaria,3,0,1,116,69,salao de festas
+1508,Apartamento,Monteiro,Imobiliaria,5,2,3,297,136,sauna e playground
+1509,Apartamento,Espinheiro,Imobiliaria,3,1,1,105,0,estacionamento visitantes e playground
+1510,Apartamento,Boa Vista,Imobiliaria,4,0,0,208,0,piscina e sauna
+1511,Apartamento,Torre,Imobiliaria,3,1,1,63,0,piscina e churrasqueira
+1512,Apartamento,Madalena,Imobiliaria,4,2,3,584,0,piscina e churrasqueira
+1513,Apartamento,Boa Viagem,Imobiliaria,3,1,2,105,0,piscina e sauna
+1514,Apartamento,Sto Amaro,Imobiliaria,4,4,3,208,42,piscina e churrasqueira
+1515,Apartamento,Espinheiro,Imobiliaria,3,1,1,180,30,copa
+1516,Apartamento,Madalena,Imobiliaria,3,1,1,135,0,piscina e churrasqueira
+1517,Apartamento,Espinheiro,Imobiliaria,3,1,2,81,0,nenhum
+1518,Apartamento,Madalena,Imobiliaria,3,1,2,94,0,piscina
+1519,Apartamento,Gracas,Imobiliaria,2,0,1,82,0,piscina e playground
+1520,Apartamento,Arruda,Imobiliaria,2,0,1,62,0,nenhum
+1521,Apartamento,Gracas,Imobiliaria,1,0,1,33,0,piscina e churrasqueira
+1522,Apartamento,Setubal,Imobiliaria,5,1,2,95,0,piscina e sauna
+1523,Apartamento,Rosarinho,Imobiliaria,3,1,2,86,0,piscina e estacionamento visitantes
+1524,Apartamento,Boa Viagem,Imobiliaria,2,1,1,80,0,nenhum
+1525,Apartamento,Gracas,Imobiliaria,1,0,1,32,0,piscina e churrasqueira
+1526,Apartamento,Boa Viagem,Imobiliaria,1,1,0,26,0,piscina
+1527,Apartamento,Boa Viagem,Imobiliaria,3,1,2,81,0,piscina
+1528,Apartamento,Boa Viagem,Imobiliaria,2,1,1,55,0,nenhum
+1529,Apartamento,Boa Viagem,Imobiliaria,4,4,3,170,0,piscina e churrasqueira
+1530,Apartamento,Rosarinho,Imobiliaria,3,1,2,100,0,playground e salao de festas
+1531,Apartamento,Casa Forte,Imobiliaria,4,2,2,200,0,piscina e churrasqueira
+1532,Apartamento,Boa Viagem,Imobiliaria,4,4,4,250,0,piscina e churrasqueira
+1533,Apartamento,Boa Viagem,Imobiliaria,4,2,2,130,0,piscina e churrasqueira
+1534,Apartamento,Boa Viagem,Imobiliaria,2,0,1,71,0,churrasqueira
+1535,Apartamento,Madalena,Imobiliaria,3,1,1,57,0,nenhum
+1536,Apartamento,Aflitos,Imobiliaria,2,1,1,65,0,campo de futebol e sala de ginastica
+1537,Apartamento,Boa Viagem,Imobiliaria,4,4,4,470,0,piscina e churrasqueira
+1538,Apartamento,Boa Viagem,Imobiliaria,3,1,1,73,0,salao de festas
+1539,Apartamento,Boa Viagem,Imobiliaria,2,1,0,64,0,nenhum
+1540,Apartamento,Boa Viagem,Imobiliaria,3,2,2,120,0,nenhum
+1541,Apartamento,Boa Viagem,Imobiliaria,4,2,2,160,0,piscina e churrasqueira
+1542,Apartamento,Espinheiro,Imobiliaria,3,1,2,77,0,piscina e churrasqueira
+1543,Apartamento,Tamarineira,Imobiliaria,3,1,2,92,0,piscina e playground
+1544,Apartamento,Cordeiro,Imobiliaria,3,0,1,68,0,piscina e churrasqueira
+1545,Apartamento,Casa Amarela,Imobiliaria,3,1,2,86,0,piscina e copa
+1546,Apartamento,Espinheiro,Imobiliaria,2,1,1,57,0,piscina e copa
+1547,Apartamento,Sto Amaro,Imobiliaria,4,4,3,208,0,piscina e churrasqueira
+1548,Apartamento,Derby,Imobiliaria,3,1,2,84,0,piscina e playground
+1549,Apartamento,Casa Amarela,Imobiliaria,3,1,1,140,0,playground e salao de festas
+1550,Apartamento,Gracas,Imobiliaria,3,1,1,85,0,piscina e churrasqueira
+1551,Apartamento,Rosarinho,Imobiliaria,3,1,1,69,0,piscina e estacionamento visitantes
+1552,Casa,Agua Fria,Imobiliaria,3,1,2,85,0,piscina e churrasqueira
+1553,Apartamento,Boa Viagem,Imobiliaria,3,3,3,285,0,copa e salao de festas
+1554,Apartamento,Casa Forte,Imobiliaria,5,2,3,270,0,quadra poliesportiva e salao de festas
+1555,Apartamento,S Jose,Pessoa Fisica,3,3,3,248,0,piscina e frente para o mar
+1556,Apartamento,Varzea,Imobiliaria,3,1,1,80,0,nenhum
+1557,Apartamento,Boa Viagem,Imobiliaria,3,1,1,75,0,salao de festas
+1558,Apartamento,Madalena,Imobiliaria,4,2,2,110,0,piscina e playground
+1559,Apartamento,Pina,Imobiliaria,3,1,0,71,0,salao de festas
+1560,Apartamento,Parnamirim,Imobiliaria,3,1,1,77,0,piscina e churrasqueira
+1561,Apartamento,Espinheiro,Imobiliaria,3,1,2,110,0,nenhum
+1562,Apartamento,Casa Forte,Imobiliaria,2,1,2,85,0,piscina e salao de festas
+1563,Apartamento,Pina,Imobiliaria,3,1,1,72,0,nenhum
+1564,Apartamento,Boa Vista,Imobiliaria,3,1,1,69,0,piscina e churrasqueira
+1565,Apartamento,Boa Viagem,Imobiliaria,2,0,2,60,0,playground
+1566,Apartamento,Engenho do Meio,Imobiliaria,2,0,1,56,0,churrasqueira e estacionamento visitantes
+1567,Apartamento,Boa Viagem,Imobiliaria,1,1,1,28,0,piscina
+1568,Apartamento,Boa Viagem,Imobiliaria,3,1,2,95,0,piscina e churrasqueira
+1569,Apartamento,Boa Viagem,Imobiliaria,3,1,2,80,0,nenhum
+1570,Apartamento,Iputinga,Imobiliaria,2,1,1,67,0,playground e quadra poliesportiva
+1571,Apartamento,Torreao,Imobiliaria,3,1,1,69,0,piscina e playground
+1572,Apartamento,Gracas,Imobiliaria,3,1,2,188,30,esquina e salao de festas
+1573,Apartamento,Madalena,Imobiliaria,4,2,2,91,0,sala de ginastica e salao de festas
+1574,Apartamento,Espinheiro,Imobiliaria,3,1,2,104,0,piscina e churrasqueira
+1575,Apartamento,Casa Amarela,Imobiliaria,4,1,2,132,0,nenhum
+1576,Apartamento,Torre,Imobiliaria,3,1,1,116,0,playground
+1577,Apartamento,Madalena,Imobiliaria,3,1,1,70,0,piscina e sauna
+1578,Apartamento,Espinheiro,Imobiliaria,1,0,1,32,0,piscina e playground
+1579,Apartamento,Aflitos,Imobiliaria,3,1,1,138,0,esquina
+1580,Apartamento,Boa Viagem,Imobiliaria,2,1,1,56,0,piscina e sauna
+1581,Apartamento,Boa Viagem,Imobiliaria,3,1,2,115,0,nenhum
+1582,Apartamento,Pina,Imobiliaria,3,3,3,155,0,piscina e sauna
+1583,Apartamento,Gracas,Imobiliaria,2,1,1,46,0,sala de ginastica
+1584,Apartamento,Rosarinho,Imobiliaria,3,1,2,68,0,piscina e churrasqueira
+1585,Apartamento,Tejipio,Imobiliaria,3,1,1,70,0,playground
+1586,Apartamento,Prado,Imobiliaria,3,1,1,64,0,piscina e playground
+1587,Apartamento,Boa Viagem,Imobiliaria,2,1,1,53,0,piscina e churrasqueira
+1588,Apartamento,Boa Viagem,Imobiliaria,4,2,2,170,0,churrasqueira e copa
+1589,Apartamento,Rosarinho,Imobiliaria,3,1,1,108,29,nenhum
+1590,Apartamento,Caxanga,Imobiliaria,2,1,1,55,0,piscina e churrasqueira
+1591,Apartamento,Madalena,Imobiliaria,4,2,2,141,0,nenhum
+1592,Apartamento,Rosarinho,Imobiliaria,2,1,1,60,0,piscina e churrasqueira
+1593,Apartamento,Boa Viagem,Imobiliaria,2,1,1,63,0,piscina e churrasqueira
+1594,Apartamento,Madalena,Imobiliaria,2,1,1,63,0,nenhum
+1595,Apartamento,Boa Viagem,Imobiliaria,1,1,0,27,0,piscina
+1596,Apartamento,Boa Viagem,Imobiliaria,3,1,2,160,0,salao de festas
+1597,Apartamento,Boa Viagem,Imobiliaria,3,1,2,105,0,piscina e churrasqueira
+1598,Apartamento,Boa Viagem,Imobiliaria,4,3,2,136,0,piscina e sauna
+1599,Apartamento,Casa Forte,Imobiliaria,4,3,3,180,0,piscina e churrasqueira
+1600,Apartamento,Casa Amarela,Imobiliaria,3,1,1,61,37,piscina
+1601,Apartamento,Casa Forte,Imobiliaria,4,4,4,255,0,piscina e churrasqueira
+1602,Apartamento,Rosarinho,Imobiliaria,3,1,2,89,0,piscina e hidromassagem
+1603,Apartamento,Casa Amarela,Imobiliaria,2,1,1,50,0,piscina e salao de festas
+1604,Apartamento,Boa Viagem,Imobiliaria,4,1,2,220,0,copa e playground
+1605,Apartamento,Tejipio,Imobiliaria,3,1,0,56,0,nenhum
+1606,Apartamento,Boa Viagem,Imobiliaria,3,1,1,70,0,piscina e churrasqueira
+1607,Apartamento,Tamarineira,Imobiliaria,3,1,2,118,0,esquina e quadra poliesportiva
+1608,Apartamento,Casa Forte,Imobiliaria,3,1,2,129,0,piscina e salao de festas
+1609,Apartamento,Torre,Imobiliaria,3,1,2,87,0,piscina e salao de festas
+1610,Apartamento,Boa Viagem,Imobiliaria,3,2,2,114,0,playground e quadra poliesportiva
+1611,Apartamento,Parnamirim,Imobiliaria,3,2,2,122,33,piscina e children care
+1612,Apartamento,Madalena,Imobiliaria,3,2,2,91,0,piscina e salao de festas
+1613,Apartamento,Casa Amarela,Imobiliaria,2,0,1,80,0,nenhum
+1614,Apartamento,Boa Viagem,Imobiliaria,3,1,1,61,0,playground e salao de festas
+1615,Apartamento,Torreao,Imobiliaria,2,1,1,55,0,playground e salao de festas
+1616,Apartamento,Parnamirim,Imobiliaria,3,1,2,87,0,piscina e churrasqueira
+1617,Apartamento,Boa Viagem,Imobiliaria,4,4,2,374,0,frente para o mar e copa
+1618,Apartamento,Ilha do Retiro,Imobiliaria,4,2,3,113,0,piscina e playground
+1619,Apartamento,Parnamirim,Imobiliaria,4,4,3,226,0,nenhum
+1620,Apartamento,Encruzilhada,Imobiliaria,3,1,1,69,0,piscina e churrasqueira
+1621,Apartamento,Boa Viagem,Imobiliaria,3,1,2,86,0,piscina e sala de ginastica
+1622,Apartamento,Rosarinho,Imobiliaria,4,3,3,178,0,piscina e churrasqueira
+1623,Apartamento,Gracas,Imobiliaria,3,1,1,123,0,campo de futebol e salao de festas
+1624,Apartamento,Casa Forte,Imobiliaria,3,1,1,139,0,copa
+1625,Apartamento,Setubal,Imobiliaria,3,1,2,93,0,piscina e churrasqueira
+1626,Apartamento,Boa Vista,Imobiliaria,2,0,0,55,0,nenhum
+1627,Apartamento,Boa Viagem,Imobiliaria,4,2,2,160,30,playground e quadra poliesportiva
+1628,Apartamento,Torre,Imobiliaria,2,0,1,50,0,piscina e churrasqueira
+1629,Apartamento,Madalena,Imobiliaria,4,1,2,98,0,piscina e churrasqueira
+1630,Apartamento,Boa Viagem,Imobiliaria,3,1,1,122,0,nenhum
+1631,Apartamento,Boa Viagem,Imobiliaria,4,3,3,160,0,piscina e sauna
+1632,Apartamento,Boa Viagem,Imobiliaria,3,1,1,64,0,piscina e churrasqueira
+1633,Apartamento,Boa Viagem,Imobiliaria,3,2,1,162,0,frente para o mar e salao de festas
+1634,Apartamento,Madalena,Imobiliaria,3,1,1,110,0,piscina e churrasqueira
+1635,Apartamento,Boa Viagem,Imobiliaria,4,2,3,155,0,piscina e sauna
+1636,Apartamento,Encruzilhada,Imobiliaria,3,1,3,165,0,copa
+1637,Apartamento,Boa Viagem,Imobiliaria,2,1,2,63,0,piscina e churrasqueira
+1638,Apartamento,Casa Forte,Imobiliaria,4,4,4,550,200,piscina e churrasqueira
+1639,Apartamento,Boa Viagem,Imobiliaria,3,1,2,124,0,piscina e copa
+1640,Apartamento,Boa Viagem,Imobiliaria,3,3,2,142,0,piscina e churrasqueira
+1641,Apartamento,Boa Vista,Imobiliaria,3,1,1,68,0,salao de festas e salao de jogos
+1642,Apartamento,Boa Viagem,Imobiliaria,2,1,1,53,0,piscina
+1643,Casa,Poco da Panela,Imobiliaria,4,3,4,275,250,nenhum
+1644,Apartamento,Parnamirim,Imobiliaria,4,2,2,203,0,piscina e copa
+1645,Casa,Casa Amarela,Imobiliaria,5,3,3,357,143,piscina
+1646,Casa,Imbiribeira,Imobiliaria,3,1,2,217,203,piscina e churrasqueira
+1647,Apartamento,Rosarinho,Imobiliaria,3,2,2,132,0,piscina e playground
+1648,Apartamento,Aflitos,Imobiliaria,3,0,1,88,26,playground
+1649,Apartamento,Rosarinho,Imobiliaria,4,2,2,129,0,piscina e sauna
+1650,Apartamento,Torre,Imobiliaria,2,1,2,62,0,piscina e churrasqueira
+1651,Apartamento,Boa Viagem,Imobiliaria,4,2,2,125,0,piscina e playground
+1652,Apartamento,Boa Viagem,Imobiliaria,4,4,3,170,0,piscina e churrasqueira
+1653,Apartamento,Parnamirim,Imobiliaria,4,1,2,156,0,salao de festas
+1654,Apartamento,Boa Viagem,Imobiliaria,3,1,1,59,0,piscina e churrasqueira
+1655,Apartamento,Boa Viagem,Imobiliaria,4,4,3,170,0,piscina e churrasqueira
+1656,Apartamento,Parnamirim,Imobiliaria,2,2,2,110,0,piscina e churrasqueira
+1657,Apartamento,Boa Viagem,Imobiliaria,4,4,3,181,0,piscina e churrasqueira
+1658,Apartamento,Aflitos,Imobiliaria,3,1,2,80,0,salao de festas
+1659,Apartamento,Tamarineira,Imobiliaria,4,4,3,188,0,nenhum
+1660,Apartamento,Iputinga,Imobiliaria,3,1,1,75,0,piscina e estacionamento visitantes
+1661,Apartamento,Pina,Imobiliaria,2,1,1,58,0,piscina e salao de festas
+1662,Apartamento,Casa Forte,Imobiliaria,1,1,1,32,0,piscina e salao de festas
+1663,Apartamento,Boa Viagem,Imobiliaria,3,2,2,127,0,quadra poliesportiva e salao de festas
+1664,Apartamento,Boa Viagem,Imobiliaria,4,4,5,452,0,copa e quadra poliesportiva
+1665,Apartamento,Casa Forte,Imobiliaria,2,1,1,65,0,piscina e churrasqueira
+1666,Apartamento,Boa Viagem,Imobiliaria,2,1,2,58,0,piscina e churrasqueira
+1667,Apartamento,Boa Viagem,Imobiliaria,3,1,2,98,0,piscina e churrasqueira
+1668,Apartamento,Boa Viagem,Imobiliaria,2,1,1,53,0,piscina
+1669,Apartamento,Casa Amarela,Imobiliaria,3,1,2,72,30,piscina e playground
+1670,Apartamento,Torreao,Imobiliaria,3,1,2,104,0,piscina e churrasqueira
+1671,Apartamento,Imbiribeira,Imobiliaria,3,1,1,72,0,nenhum
+1672,Apartamento,Boa Vista,Imobiliaria,4,4,4,207,0,piscina e sala de ginastica
+1673,Apartamento,Boa Viagem,Imobiliaria,3,1,2,112,0,nenhum
+1674,Casa,Cordeiro,Imobiliaria,3,2,1,86,14,nenhum
+1675,Apartamento,Boa Viagem,Imobiliaria,4,4,3,183,0,piscina e churrasqueira
+1676,Apartamento,Boa Viagem,Imobiliaria,3,1,2,97,20,piscina e churrasqueira
+1677,Apartamento,Jaqueira,Imobiliaria,2,1,1,46,0,nenhum
+1678,Apartamento,Boa Viagem,Imobiliaria,2,1,1,53,0,churrasqueira e playground
+1679,Apartamento,Gracas,Imobiliaria,2,1,1,54,0,piscina e churrasqueira
+1680,Apartamento,Casa Amarela,Imobiliaria,3,1,1,67,0,piscina e playground
+1681,Apartamento,Sto Amaro,Imobiliaria,2,1,1,57,0,piscina e churrasqueira
+1682,Apartamento,Torre,Imobiliaria,3,1,2,89,0,piscina e churrasqueira
+1683,Apartamento,Rosarinho,Imobiliaria,3,1,1,72,0,piscina e estacionamento visitantes
+1684,Apartamento,Boa Viagem,Imobiliaria,2,1,1,50,0,piscina e sauna
+1685,Apartamento,Boa Viagem,Imobiliaria,4,2,2,147,0,nenhum
+1686,Apartamento,Gracas,Imobiliaria,3,1,2,97,0,piscina
+1687,Apartamento,Torreao,Imobiliaria,3,1,1,62,18,playground e salao de festas
+1688,Apartamento,Aflitos,Imobiliaria,3,1,2,74,0,piscina e churrasqueira
+1689,Apartamento,Casa Forte,Imobiliaria,3,0,0,68,0,nenhum
+1690,Apartamento,Jaqueira,Imobiliaria,4,3,0,140,0,nenhum
+1691,Apartamento,Boa Viagem,Imobiliaria,3,3,3,150,0,piscina e esquina
+1692,Apartamento,Pina,Imobiliaria,3,1,1,68,0,piscina e churrasqueira
+1693,Apartamento,Torre,Imobiliaria,2,1,1,44,0,piscina e sauna
+1694,Apartamento,Casa Forte,Imobiliaria,4,2,2,210,0,piscina e churrasqueira
+1695,Apartamento,Boa Viagem,Imobiliaria,3,1,2,95,0,nenhum
+1696,Apartamento,Casa Amarela,Imobiliaria,3,1,3,89,0,nenhum
+1697,Apartamento,Sto Amaro,Imobiliaria,2,1,1,57,0,piscina e churrasqueira
+1698,Apartamento,Jaqueira,Imobiliaria,1,1,1,40,0,estacionamento visitantes e salao de festas
+1699,Apartamento,Boa Viagem,Imobiliaria,4,1,1,141,0,nenhum
+1700,Apartamento,Boa Viagem,Imobiliaria,3,1,1,59,0,nenhum
+1701,Apartamento,Imbiribeira,Imobiliaria,3,1,2,89,0,piscina e churrasqueira
+1702,Apartamento,Apipucos,Imobiliaria,4,4,3,158,0,piscina e churrasqueira
+1703,Apartamento,Ilha do Retiro,Imobiliaria,3,1,2,104,0,copa e playground
+1704,Apartamento,Madalena,Imobiliaria,3,1,3,115,0,piscina e sauna
+1705,Apartamento,Casa Forte,Imobiliaria,4,2,3,242,82,copa
+1706,Apartamento,Gracas,Imobiliaria,4,1,2,155,0,piscina e churrasqueira
+1707,Apartamento,Setubal,Imobiliaria,3,1,1,100,10,churrasqueira
+1708,Apartamento,Torre,Imobiliaria,3,2,2,129,0,piscina e copa
+1709,Apartamento,Boa Viagem,Imobiliaria,2,0,1,60,0,salao de festas
+1710,Apartamento,Jaqueira,Imobiliaria,4,3,2,240,0,nenhum
+1711,Apartamento,Pina,Imobiliaria,3,1,0,67,0,piscina e playground
+1712,Apartamento,Campo Grande,Imobiliaria,3,1,1,76,0,salao de festas
+1713,Apartamento,Campo Grande,Imobiliaria,3,1,1,70,0,nenhum
+1714,Apartamento,Gracas,Imobiliaria,2,1,1,54,16,piscina e churrasqueira
+1715,Apartamento,Iputinga,Imobiliaria,3,1,3,70,0,nenhum
+1716,Apartamento,Iputinga,Imobiliaria,3,1,1,62,0,salao de festas
+1717,Apartamento,Boa Viagem,Imobiliaria,3,1,1,106,0,churrasqueira
+1718,Apartamento,Boa Viagem,Imobiliaria,2,1,1,58,0,piscina e churrasqueira
+1719,Apartamento,Ilha do Retiro,Imobiliaria,3,1,1,60,0,piscina e churrasqueira
+1720,Apartamento,Casa Amarela,Imobiliaria,2,1,1,60,0,piscina e sauna
+1721,Apartamento,Boa Viagem,Imobiliaria,3,1,1,60,0,piscina e salao de festas
+1722,Apartamento,Boa Viagem,Imobiliaria,4,2,2,129,0,nenhum
+1723,Apartamento,Boa Vista,Imobiliaria,2,0,1,57,0,playground e salao de festas
+1724,Apartamento,Espinheiro,Imobiliaria,3,1,2,105,0,estacionamento visitantes e playground
+1725,Apartamento,Apipucos,Imobiliaria,4,2,2,140,0,piscina e sauna
+1726,Apartamento,Encruzilhada,Imobiliaria,2,1,1,54,0,churrasqueira e sauna
+1727,Apartamento,Rosarinho,Imobiliaria,4,3,2,150,0,piscina e churrasqueira
+1728,Apartamento,Madalena,Imobiliaria,4,4,3,157,0,piscina e churrasqueira
+1729,Casa,Pina,Imobiliaria,6,4,3,360,40,nenhum
+1730,Apartamento,Setubal,Imobiliaria,2,0,1,55,0,nenhum
+1731,Apartamento,Boa Viagem,Imobiliaria,3,1,2,85,0,piscina e sauna
+1732,Apartamento,Madalena,Imobiliaria,3,1,2,92,0,piscina e churrasqueira
+1733,Apartamento,Torre,Imobiliaria,4,4,3,203,0,piscina e churrasqueira
+1734,Apartamento,Madalena,Imobiliaria,3,1,1,106,49,piscina e salao de festas
+1735,Casa,Parnamirim,Imobiliaria,4,1,5,320,130,copa
+1736,Apartamento,Gracas,Imobiliaria,3,1,2,84,0,piscina e churrasqueira
+1737,Apartamento,Casa Forte,Imobiliaria,3,1,2,85,0,piscina e churrasqueira
+1738,Apartamento,Boa Viagem,Imobiliaria,3,1,1,80,0,piscina e churrasqueira
+1739,Apartamento,Boa Viagem,Imobiliaria,3,1,2,94,0,piscina e churrasqueira
+1740,Apartamento,Tamarineira,Imobiliaria,3,1,1,61,0,piscina e churrasqueira
+1741,Apartamento,Boa Viagem,Imobiliaria,2,1,2,84,0,piscina e frente para o mar
+1742,Apartamento,Boa Viagem,Imobiliaria,4,2,2,134,0,piscina e churrasqueira
+1743,Apartamento,Madalena,Imobiliaria,4,4,3,203,0,piscina e churrasqueira
+1744,Apartamento,Imbiribeira,Imobiliaria,2,0,1,45,0,piscina e churrasqueira
+1745,Apartamento,Boa Viagem,Imobiliaria,1,1,1,53,0,sauna e copa
+1746,Apartamento,Madalena,Imobiliaria,3,2,2,69,0,piscina e churrasqueira
+1747,Apartamento,Boa Viagem,Imobiliaria,4,4,2,254,81,piscina e churrasqueira
+1748,Apartamento,Boa Viagem,Imobiliaria,3,1,1,98,0,nenhum
+1749,Apartamento,Apipucos,Imobiliaria,4,4,3,204,0,piscina e churrasqueira
+1750,Apartamento,Gracas,Imobiliaria,4,1,2,188,22,copa e salao de festas
+1751,Apartamento,Casa Amarela,Imobiliaria,3,1,2,88,0,piscina e playground
+1752,Apartamento,Campo Grande,Imobiliaria,2,0,1,72,0,salao de festas
+1753,Apartamento,Casa Forte,Imobiliaria,3,1,1,79,0,salao de festas
+1754,Apartamento,Boa Viagem,Imobiliaria,1,1,1,33,0,sauna e copa
+1755,Apartamento,Boa Viagem,Imobiliaria,2,1,1,61,0,sauna e playground
+1756,Apartamento,Cid Universitaria,Imobiliaria,2,0,1,65,0,estacionamento visitantes
+1757,Apartamento,Cordeiro,Imobiliaria,3,1,2,70,0,piscina e churrasqueira
+1758,Apartamento,Prado,Imobiliaria,3,1,1,67,0,piscina e churrasqueira
+1759,Apartamento,Pina,Imobiliaria,3,1,1,118,0,nenhum
+1760,Apartamento,Boa Viagem,Imobiliaria,4,1,2,200,0,nenhum
+1761,Apartamento,Boa Viagem,Imobiliaria,4,3,0,125,25,piscina
+1762,Apartamento,Boa Viagem,Imobiliaria,4,2,3,162,0,piscina e churrasqueira
+1763,Apartamento,Madalena,Imobiliaria,3,1,2,67,0,piscina e salao de festas
+1764,Apartamento,Casa Forte,Imobiliaria,4,4,3,298,0,piscina e churrasqueira
+1765,Apartamento,Boa Viagem,Imobiliaria,4,2,2,260,0,nenhum
+1766,Apartamento,Poco da Panela,Imobiliaria,3,1,2,87,0,piscina e playground
+1767,Apartamento,Boa Viagem,Imobiliaria,3,2,0,124,0,nenhum
+1768,Apartamento,Boa Viagem,Imobiliaria,3,1,0,92,0,piscina e churrasqueira
+1769,Apartamento,Boa Viagem,Imobiliaria,4,4,2,220,0,piscina e playground
+1770,Apartamento,Jaqueira,Imobiliaria,4,4,3,330,0,churrasqueira e salao de festas
+1771,Apartamento,Boa Viagem,Imobiliaria,3,1,1,150,0,piscina
+1772,Apartamento,Boa Viagem,Imobiliaria,3,1,2,91,0,piscina e playground
+1773,Apartamento,Boa Viagem,Imobiliaria,3,0,1,78,0,nenhum
+1774,Apartamento,Encruzilhada,Imobiliaria,3,1,1,64,0,piscina e campo de futebol
+1775,Apartamento,Tamarineira,Imobiliaria,3,1,1,62,0,piscina e churrasqueira
+1776,Apartamento,Torreao,Imobiliaria,4,4,3,188,0,sauna e playground
+1777,Apartamento,Rosarinho,Imobiliaria,3,1,0,76,0,playground e salao de festas
+1778,Apartamento,Espinheiro,Imobiliaria,4,4,3,300,0,churrasqueira e playground
+1779,Apartamento,Casa Forte,Imobiliaria,4,2,2,146,0,piscina e churrasqueira
+1780,Apartamento,Boa Viagem,Imobiliaria,1,0,1,25,0,piscina e churrasqueira
+1781,Apartamento,Pina,Imobiliaria,3,1,1,67,0,piscina e playground
+1782,Apartamento,Boa Viagem,Imobiliaria,3,2,1,70,0,churrasqueira e sauna
+1783,Apartamento,Boa Viagem,Imobiliaria,3,1,1,100,0,nenhum
+1784,Apartamento,Rosarinho,Imobiliaria,3,2,2,79,0,piscina e sauna
+1785,Apartamento,Boa Viagem,Imobiliaria,3,1,2,117,0,piscina e churrasqueira
+1786,Apartamento,Beira Rio,Imobiliaria,4,3,2,112,0,piscina e campo de futebol
+1787,Apartamento,Tamarineira,Imobiliaria,3,1,2,99,0,piscina e copa
+1788,Apartamento,Rosarinho,Imobiliaria,2,1,1,62,0,playground e salao de festas
+1789,Apartamento,Boa Viagem,Imobiliaria,4,2,2,304,0,piscina e churrasqueira
+1790,Apartamento,Aflitos,Imobiliaria,4,3,2,240,0,esquina e salao de festas
+1791,Apartamento,Boa Viagem,Imobiliaria,4,3,3,125,0,piscina e churrasqueira
+1792,Apartamento,Boa Viagem,Imobiliaria,4,3,2,122,22,piscina e churrasqueira
+1793,Casa,Torre,Imobiliaria,3,2,1,86,0,nenhum
+1794,Apartamento,Espinheiro,Imobiliaria,4,2,2,127,0,salao de festas
+1795,Apartamento,Cordeiro,Imobiliaria,2,1,1,62,0,piscina e churrasqueira
+1796,Apartamento,Boa Viagem,Imobiliaria,5,2,3,389,31,piscina e churrasqueira
+1797,Apartamento,Boa Viagem,Imobiliaria,4,4,3,457,0,frente para o mar e copa
+1798,Apartamento,Torre,Imobiliaria,3,1,1,85,0,piscina e frente para o mar
+1799,Casa,Sto Amaro,Imobiliaria,5,1,10,470,202,frente para o mar
+1800,Apartamento,Madalena,Imobiliaria,1,0,1,40,0,piscina e playground
+1801,Apartamento,Boa Viagem,Imobiliaria,3,1,2,120,0,nenhum
+1802,Apartamento,Boa Viagem,Imobiliaria,3,1,2,86,0,piscina e churrasqueira
+1803,Apartamento,Boa Viagem,Imobiliaria,3,3,2,113,0,piscina e sala de ginastica
+1804,Apartamento,Boa Viagem,Imobiliaria,4,2,3,210,0,frente para o mar e campo de futebol
+1805,Apartamento,Boa Viagem,Imobiliaria,3,1,1,88,32,nenhum
+1806,Apartamento,Madalena,Imobiliaria,3,1,2,91,0,piscina e playground
+1807,Apartamento,Casa Forte,Imobiliaria,4,2,2,107,0,piscina e churrasqueira
+1808,Apartamento,Boa Viagem,Imobiliaria,3,1,2,97,63,piscina e churrasqueira
+1809,Apartamento,Tamarineira,Imobiliaria,4,4,3,188,0,playground e salao de festas
+1810,Apartamento,Encruzilhada,Imobiliaria,2,1,1,51,0,piscina e churrasqueira
+1811,Apartamento,Boa Viagem,Imobiliaria,3,1,1,118,0,estacionamento visitantes e salao de festas
+1812,Apartamento,Encruzilhada,Imobiliaria,3,1,1,70,0,piscina e churrasqueira
+1813,Apartamento,Casa Amarela,Imobiliaria,4,2,2,129,0,piscina e sauna
+1814,Apartamento,Casa Amarela,Imobiliaria,3,1,1,80,0,piscina e children care
+1815,Apartamento,Gracas,Imobiliaria,2,1,2,54,0,piscina e churrasqueira
+1816,Apartamento,Torre,Imobiliaria,3,1,1,75,11,nenhum
+1817,Apartamento,Boa Viagem,Imobiliaria,3,1,1,96,0,piscina e churrasqueira
+1818,Apartamento,Madalena,Imobiliaria,3,1,2,93,30,playground e salao de festas
+1819,Apartamento,Derby,Imobiliaria,3,1,1,132,0,salao de festas
+1820,Apartamento,Madalena,Imobiliaria,2,1,1,62,0,piscina e sauna
+1821,Apartamento,Boa Vista,Imobiliaria,3,0,0,82,0,nenhum
+1822,Apartamento,Boa Viagem,Imobiliaria,3,1,1,120,0,salao de festas
+1823,Apartamento,Boa Viagem,Imobiliaria,2,1,1,75,0,piscina e salao de festas
+1824,Apartamento,Pina,Imobiliaria,4,3,2,152,0,piscina e sauna
+1825,Apartamento,Madalena,Imobiliaria,4,1,1,150,0,copa
+1826,Apartamento,Engenho do Meio,Imobiliaria,3,1,1,80,0,nenhum
+1827,Apartamento,Boa Viagem,Imobiliaria,2,1,1,72,0,sauna e copa
+1828,Apartamento,Boa Viagem,Imobiliaria,3,2,2,90,0,piscina e churrasqueira
+1829,Apartamento,Jaqueira,Imobiliaria,4,4,0,300,0,piscina e copa
+1830,Apartamento,Boa Viagem,Imobiliaria,4,2,2,150,20,piscina e churrasqueira
+1831,Apartamento,Casa Amarela,Imobiliaria,3,1,1,63,0,piscina e churrasqueira
+1832,Apartamento,Apipucos,Imobiliaria,4,4,4,200,0,nenhum
+1833,Apartamento,Madalena,Imobiliaria,4,4,3,153,0,piscina e churrasqueira
+1834,Apartamento,Pina,Imobiliaria,4,3,3,156,0,piscina e playground
+1835,Apartamento,Boa Viagem,Imobiliaria,2,0,1,45,0,piscina e churrasqueira
+1836,Apartamento,Torreao,Imobiliaria,2,1,1,55,0,piscina e churrasqueira
+1837,Apartamento,Boa Viagem,Imobiliaria,3,2,3,300,0,piscina e sauna
+1838,Apartamento,Boa Viagem,Imobiliaria,2,1,1,57,0,piscina e churrasqueira
+1839,Apartamento,Rosarinho,Imobiliaria,3,0,1,83,17,nenhum
+1840,Apartamento,Boa Viagem,Imobiliaria,3,1,2,210,0,frente para o mar e quadra poliesportiva
+1841,Apartamento,Boa Viagem,Imobiliaria,3,1,2,91,0,piscina e playground
+1842,Apartamento,Casa Amarela,Imobiliaria,2,1,1,41,0,piscina e churrasqueira
+1843,Apartamento,Madalena,Imobiliaria,3,1,1,61,0,piscina
+1844,Apartamento,Boa Viagem,Imobiliaria,3,1,1,133,0,frente para o mar
+1845,Apartamento,Cid Universitaria,Imobiliaria,3,1,1,62,0,salao de festas
+1846,Apartamento,Jaqueira,Imobiliaria,4,4,3,190,0,piscina e churrasqueira
+1847,Apartamento,Aflitos,Imobiliaria,3,1,1,70,0,piscina e salao de festas
+1848,Apartamento,Pina,Imobiliaria,4,2,2,124,0,piscina e copa
+1849,Apartamento,Boa Viagem,Imobiliaria,3,3,3,233,0,piscina e sauna
+1850,Apartamento,Tamarineira,Imobiliaria,3,0,1,72,0,playground e salao de festas
+1851,Apartamento,Parnamirim,Imobiliaria,3,0,1,70,30,piscina e sauna
+1852,Apartamento,Casa Amarela,Imobiliaria,3,1,2,94,0,playground e salao de festas
+1853,Apartamento,Boa Viagem,Imobiliaria,4,4,2,128,0,nenhum
+1854,Apartamento,Boa Viagem,Imobiliaria,3,1,0,71,0,piscina e churrasqueira
+1855,Apartamento,Casa Amarela,Imobiliaria,3,1,2,105,0,sauna e playground
+1856,Apartamento,Poco da Panela,Imobiliaria,3,2,2,108,0,piscina e playground
+1857,Apartamento,Pina,Imobiliaria,4,4,2,156,0,piscina e sauna
+1858,Apartamento,Cordeiro,Imobiliaria,2,1,2,70,0,churrasqueira
+1859,Apartamento,Boa Viagem,Imobiliaria,3,1,1,103,0,nenhum
+1860,Apartamento,Jaqueira,Imobiliaria,3,2,2,101,0,piscina e salao de festas
+1861,Apartamento,Boa Viagem,Imobiliaria,4,3,3,282,118,nenhum
+1862,Apartamento,Boa Viagem,Pessoa Fisica,3,2,2,130,0,piscina e churrasqueira
+1863,Apartamento,Iputinga,Imobiliaria,2,1,1,60,0,piscina
+1864,Apartamento,Gracas,Imobiliaria,3,1,1,74,0,nenhum
+1865,Apartamento,Pina,Imobiliaria,3,3,3,160,0,piscina e salao de festas
+1866,Apartamento,Boa Viagem,Imobiliaria,2,1,0,45,0,piscina e sala de ginastica
+1867,Apartamento,Engenho do Meio,Imobiliaria,3,2,1,90,0,esquina
+1868,Apartamento,Madalena,Imobiliaria,2,0,1,60,0,piscina e sauna
+1869,Apartamento,Casa Forte,Imobiliaria,4,3,3,241,0,piscina e churrasqueira
+1870,Apartamento,Boa Viagem,Imobiliaria,1,0,1,32,0,piscina e playground
+1871,Apartamento,Madalena,Imobiliaria,3,1,1,70,0,piscina e playground
+1872,Apartamento,Espinheiro,Imobiliaria,3,1,2,109,0,piscina e playground
+1873,Apartamento,Parnamirim,Imobiliaria,4,2,2,208,0,salao de festas
+1874,Apartamento,Monteiro,Imobiliaria,4,3,3,175,0,piscina e hidromassagem
+1875,Apartamento,Boa Viagem,Imobiliaria,3,2,1,126,0,nenhum
+1876,Apartamento,Boa Viagem,Imobiliaria,4,2,3,291,0,churrasqueira
+1877,Apartamento,Madalena,Imobiliaria,3,1,2,105,0,piscina
+1878,Apartamento,Boa Viagem,Imobiliaria,3,1,1,170,0,nenhum
+1879,Apartamento,Boa Viagem,Imobiliaria,4,3,3,125,0,nenhum
+1880,Apartamento,Jaqueira,Imobiliaria,5,1,4,300,0,piscina e salao de festas
+1881,Apartamento,Campo Grande,Imobiliaria,2,1,1,46,0,playground e salao de festas
+1882,Apartamento,Casa Amarela,Imobiliaria,3,1,2,67,0,playground e quadra poliesportiva
+1883,Casa,Boa Viagem,Imobiliaria,3,1,1,200,0,nenhum
+1884,Apartamento,Boa Viagem,Imobiliaria,4,2,2,146,0,piscina e playground
+1885,Apartamento,Espinheiro,Imobiliaria,3,1,1,133,0,copa
+1886,Apartamento,Recife,Imobiliaria,3,1,2,86,0,piscina e churrasqueira
+1887,Apartamento,Boa Viagem,Imobiliaria,4,2,2,122,0,nenhum
+1888,Apartamento,Boa Viagem,Imobiliaria,1,0,1,27,0,nenhum
+1889,Apartamento,Setubal,Imobiliaria,1,1,1,29,0,piscina e churrasqueira
+1890,Apartamento,Apipucos,Imobiliaria,4,3,2,140,0,piscina e churrasqueira
+1891,Apartamento,Casa Amarela,Imobiliaria,3,1,1,62,0,piscina e churrasqueira
+1892,Apartamento,Boa Viagem,Imobiliaria,3,1,2,99,0,piscina e churrasqueira
+1893,Apartamento,Iputinga,Imobiliaria,3,0,1,76,0,piscina e churrasqueira
+1894,Apartamento,Gracas,Imobiliaria,3,1,2,162,0,nenhum
+1895,Apartamento,Boa Viagem,Imobiliaria,3,0,2,89,0,piscina e churrasqueira
+1896,Apartamento,Poco da Panela,Imobiliaria,3,1,2,87,0,playground e sala de ginastica
+1897,Apartamento,Parnamirim,Imobiliaria,4,3,3,188,0,copa e playground
+1898,Apartamento,Apipucos,Imobiliaria,4,2,2,140,0,piscina e churrasqueira
+1899,Apartamento,Boa Viagem,Imobiliaria,3,2,2,146,0,piscina e churrasqueira
+1900,Apartamento,Boa Viagem,Imobiliaria,3,1,1,63,0,piscina e playground
+1901,Apartamento,Boa Viagem,Imobiliaria,3,1,1,91,0,nenhum
+1902,Apartamento,Boa Viagem,Imobiliaria,2,1,1,61,0,piscina e playground
+1903,Apartamento,Boa Viagem,Imobiliaria,4,4,3,181,0,piscina e copa
+1904,Apartamento,Madalena,Imobiliaria,3,1,2,85,0,piscina e churrasqueira
+1905,Apartamento,Boa Viagem,Imobiliaria,3,1,2,86,0,churrasqueira e sauna
+1906,Apartamento,Boa Viagem,Imobiliaria,3,1,2,111,0,nenhum
+1907,Apartamento,Aflitos,Imobiliaria,2,1,1,49,0,piscina e sauna
+1908,Apartamento,Boa Vista,Imobiliaria,4,4,4,208,0,piscina e churrasqueira
+1909,Apartamento,Rosarinho,Imobiliaria,4,4,2,137,0,piscina e churrasqueira
+1910,Apartamento,Poco da Panela,Imobiliaria,3,2,0,108,0,playground e sala de ginastica
+1911,Apartamento,Tamarineira,Imobiliaria,3,1,2,99,0,piscina e playground
+1912,Apartamento,Pina,Imobiliaria,3,1,2,84,0,piscina e playground
+1913,Apartamento,Gracas,Imobiliaria,2,0,1,50,0,nenhum
+1914,Apartamento,Boa Viagem,Imobiliaria,1,1,1,43,0,nenhum
+1915,Apartamento,Madalena,Imobiliaria,4,2,2,126,0,piscina e children care
+1916,Apartamento,Casa Amarela,Imobiliaria,3,2,2,110,0,piscina e copa
+1917,Apartamento,Boa Viagem,Imobiliaria,3,1,2,106,0,piscina e playground
+1918,Apartamento,Boa Viagem,Imobiliaria,3,1,0,113,20,nenhum
+1919,Apartamento,Boa Viagem,Imobiliaria,4,3,1,274,0,playground
+1920,Apartamento,Boa Vista,Imobiliaria,1,0,0,46,9,nenhum
+1921,Apartamento,Madalena,Imobiliaria,4,1,2,156,0,piscina e playground
+1922,Apartamento,Boa Viagem,Imobiliaria,4,3,3,144,118,frente para o mar e copa
+1923,Apartamento,Rosarinho,Imobiliaria,4,2,2,136,0,piscina e churrasqueira
+1924,Apartamento,Encruzilhada,Imobiliaria,3,1,2,75,0,piscina e churrasqueira
+1925,Apartamento,Boa Viagem,Imobiliaria,3,1,1,110,0,nenhum
+1926,Apartamento,Boa Viagem,Imobiliaria,4,4,2,185,0,piscina e sauna
+1927,Apartamento,Madalena,Imobiliaria,2,1,1,52,0,salao de festas e salao de jogos
+1928,Apartamento,Boa Viagem,Imobiliaria,2,0,1,50,0,piscina e salao de festas
+1929,Apartamento,Torre,Imobiliaria,3,1,2,87,0,piscina e children care
+1930,Apartamento,Casa Forte,Imobiliaria,4,4,3,234,0,piscina e churrasqueira
+1931,Apartamento,Monteiro,Imobiliaria,4,4,3,204,0,piscina e campo de futebol
+1932,Apartamento,Rosarinho,Imobiliaria,4,2,2,134,0,piscina e salao de festas
+1933,Apartamento,Madalena,Imobiliaria,3,1,2,67,0,piscina e esquina
+1934,Apartamento,Encruzilhada,Imobiliaria,2,1,1,54,0,salao de festas
+1935,Apartamento,Boa Viagem,Imobiliaria,3,1,1,66,0,piscina
+1936,Casa,Casa Amarela,Imobiliaria,7,2,4,950,0,nenhum
+1937,Apartamento,Rosarinho,Imobiliaria,3,1,2,84,0,piscina e churrasqueira
+1938,Apartamento,Boa Viagem,Imobiliaria,4,2,2,180,0,playground e salao de festas
+1939,Apartamento,Gracas,Imobiliaria,4,3,2,284,0,nenhum
+1940,Apartamento,Boa Viagem,Imobiliaria,2,1,1,61,0,piscina e churrasqueira
+1941,Apartamento,Boa Viagem,Imobiliaria,2,0,1,72,0,nenhum
+1942,Apartamento,Boa Viagem,Imobiliaria,2,1,0,45,0,piscina e campo de futebol
+1943,Apartamento,Rosarinho,Pessoa Fisica,4,3,2,150,0,piscina e churrasqueira
+1944,Apartamento,Boa Viagem,Imobiliaria,1,0,1,40,0,piscina e sauna
+1945,Apartamento,Tamarineira,Imobiliaria,3,1,1,62,22,piscina e estacionamento visitantes
+1946,Apartamento,Beira Rio,Imobiliaria,3,1,2,86,0,piscina e churrasqueira
+1947,Apartamento,Boa Viagem,Imobiliaria,3,3,2,163,0,frente para o mar e copa
+1948,Apartamento,Setubal,Imobiliaria,5,3,2,128,0,piscina e playground
+1949,Apartamento,Parnamirim,Imobiliaria,2,1,1,61,0,piscina e churrasqueira
+1950,Apartamento,Gracas,Imobiliaria,4,1,1,120,30,playground e quadra poliesportiva
+1951,Apartamento,Apipucos,Imobiliaria,2,1,2,85,0,piscina e playground
+1952,Apartamento,Madalena,Imobiliaria,3,1,2,89,0,piscina e churrasqueira
+1953,Apartamento,Espinheiro,Imobiliaria,3,1,1,135,0,nenhum
+1954,Apartamento,Boa Viagem,Imobiliaria,3,1,2,100,0,piscina e churrasqueira
+1955,Apartamento,Boa Viagem,Imobiliaria,1,1,1,43,0,playground e quadra poliesportiva
+1956,Apartamento,Casa Forte,Imobiliaria,3,1,2,80,0,playground e salao de festas
+1957,Apartamento,Cordeiro,Imobiliaria,2,1,1,55,0,piscina e churrasqueira
+1958,Apartamento,Torre,Imobiliaria,4,3,2,112,0,piscina e churrasqueira
+1959,Apartamento,Madalena,Imobiliaria,4,2,2,140,0,piscina e playground
+1960,Apartamento,Boa Viagem,Imobiliaria,2,1,1,84,0,salao de festas
+1961,Apartamento,Parnamirim,Imobiliaria,4,1,1,188,0,salao de festas
+1962,Apartamento,Gracas,Imobiliaria,3,1,2,110,15,piscina e churrasqueira
+1963,Apartamento,Torreao,Imobiliaria,2,1,1,56,0,sauna e playground
+1964,Apartamento,Iputinga,Imobiliaria,2,1,1,45,0,piscina e churrasqueira
+1965,Apartamento,Imbiribeira,Imobiliaria,2,0,1,45,0,piscina e playground
+1966,Apartamento,Boa Viagem,Imobiliaria,3,1,2,125,15,salao de festas
+1967,Apartamento,Boa Viagem,Imobiliaria,2,1,1,56,0,piscina e churrasqueira
+1968,Apartamento,Boa Viagem,Imobiliaria,4,3,2,158,0,piscina e campo de futebol
+1969,Apartamento,Boa Viagem,Imobiliaria,3,1,2,157,2461,piscina e playground
+1970,Apartamento,Boa Viagem,Imobiliaria,1,0,1,25,0,nenhum
+1971,Apartamento,Espinheiro,Imobiliaria,3,2,2,116,0,piscina e sauna
+1972,Apartamento,Madalena,Imobiliaria,3,1,2,86,0,copa e playground
+1973,Apartamento,Casa Amarela,Imobiliaria,3,1,2,76,0,piscina e churrasqueira
+1974,Apartamento,Boa Viagem,Imobiliaria,3,1,1,120,46,nenhum
+1975,Apartamento,Boa Viagem,Imobiliaria,4,2,2,147,0,piscina e churrasqueira
+1976,Apartamento,Boa Viagem,Imobiliaria,2,1,1,80,0,salao de festas e vestiario
+1977,Apartamento,Boa Viagem,Imobiliaria,1,0,1,30,0,piscina
+1978,Apartamento,Casa Amarela,Imobiliaria,3,1,1,72,0,piscina e churrasqueira
+1979,Apartamento,Ilha do Retiro,Imobiliaria,4,2,3,140,60,piscina e campo de futebol
+1980,Apartamento,Madalena,Pessoa Fisica,3,1,1,109,2,playground
+1981,Apartamento,Pina,Imobiliaria,3,3,3,155,0,piscina e sauna
+1982,Casa,Prado,Imobiliaria,4,1,2,200,40,copa
+1983,Apartamento,Boa Viagem,Imobiliaria,4,2,2,155,0,frente para o mar e copa
+1984,Apartamento,Boa Viagem,Imobiliaria,3,2,2,146,0,piscina e sauna
+1985,Apartamento,Boa Viagem,Imobiliaria,3,1,1,120,0,copa
+1986,Apartamento,Torre,Imobiliaria,2,1,1,52,0,playground e salao de festas
+1987,Apartamento,Boa Viagem,Imobiliaria,2,1,1,55,0,piscina e sauna
+1988,Apartamento,Casa Forte,Imobiliaria,3,2,2,140,0,piscina e campo de futebol
+1989,Apartamento,Torre,Imobiliaria,3,1,2,84,0,piscina e salao de festas
+1990,Apartamento,Madalena,Imobiliaria,4,2,2,175,35,piscina e estacionamento visitantes
+1991,Apartamento,Boa Vista,Imobiliaria,1,0,1,39,0,nenhum
+1992,Apartamento,Engenho do Meio,Imobiliaria,3,1,1,65,0,piscina e esquina
+1993,Apartamento,Tamarineira,Imobiliaria,3,0,1,74,0,nenhum
+1994,Apartamento,Boa Viagem,Imobiliaria,3,3,3,189,0,piscina e churrasqueira
+1995,Apartamento,Poco da Panela,Imobiliaria,2,1,2,100,0,nenhum
+1996,Apartamento,Madalena,Imobiliaria,3,1,1,90,0,nenhum
+1997,Apartamento,Boa Viagem,Imobiliaria,3,1,1,73,0,piscina e salao de festas
+1998,Apartamento,Torre,Imobiliaria,4,3,2,112,2810,piscina e frente para o mar
+1999,Apartamento,Encruzilhada,Imobiliaria,2,1,1,51,0,playground e sala de ginastica
